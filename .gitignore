@@ -25,3 +25,6 @@ var/
 *.log
 *.pot
 
+.DS_Store
+.cache
+
