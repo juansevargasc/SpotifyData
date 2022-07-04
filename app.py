@@ -2,10 +2,10 @@ from flask import Flask, request,  jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 
-#from artist import Artist
-
 # Init App
 app = Flask(__name__)
+
+# SETUP
 
 # Init Daabase
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://juansevargas:juansevargas@localhost/SpotifyService'
@@ -18,6 +18,8 @@ db = SQLAlchemy(app)
 # Init Marshmallow
 ma = Marshmallow(app)
 
+
+# MODELS
 class Artist(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(100))
@@ -40,14 +42,15 @@ artists_schema = ArtistSchema(many=True)
 
 
 
-# TESTING GET REQUEST
-# @app.route('/', methods=['GET'])
-# def get():
-#     return jsonify({'msg': 'Hello World'})
+#TESTING GET REQUEST
+@app.route('/ping', methods=['GET'])
+def get():
+    return jsonify({'msg': 'Hello World'})
 
+# ROUTES
 @app.route('/health')
 def health():
-    return "health"
+    return "health test"
 
 @app.route('/artist', methods=['POST'])
 def add_artist():
