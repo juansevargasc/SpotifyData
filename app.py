@@ -8,11 +8,11 @@ app = Flask(__name__)
 # SETUP
 
 # Init Daabase
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://juansevargas:juansevargas@localhost/SpotifyService'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://juansevargas:jimeno@localhost/SpotifyService'
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 app.secret_key = 'juansevargas'
 
-# Init DB
+ # Init DB
 db = SQLAlchemy(app)
 
 # Init Marshmallow
@@ -33,8 +33,9 @@ class Artist(db.Model):
 
 class ArtistSchema(ma.Schema):
     class Meta:
-        #fields = (Artist.id, Artist.name, Artist.url, Artist.followers)
         fields = ('id', 'name', 'url', 'followers')
+
+
 
 # Init Schema
 artist_schema = ArtistSchema()
@@ -50,7 +51,8 @@ def get():
 # ROUTES
 @app.route('/health')
 def health():
-    return "health test"
+    db.engine.execute('SELECT 1')
+    return ''
 
 @app.route('/artist', methods=['POST'])
 def add_artist():
