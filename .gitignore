@@ -2,7 +2,7 @@
 images/
 *.jpeg
 *.pdf
-*.png
+
 
 __pycache__/
 

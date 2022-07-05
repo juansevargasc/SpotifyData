@@ -6,9 +6,8 @@ from flask_marshmallow import Marshmallow
 app = Flask(__name__)
 
 # SETUP
-
 # Init Daabase
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://juansevargas:jimeno@localhost/SpotifyService'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://juansevargas:postgres@localhost/SpotifyService'
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 app.secret_key = 'juansevargas'
 
@@ -19,17 +18,22 @@ db = SQLAlchemy(app)
 ma = Marshmallow(app)
 
 
+
 # MODELS
 class Artist(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.String(200), primary_key=True)
     name = db.Column(db.String(100))
     url = db.Column(db.String(200))
     followers = db.Column(db.Integer)
 
-    def __init__(self, name, url, followers):
+
+    def __init__(self, id, name, url, followers):
+        self.id = id
         self.name = name
         self.url = url
         self.followers = followers
+
+
 
 class ArtistSchema(ma.Schema):
     class Meta:
@@ -37,45 +41,96 @@ class ArtistSchema(ma.Schema):
 
 
 
-# Init Schema
+
+
+
+# SCHEMAS
+# Init SchemaS
+
+# Artist
 artist_schema = ArtistSchema()
 artists_schema = ArtistSchema(many=True)
 
 
 
-#TESTING GET REQUEST
-@app.route('/ping', methods=['GET'])
-def get():
-    return jsonify({'msg': 'Hello World'})
+
 
 # ROUTES
-@app.route('/health')
-def health():
+# Health - ping tests
+@app.route('/ping')
+def ping_route():
     db.engine.execute('SELECT 1')
     return ''
 
-@app.route('/artist', methods=['POST'])
+# Testing get request
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'msg': 'Hello World'})
+
+# Artist
+# Create
+@app.route('/artists', methods=['POST'])
 def add_artist():
+    id = request.json['id']
     name = request.json['name']
     url = request.json['url']
     followers = request.json['followers']
 
-    new_artist = Artist(name, url, followers)
+    new_artist = Artist(id, name, url, followers)
 
     db.session.add(new_artist)
     db.session.commit()
 
     return artist_schema.jsonify(new_artist)
 
-@app.route('/artist', methods=['GET'])
-def get_products():
+# Read all
+@app.route('/artists', methods=['GET'])
+def get_artists():
     all_artists = Artist.query.all()
     result = artists_schema.dump(all_artists)
 
     return jsonify(result)
 
+# Read one
+@app.route('/artists/<id>', methods=['GET'])
+def get_artist(id):
+    artist = Artist.query.get(id)
+    return artist_schema.jsonify(artist)
 
+# Update one
+@app.route('/artists/<id>', methods=['PUT'])
+def update_artist(id):
+    # Get artist
+    artist = Artist.query.get(id)
+
+    name = request.json['name']
+    url = request.json['url']
+    followers = request.json['followers']
+
+    # Update python class
+    artist.name = name
+    artist.url = url
+    artist.followers = followers
+
+    # Update on DB
+    db.session.commit()
+
+    return artist_schema.jsonify(artist)
+
+# Delete one
+@app.route('/artists/<id>', methods=['DELETE'])
+def delete_artist(id):
+    # Get artist
+    artist = Artist.query.get(id)
+    # Delete that artist
+    db.session.delete(artist)
+
+    # Commit that change
+    db.session.commit()
+
+    return artist_schema.jsonify(artist)
 
 if __name__ == '__main__':
     app.run(debug=True)
     #db.create_all()
+    #db.drop_all()
