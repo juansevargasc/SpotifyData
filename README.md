@@ -21,3 +21,11 @@ pip install -r requirements.txt
 export FLASK_ENV=development
 export FLASK_APP=run.py
 ```
+
+### Database Migrations in Flask
+```python
+from application import *
+
+db.drop_all() # If there's updates on Columns or new models, it's necessary to drop the DB
+db.create_all() # It'll create the DB.
+```
