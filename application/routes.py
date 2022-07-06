@@ -1,59 +1,7 @@
-from flask import Flask, request,  jsonify
-from flask_sqlalchemy import SQLAlchemy
-from flask_marshmallow import Marshmallow
-
-# Init App
-app = Flask(__name__)
-
-# SETUP
-# Init Daabase
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://juansevargas:postgres@localhost/SpotifyService'
-app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
-app.secret_key = 'juansevargas'
-
- # Init DB
-db = SQLAlchemy(app)
-
-# Init Marshmallow
-ma = Marshmallow(app)
-
-
-
-# MODELS
-class Artist(db.Model):
-    id = db.Column(db.String(200), primary_key=True)
-    name = db.Column(db.String(100))
-    url = db.Column(db.String(200))
-    followers = db.Column(db.Integer)
-
-
-    def __init__(self, id, name, url, followers):
-        self.id = id
-        self.name = name
-        self.url = url
-        self.followers = followers
-
-
-
-class ArtistSchema(ma.Schema):
-    class Meta:
-        fields = ('id', 'name', 'url', 'followers')
-
-
-
-
-
-
-# SCHEMAS
-# Init SchemaS
-
-# Artist
-artist_schema = ArtistSchema()
-artists_schema = ArtistSchema(many=True)
-
-
-
-
+from application import app
+from flask import jsonify, request
+from application.spotipy_methods import *
+from application.models import *
 
 # ROUTES
 # Health - ping tests
@@ -129,8 +77,3 @@ def delete_artist(id):
     db.session.commit()
 
     return artist_schema.jsonify(artist)
-
-if __name__ == '__main__':
-    app.run(debug=True)
-    #db.create_all()
-    #db.drop_all()

@@ -15,3 +15,9 @@ pip freeze > requirements.txt
 # install requirements from requirements.txt
 pip install -r requirements.txt
 ```
+
+## Environment Variables - Flask
+```bash
+export FLASK_ENV=development
+export FLASK_APP=run.py
+```

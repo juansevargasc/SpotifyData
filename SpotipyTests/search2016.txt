@@ -1,0 +1,1000 @@
+0, Childish Gambino, Me and Your Mama, 31tf1qEai5o5f4r66Kd0pU, 85
+1, Otmar Eros, Year 2016:, Pt. 4, 1sUxW2zAmXA7lXHC8Dxu4s, 25
+2, Childish Gambino, Redbone, 0wXuerDYiBnERgIpbb3JBR, 84
+3, David Bowie, Golden Years - 2016 Remaster, 4JRem7xHp2l0kmUvt9zCKu, 64
+4, Kanye West, Father Stretch My Hands Pt. 1, 4KW1lqgSr8TKrvBII0Brf8, 82
+5, Otmar Eros, Year 2016:, Pt. 1, 48Mk9nvXiHZ9eSDqkX8sSZ, 21
+6, The Weeknd, Die For You, 2Ch7LmS7r2Gy2kc64wv3Bz, 84
+7, The Cars, Good Times Roll - 2016 Remaster, 0nFKHCf1Ibij8m370l2KlZ, 55
+8, Drake, One Dance, 1zi7xx7UVEFkmKfv06H8x0, 86
+9, Otmar Eros, Year 2016:, Pt. 2, 3DfKQFbKLYCnzluGint477, 20
+10, The Weeknd, Starboy, 7MXVkk9YMctZqd1Srtv4MB, 86
+11, Twisted Sister, We're Not Gonna Take It - 2016 Remaster, 4wXcpkyBWFnM4FbVSC17HN, 51
+12, Panic! At The Disco, House of Memories, 2DgdHcjWmO3qd50RzuBLgZ, 88
+13, Faith No More, Ashes to Ashes - 2016 Remaster, 0tZ9qh1m1NGP6rzSf57PGO, 55
+14, Vacations, Young, 1KIJclzEbNhSVw8tiHPWwE, 83
+15, Twisted Sister, I Wanna Rock - 2016 Remaster, 62RWY8Qy1dY0D58OqVgekR, 48
+16, Post Malone, Congratulations, 3a1lNhkSLSkpJE4MSHpDu9, 83
+17, Faith No More, Last Cup of Sorrow - 2016 Remaster, 0igpADygusN3CM5nkJfmis, 45
+18, Travis Scott, goosebumps, 6gBFPUFcJLzWGx4lenP6h2, 84
+19, Faith No More, Stripsearch - 2016 Remaster, 0LErw54mr0L2fQDR8DMLh2, 40
+20, Joy Again, Looking Out for You, 3jfZ9M23l0L7RxzYMTgBTv, 80
+21, Anthony Rosenthal, Year of the Child, 0guOk6nbnaL2owQc8M4h5k, 32
+22, Bruno Mars, That's What I Like, 0KKkJNfGyhkQ5aFogxQAPU, 84
+23, LADYBABY, Nippon Manju, 06NEuecnoNSQxDC3lfHpyy, 42
+24, A Boogie Wit da Hoodie, My Shit, 5uQOauh47VFt3B2kV9kRXw, 77
+25, Pink Floyd, See Emily Play - 2016 Remastered Version, 5JubSv0sa8CKjAslCSH27S, 33
+26, The Lumineers, Ophelia, 3d8y0t70g7hw2FOWl9Z4Fm, 76
+27, Amanda Crow, 7-Years - Piano Version, 6lLbXngX2Vnm9UXfY4T4iW, 34
+28, Frank Ocean, Pink + White, 3xKsf9qdS1CyvXSMEid6g8, 80
+29, Anthem Lights, Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k, 67HVK0b38v1VAWIx4F2Avx, 33
+30, The Chainsmokers, Closer, 7BKLCZ1jbUBVqRi2FVlTVw, 85
+31, Pink Floyd, Arnold Layne - 2016 Remastered Version, 7e0kMg1GkucIAFJcUyRWVh, 32
+32, Frank Ocean, Nights, 7eqoqGkKwgOaWNNHx90uEZ, 79
+33, David Bowie, Golden Years - 2016 Remaster, 5oR2dGPNuNJ3ApZjQ2zUwN, 25
+34, Post Malone, I Fall Apart, 75ZvA4QfFiZvzhj2xkaWAh, 80
+35, Faith No More, This Guy's in Love With You - Live; I Started a Joke B-Side; 2016 Remaster, 5cbGCnY1CzBe3Mkqn4SkjI, 34
+36, James Arthur, Say You Won't Let Go, 5uCax9HTNlzGybIStD3vDh, 84
+37, Vitamin String Quartet, 7 Years, 1Fjw43JHGvAHPAm2Yozi4Z, 26
+38, Rihanna, Needed Me, 4pAl7FkDMNBsjykPXo91B3, 81
+39, Faith No More, Helpless - 2016 Remaster, 7xUzsJCfByUAjEkoc98w02, 29
+40, Frank Ocean, Ivy, 2ZWlPOoWh0626oTaHrnl2a, 79
+41, LADYBABY, Ageage money Ochingin Daisakusen, 5q3v9R8RBuwZb4zRmyqOob, 33
+42, The Weeknd, Die For You, 2LBqCSwhJGcFQeTHMVGwy3, 81
+43, Anthem Lights, “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”, 1URwTmAUBLtmA3MWSPiZaD, 23
+44, A Boogie Wit da Hoodie, Still Think About You, 2FTeQQ5Rg9tBpgpTF5mnhE, 76
+45, The Cars, Moving in Stereo - 2016 Remaster, 2jSO4diPw8lkJJJmVOylDB, 19
+46, Ricky Montgomery, Mr Loverman, 2IVsRhKrx8hlQBOWy4qebo, 80
+47, Subtact, What It's Like - 2016, 4Obp3VpMq0NX0esBXPx63B, 21
+48, Rihanna, Love On The Brain, 5oO3drDxtziYU2H1X23ZIp, 82
+49, Faith No More, Collision - 2016 Remaster, 7DF3JhxlwwVcFSzMpEXrwI, 26
+0, Drake, Feel No Ways, 3cjF2OFRmip8spwZYQRKxP, 77
+1, Faith No More, Mouth to Mouth - 2016 Remaster, 7dGwu7gkpNJ8TJuHfV0aC3, 25
+2, Lil Uzi Vert, Money Longer, 0B8QzDH7YWih85V5SEMnyJ, 75
+3, Faith No More, Naked in Front of the Computer - 2016 Remaster, 0x4QNK9QwkGgTEgNcxQaX9, 26
+4, The Weeknd, Stargirl Interlude, 4EDijkJdHBZZ0GwJ12iTAj, 80
+5, Pink Floyd, Point Me at the Sky - 2016 Remastered Version, 3fw1A4JBGGbkN45tgo7Uwc, 21
+6, Ricky Montgomery, Line Without a Hook, 5NvOZCjZaGGGL597exlQWv, 83
+7, Faith No More, She Loves Me Not - 2016 Remaster, 5bTFekuZTjY3bmscs7qraY, 26
+8, $uicideboy$, Antarctica, 5UGAXwbA17bUC0K9uquGY2, 76
+9, The Cars, Bye Bye Love - 2016 Remaster, 25DfywJtmyCBExnWQXje42, 17
+10, Lil Peep, white tee, 6KjkgYu4mjsMVYy4aCzyw6, 77
+11, Emerson, Lake & Palmer, Tarkus - i. Eruption, ii. Stones of Years' iii. Iconoclast, iv. Mass, v. Manticore, vi. Battlefield (including Epitaph), vii. Aquatarkus; Live 1974; 2016 - Remaster, 3hE8HEGRvRBrCKawtCoXNo, 24
+12, Post Malone, White Iverson, 6eT7xZZlB2mwyzJ2sUKG6w, 77
+13, Quadeca, 2016 Was a Bad Year, 1V9TpAPBg0O50TTdFIYgtF, 16
+14, Rob $tone, Chill Bill (feat. J. Davi$ & Spooks), 5uDASfU19gDxSjW8cnCaBp, 77
+15, Pink Floyd, Paintbox - 2016 Remastered Version, 5ckyvPaJPqcNLnKbZ42HN5, 21
+16, Jon Pardi, Heartache On The Dance Floor, 0w3Q14i073jLoew1hgJkwD, 73
+17, The Cars, Magic - 2016 Remaster, 3CKG5I7MnDL45BvK7dQMr4, 17
+18, Jon Pardi, Head Over Boots, 4ly1QBXEwYoDmje9rmEgC4, 74
+19, Faith No More, Paths of Glory - 2016 Remaster, 38ij4s9GK1UZo0ydLXES1U, 24
+20, Lil Uzi Vert, Erase Your Social, 4uhvMW7ly7tJil31YYscAN, 74
+21, Pink Floyd, Childhood's End - 2016 Remix, 4ko0fuvgg0JcnEeT3LemUG, 20
+22, Jon Pardi, Dirt On My Boots, 7f08qp3HROTkfrtNpiYGGo, 74
+23, The Cars, Just What I Needed - 2016 Remaster, 52EYuOnNj7ZYoqGvKzy2Sq, 18
+24, Justin Timberlake, CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS"), 1WkMMavIMc4JZ8cfMmxHkI, 74
+25, The Cars, Since You're Gone - 2016 Remaster, 57nr73EkAwjePxxIduQIcj, 17
+26, Post Malone, Go Flex, 5yuShbu70mtHXY0yLzCQLQ, 78
+27, Pink Floyd, Stay - 2016 Remix, 3S6YtqDA1xpJaAo52tCiJi, 19
+28, Frank Ocean, White Ferrari, 2LMkwUfqC6S6s6qDVlEuzV, 77
+29, Iron Maiden, Wasted Years - Live at HSBC Arena, Rio De Janeiro, Brazil - 17th March 2016, 1O1Uoo4koaET5gcvia46HU, 14
+30, Bruno Mars, 24K Magic, 6b8Be6ljOzmkOmFslEb23P, 79
+31, The Cars, My Best Friend's Girl - 2016 Remaster, 0GI85i8IJcF7eyJiE9pmAi, 18
+32, Mild High Club, Homage, 7DcJ6fEBb7BaKuYKTwiDxK, 79
+33, Twisted Sister, I'll Never Grow Up, Now! - 2016 Remaster, 37P2RVDtJD4XCqmKvBaf9Z, 23
+34, Daniel Caesar, Japanese Denim, 1boXOL0ua7N2iCOUVI1p9F, 77
+35, The Cars, You're All I've Got Tonight - 2016 Remaster, 7sLKSmN3Z11sa2Z4BBhT7f, 16
+36, Kane Brown, What Ifs (feat. Lauren Alaina), 7zVCrzzEJU7u24sbJPXA5W, 73
+37, Faith No More, Got That Feeling - 2016 Remaster, 0CQPY2fB0LrMDKapqLrrZo, 23
+38, DNCE, Cake By The Ocean, 76hfruVvmfQbw0eYn1nmeC, 82
+39, Bonnie Raitt, Runaway - 2008 Remaster, 59i8UzPSslEND0P0mmoJgq, 23
+40, Twenty One Pilots, Heathens, 6i0V12jOa3mr6uu4WYhUBr, 81
+41, The Cars, Let's Go - 2016 Remaster, 4SxdKhmNMs1fFYtM6u4gwu, 16
+42, Jon Pardi, Night Shift, 0bPnT6i9H1p8Vd85GS6Z7I, 73
+43, Pink Floyd, Matilda Mother (2010 Mix) [2016 Remastered Version], 4F8rhaZsjJtlnS2tJVtmfc, 20
+44, Post Malone, Feeling Whitney, 35r28RDot7nPE7y9K9H7l0, 76
+45, Pink Floyd, Free Four - 2016 Remix, 61jOxQHqEGrI13wMBlC4Fd, 18
+46, Rihanna, Woo, 3HQcsqRjRdruUjkbDSgmVF, 78
+47, The Cars, Shake It Up - 2016 Remaster, 3aPF4m2KqVPzE5QlqVyfQ1, 16
+48, Drake, Hotline Bling, 0wwPcA6wtMf6HUMpIRdeP7, 79
+49, Twisted Sister, The Price - 2016 Remaster, 39kXiFzGB6YauVIc8q5ojW, 22
+0, A Boogie Wit da Hoodie, Jungle, 5uZm7EFtP5aoTJvx5gv9Xf, 74
+1, Bonnie Raitt, Angel from Montgomery - 2008 Remaster, 0Vr9LVtbwZQi0EvyhIdRfu, 22
+2, Lukas Graham, 7 Years, 5kqIPrATaCc2LqxVWzQGbk, 80
+3, LADYBABY, Renge Chance!, 52OVS4atVZ4l45pUXUJ39Z, 26
+4, Auli'i Cravalho, How Far I'll Go, 6mb6lVLNrcUgLnEN8QnDJd, 74
+5, Stratovarius, Years Go By - Remastered 2016, 1ILE0PIo6qoRYo0DhdLggi, 12
+6, Calvin Harris, This Is What You Came For (feat. Rihanna), 0azC730Exh71aQlOt9Zj3y, 81
+7, The Cars, You Might Think - 2016 Remaster, 7iaP0PHEhEudPlCEOGhD1O, 16
+8, Rae Sremmurd, Swang, 6mapJIPnQ23RTAevUoE0DL, 75
+9, The Cars, Drive - 2016 Remaster, 5uA5pF0SMZFJxiQwe0PI9D, 18
+10, J. Cole, Neighbors, 0utlOiJy2weVl9WTkcEWHy, 74
+11, The Cars, It's All I Can Do - 2016 Remaster, 4tggVN7VXweeq0uNoIuHDe, 14
+12, Sia, Unstoppable, 1yvMUkIOTeUNtNWlWRgANS, 81
+13, Faith No More, Pristina - 2016 Remaster, 0zuRIyeLkmCnAEwFI3ONLv, 22
+14, Steve Lacy, Some, 4riDfclV7kPDT9D58FpmHd, 74
+15, The O'Neill Brothers Group, 7 Years (Instrumental Version), 2D2MTMBYZP3LTjbBSE5Yw0, 18
+16, Kanye West, Waves, 3nAq2hCr1oWsIU54tS98pL, 74
+17, Johann Strauss II, Auf der Jagd, Polka schnell, Op. 373, 05CIuBePrsBrh01uaMGxKi, 25
+18, Dwayne Johnson, You're Welcome, 6U4VqEHy4n5VeiH4pQPL24, 74
+19, Bonnie Raitt, Love Has No Pride - 2008 Remaster, 7rgQSJNYeoC19rWqJZzOSX, 20
+20, Florida Georgia Line, May We All, 498ZVInMGDkmmNVpSWqHiZ, 71
+21, Akala, Comedy, Tragedy, History - 2016 Mix, 6sYwjCNApB0liajsR0An9s, 30
+22, Rae Sremmurd, Black Beatles, 6fujklziTHa8uoM5OQSfIo, 76
+23, The Cars, All Mixed Up - 2016 Remaster, 6Ez8qXXQTnv8v0xSpepujl, 14
+24, Frank Ocean, Self Control, 5GUYJTQap5F3RDQiCOJhrS, 75
+25, DJ Fleg, New Horns, 53MNAutL6lTaqKcKIUwx9j, 36
+26, Future, Low Life (feat. The Weeknd), 7EiZI6JVHllARrX9PUvAdX, 74
+27, Otmar Eros, Year 2016:, Pt. 3, 3S46mecgkRwH4nOuJeBtWj, 14
+28, Cuco, Lover Is a Day, 76tGvMdmFKuiMew33ZNNA9, 75
+29, Pink Floyd, Careful with That Axe, Eugene (Single Version) [2016 Remastered Version], 7KLXPJGZN0ieeO4jh0bAeO, 19
+30, Mitski, I Bet on Losing Dogs, 2Co0IjcLTSHMtodwD4gzfg, 76
+31, Champion, Next Year - Remastered 2016, 4Sa05tMhXcvTJp9kwMW0rP, 11
+32, The Weeknd, I Feel It Coming, 3dhjNA0jGA8vHBQ1VdD6vV, 80
+33, Faith No More, Home Sick Home - 2016 Remaster, 7zXwJ8MUUaCQe2rOUxP36w, 21
+34, Rachel Platten, Fight Song, 37f4ITSlgPX81ad2EvmVQr, 78
+35, Akala, Carried Away - 2016 Mix, 6Zq8gvh20SvtdAx8nU1uP1, 30
+36, James Arthur, Train Wreck, 55Am8neGJkdj2ADaM3aw5H, 80
+37, Bonnie Raitt, Since I Fell for You - 2008 Remaster, 6prgN5TkiDU0CQSeg2jb9c, 18
+38, The Lumineers, Sleep On The Floor, 5MMZJtHOiH1RmQSSe3DJdg, 71
+39, Muzik 4 Machines, Sell Like Mean Spirit - Nirvana Live Remix, 2iJCOYjfKD8soun0Oxjm2Q, 21
+40, The Lumineers, Cleopatra, 2ToW7zhGCrVrLU4fiKj9U1, 70
+41, The Sleepers RecordZ, Nasty Lovers, 4dO8yp8F3d9wdma5rQS7wk, 20
+42, Mac Miller, Congratulations (feat. Bilal), 1OubIZ0ARYCUq5kceYUQiO, 75
+43, Frequencerz, Die Hards Only (Q-BASE Anthem 2016) - Edit, 7CJjDYKkQyZbsmYtwCFTBZ, 38
+44, Florida Georgia Line, H.O.L.Y., 0BCy325UZyR9z0t0uxwn2N, 71
+45, The Cars, Dangerous Type - 2016 Remaster, 4zFvGwtKEWzPIlGvUdvAkH, 12
+46, 21 Savage, No Heart, 4gmmRb6bZJffOOiww1JGTO, 73
+47, The Cars, Candy-O - 2016 Remaster, 6cvHuZKlAXWlPpsrKGIGXx, 13
+48, Mike Posner, I Took A Pill In Ibiza - Seeb Remix, 1MtUq6Wp1eQ8PC6BbPCj8P, 73
+49, Kit Chan, Home, 1vo8399T9sWFZ9vbrEcTL5, 32
+0, Ariana Grande, Into You, 63y6xWR4gXz7bnUGOk8iI6, 70
+1, LADYBABY, C'est si bon Kibun, 1o0KRodlb9q4ImI7Err5Ie, 24
+2, Tory Lanez, Say It, 2Gyc6e2cLxA5hoX1NOvYnU, 74
+3, Bonnie Raitt, Too Long at the Fair - 2008 Remaster, 4OXyLyLXUXuupuxL0NUWpg, 16
+4, The Chainsmokers, Don't Let Me Down, 1i1fxkWeaMmKEB4T7zqbzK, 80
+5, Twisted Sister, Burn in Hell - 2016 Remaster, 4GRekpzsyPkndQJi7tlsts, 17
+6, J. Cole, Deja Vu, 6I6NX6tjGsxFAsIfGzY9lJ, 72
+7, Faith No More, Last Cup of Sorrow - Roli Mosimann Mix; Last Cup of Sorrow B-Side; 2016 Remaster, 7N1DlKOtAF6V0P84ysHnnu, 20
+8, KYLE, iSpy (feat. Lil Yachty), 2EEeOnHehOozLq4aS0n6SL, 73
+9, PNAU, Chameleon - LDRU Remix, 6UMU8vyagomkwREcLwdF9n, 16
+10, Kevin Gates, Really Really, 10I3CmmwT0BkOVhduDy53o, 70
+11, Faith No More, Ashes to Ashes - Hardknox Alternative Mix; 2016 Remaster, 1jreSJx7TwAjD1bVE1kkiA, 19
+12, Glass Animals, The Other Side Of Paradise, 0rRjGruFonCGOt0S5zAJNQ, 74
+13, Faith No More, Pristina - Billy Gould Mix; Last Cup of Sorrow B-Side; 2016 Remaster, 2N7Q8cxilunKU3Ge6ogTCL, 19
+14, Cody Johnson, With You I Am, 34SQ0QfLSR316d8KL2zkuZ, 69
+15, Michalis Koumbios, Nymos, 1q4iiK9xxBQV0HyX0Pgbxb, 28
+16, PARTYNEXTDOOR, Come and See Me (feat. Drake), 1wZqJM5FGDEl3FjHDxDyQd, 73
+17, The Cars, Touch and Go - 2016 Remaster, 6gbgxUnGM8vYelxPmLtR9H, 12
+18, Drake, Too Good, 3BtuIIrQlkujKPuWF2B85z, 75
+19, Coone, D.W.X. (10 Years Dirty Workz Mix), 4q7NRYgOTVN0ZOPrbqEAk7, 36
+20, DJ Snake, Let Me Love You, 0lYBSQXN6rCTvUZvg9S0lU, 83
+21, The Cars, Double Life - 2016 Remaster, 452nI0qyg6nrojdldAwlnN, 10
+22, Charlie Puth, We Don't Talk Anymore (feat. Selena Gomez), 37FXw5QGFN7uwwsLy8uAc0, 70
+23, Bonnie Raitt, I Feel the Same - 2008 Remaster, 5SEKc1hvKEAp45iSunWQxT, 15
+24, Beach Weather, Sex, Drugs, Etc., 7DbdUf8aHSYoliSjO6LZv6, 80
+25, The Cars, Don't Cha Stop - 2016 Remaster, 1cLEfIZNM1RuyWgqmJ8r4m, 10
+26, Rex Orange County, Corduroy Dreams, 02tvc9CFnTyHuSRlGeNv9w, 73
+27, Bonnie Raitt, You've Been in Love Too Long - 2008 Remaster, 0oVZwB3tecdb1KUxhGvunw, 15
+28, Frank Ocean, Godspeed, 34xTFwjPQ1dC6uJmleno7x, 74
+29, Faith No More, The Big Kahuna - Ashes to Ashes B-Side; 2016 Remaster, 00mMoFjWJs7IMCvGW5tjic, 17
+30, The Weeknd, Stargirl Interlude, 5gDWsRxpJ2lZAffh5p7K0w, 75
+31, Faith No More, Light up and Let Go - Ashes to Ashes B-Side; 2016 Remaster, 4xjTSci9xaqmpTagOYmJmB, 17
+32, Drake, Controlla, 3O8NlPh2LByMU9lSRSHedm, 74
+33, Bonnie Raitt, I Ain't Blue - 2008 Remaster, 17FxU4NcS8S84r9PGsCIBt, 15
+34, Nebu Kiniza, Gassed Up, 6JjEVlMkfHWMeYavkEYzNO, 72
+35, Faith No More, She Loves Me Not - Spinna Main Mix; Japan B-Side; 2016 Remaster, 2Zese1LRCpP9iJggWo9dGo, 17
+36, 21 Savage, X (feat. Future), 6fwdbPMwP1zVStm8FybmkO, 72
+37, David Bowie, Golden Years - 2016 Remaster, 4cWnkZRBaWVCQSWKAiv2ku, 11
+38, Bad Bunny, Diles, 6C1RD7YQVvt3YQj0CmuTeu, 82
+39, Twisted Sister, You Can't Stop Rock 'N' Roll - 2016 Remaster, 7zY7WU0LLKp1LLHFjdVjdM, 16
+40, Kanye West, Famous, 19a3JfW8BQwqHWUMbcqSx8, 74
+41, Akala, Absolute Power - 2016 Mix, 2nOSjZSOEKtpF2H5r4wLOu, 23
+42, Eric Bellinger, G.O.A.T., 0hUepWE4GoMwtKgU8vE617, 73
+43, The Cars, Hello Again - 2016 Remaster, 2MnDoNGo8cPBHIvAYy76SK, 11
+44, Mac Miller, Dang! (feat. Anderson .Paak), 5iUQMwxUPdJBFeGkePtM66, 74
+45, The Cars, You Are the Girl - 2016 Remaster, 58MHoN1JXeKI5xySnmlyX9, 13
+46, Garrett Nash, i hate u, i love u (feat. olivia o'brien), 7vRriwrloYVaoAe3a9wJHe, 78
+47, Elton John, Cold As Christmas (In The Middle Of The Year) - Remastered 2016, 3FjWLX898pqZq7zvPZFj15, 12
+48, Kanye West, No More Parties In LA, 0zLClc0emc6qUeV1p5nc99, 72
+49, Faith No More, Collision - Live from Phoenix Festival; 2016 Remaster, 1M4ocMHP0tFlS9W0fLKhzA, 15
+0, The 1975, Somebody Else, 5hc71nKsUgtwQ3z52KEKQk, 72
+1, Bonnie Raitt, Guilty - 2008 Remaster, 0TmB2tBb4aUcKXGJvSRI7M, 13
+2, Jon Bellion, All Time Low, 0SuLAslEMFZAXf0SwY7syi, 69
+3, The Cars, Night Spots - 2016 Remaster, 6eNTfqCnk5TGpXrLdgkYO1, 8
+4, Jon Langston, All Eyes On Us, 2PtbdHcXDnUBwDUcwBFIMw, 70
+5, Mal Blum and the Blums, New Year's Eve (2016), 1zhaRtpzNLoAG7Tr8FlVzT, 7
+6, Lil Wayne, Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors), 4dASQiO1Eoo3RJvt74FtXB, 76
+7, The Cars, I'm Not the One - 2016 Remaster, 2yuW0Gl30gGgB3I5SQdjQ7, 10
+8, ZAYN, PILLOWTALK, 0PDUDa38GO8lMxLCRc4lL1, 78
+9, Cimorelli, Seven Years, 5OJSL9B0ipUVKTsCuqh1sT, 14
+10, 6LACK, PRBLMS, 4AtZRwSR8BOTTQg5ihSggt, 72
+11, The Cars, Since I Held You - 2016 Remaster, 4oFAhuqDFzOEqdUG7qv6gf, 9
+12, Hippie Sabotage, Devil Eyes, 7MiZjKawmXTsTNePyTfPyL, 79
+13, Twisted Sister, Leader of the Pack - 2016 Remaster, 2i968SxGFlqbPEiF3lMQoI, 15
+14, Rihanna, Kiss It Better, 0UHB9METy4VCXNgkcGqHqS, 77
+15, Fifty Vinc, Sweet Dreams - BBoy Mix, 2EIn6kf8KJEULlEwvlT4jP, 26
+16, Panic! At The Disco, Death of a Bachelor, 1BECwm5qkaBwlbfo4kpYx8, 71
+17, The Cars, Why Can't I Have You - 2016 Remaster, 01BGlAxQmRuWLp2QoGdJv4, 9
+18, Dierks Bentley, Somewhere On A Beach, 5CG9Ps5ynNjpKJHmwc95pa, 68
+19, The Cars, I'm in Touch with Your World - 2016 Remaster, 2LPZKNfryAR1OXjbPEOGkn, 9
+20, Keith Urban, Blue Ain't Your Color, 6wycnu8FWXsj68ig7BEot9, 69
+21, The Cars, Heartbeat City - 2016 Remaster, 4NThtfDodIukvZtRyDYnAE, 11
+22, Beyoncé, Formation, 6g0Orsxv6glTJCt4cHsRsQ, 73
+23, LADYBABY, ULTRA LUCKY, 0aPltFdJJCgtXoT8bolkM2, 16
+24, Ariana Grande, Side To Side, 43bCmCI0nSgcT7QdMXY6LV, 68
+25, The Cars, Shoo Be Doo - 2016 Remaster, 1o4vW1WOW5QRrNQZgRORux, 8
+26, Caamp, Vagabond, 3HAgxyWGeJtIVabS2mTREt, 70
+27, Bob Sinclar, I Feel for You - 2016 Rework, 0dzyHiqgwc5baagDiBCQ9f, 12
+28, Rihanna, Work, 72TFWvU3wUYdUuxejTTIzt, 76
+29, Twinkle Twinkle Little Rock Star, 7 Years, 43gA4JVkFHVyvbzHNxI5C9, 9
+30, Hailee Steinfeld, Starving, 4Ce37cRWvM1vIGGynKcs22, 75
+31, Michalis Koumbios, To Kryfto, 1TyQiFzaiw3TkIhJGeMycA, 18
+32, Fifth Harmony, Work from Home (feat. Ty Dolla $ign), 4tCtwWceOPWzenK2HAIJSb, 76
+33, Bonnie Raitt, What Is Success - 2008 Remaster, 7xqPTU5htuSXJso2JORV3j, 12
+34, Drake, Childs Play, 3NxAG2ni1lLa8RKL6a0INc, 70
+35, Bonnie Raitt, Love Me Like a Man - 2008 Remaster, 14ZspjP9JjFeHWfSVhKQu7, 13
+36, Rihanna, Sex With Me, 7BiELrM90hRxpozaIXbsLw, 74
+37, Placebo, Twenty Years - Piano Version Live at Evening Urgant, Moscow 2016, 2h6W4CMfaDkIoBxFyhCui9, 6
+38, Ariana Grande, Dangerous Woman, 6RUhbFEhrvGISaQ8u2j2JN, 68
+39, Mental Minority, Solitary Nights, 04R0e7CVy6QtTNwvZppZ46, 15
+40, Kevin Gates, 2 Phones, 0wdKiSBUT7aZkXUIdJWcwC, 69
+41, The Cars, Got a Lot on My Head - 2016 Remaster, 6OFLZXWtBxUgwS2JS9tcRG, 8
+42, Sia, Cheap Thrills, 3S4px9f4lceWdKf0gWciFu, 71
+43, Johann Strauss II, Schatz-Walzer, Op. 418, 1iDmN4cjnnXcKPBV6pCwyC, 20
+44, Cody Johnson, Wild as You, 4IZOdhEvXYWqh5XAXYzBk3, 68
+45, The Cars, Cruiser - 2016 Remaster, 1jSAKFwdZED4RKspXUGFHu, 7
+46, Whiskey Myers, Stone, 4rJesaufMl2xD0f2G8Xgnd, 68
+47, Bonnie Raitt, Home - 2008 Remaster, 3FlWfYhNfc6HbskyaXak2Y, 11
+48, Muscadine Bloodline, Porch Swing Angel, 50QL2fqn6EDwpBUJ5QaQ4m, 68
+49, The Cars, Panorama - 2016 Remaster, 4KMA6iDuzV9vMxzGtTF56s, 7
+0, Shelley FKA DRAM, Broccoli, 0qy5D3OJre7SPJNMOL9I71, 67
+1, The Cars, Gimme Some Slack - 2016 Remaster, 5yJyLNtQnYRibDd6AmoQ0s, 7
+2, KALEO, Way down We Go, 0y1QJc3SJVPKJ1OvFmFqe6, 78
+3, The Cars, Lust for Kicks - 2016 Remaster, 0wAhYVqDSDUXBs9Sfoun37, 7
+4, Brent Faiyaz, Poison, 5NijSs5dAwaIybq1GaRTIe, 71
+5, The Cars, Everything You Say - 2016 Remaster, 4DoxtPwgs7gJH6zs1HfUtU, 8
+6, The Weeknd, Reminder, 37F0uwRSrdzkBiuj0D5UHI, 74
+7, The Cars, Victim of Love - 2016 Remaster, 4vLxUs5AaSDQHoBJ2dgMaK, 7
+8, Chance the Rapper, No Problem (feat. Lil Wayne & 2 Chainz), 0v9Wz8o0BT8DU38R4ddjeH, 69
+9, The Cars, Strap Me In - 2016 Remaster, 3tbFH0Y53209c1LSJ16sKk, 8
+10, The Struts, Could Have Been Me, 3IyCL4Em1GOpNGDf451Hg1, 72
+11, Amin Cruiser, 7 Years, 2RnK2iIoy7Q4wOsZ6F3KIp, 13
+12, Morgan Wallen, Chain Smokin', 1PTQ22h4JKA2u6BTbuZ5Oc, 67
+13, Bonnie Raitt, Bluebird - 2008 Remaster, 2qgOxYWuCW0FIRNXAtkkhw, 10
+14, SALES, Pope Is a Rockstar, 0So2sgVa8aJiARPl2P29u2, 76
+15, Bonnie Raitt, That Song About the Midway - 2008 Remaster, 0MVWbAlMwOO7JJ1N9m0csl, 10
+16, Little Mix, Shout Out to My Ex, 0ErK6K0kYr0Ow2RkPMhmMs, 77
+17, Twisted Sister, You Want What We Got - 2016 Remaster, 6x1t4QjlIXe8iiCPZJvnkP, 13
+18, Rihanna, Desperado, 4mCf3vQf7z0Yseo0RxAi3V, 73
+19, Dani Row, Drumsta Monsta, 5wDejV6xISat3JO96Kmfbi, 30
+20, Chase Atlantic, Slow Down, 5lT5IZWW3JQErXELJpQgJ9, 77
+21, The Cars, You Can't Hold on Too Long - 2016 Remaster, 0i2PwBsyeh7dfaiXaoRJnN, 7
+22, Kanye West, Ultralight Beam, 1eQBEelI2NCy7AUTerX0KS, 71
+23, Puchi Colon, Have Your Way, 24B21q58odPXwQuNItdr8k, 10
+24, Mac Miller, Donald Trump, 5oMkgWZqmKjaJHrsXcsZZy, 70
+25, Bonnie Raitt, Louise - 2008 Remaster, 7aX4xPpJNmSIfNHn3JB5Af, 10
+26, Lil Uzi Vert, You Was Right, 2ANLarE8yHVsLWW21nj79M, 68
+27, Bonnie Raitt, Thank You - 2008 Remaster, 0nmVdmfSNADK1gxEWefZZj, 11
+28, Russ, Psycho, Pt. 2, 26OhjtaTamFocE08t83ml6, 73
+29, The Cars, Misfit Kid - 2016 Remaster, 5k16ZY4qvQX85mENFTySJv, 7
+30, The Weeknd, Party Monster, 4F7A0DXBrmUAkp32uenhZt, 74
+31, Twisted Sister, The Beast - 2016 Remaster, 0TNKB8qBCMSqTysCnZCkFJ, 12
+32, Major Lazer, Cold Water, 7zsXy7vlHdItvUSH8EwQss, 69
+33, Twisted Sister, Hot Love - 2016 Remaster, 2XU65ut7QbKfZwxoXFTp7i, 12
+34, Daya, Sit Still, Look Pretty, 0EGuSSpuu9wmHCtvb4PdLO, 73
+35, Airwolf Paradise, Talking Bass - Yasumo Remix, 5GVkmWeEhwLJThSwLAzPrB, 19
+36, Christian Leave, Please Notice, 36seMHoyXmLUNxcwzwjdF7, 73
+37, The Cars, A Dream Away - 2016 Remaster, 6ZeMrJtDwOu1lC0nXCBnpC, 7
+38, Bad Bunny, Soy Peor, 1JxhrUWZjuI8AOjDJ1JpMN, 76
+39, The Cars, Don't Tell Me No - 2016 Remaster, 0xeLuaE6LtNJKmMwqZftaf, 7
+40, Gucci Mane, Both (feat. Drake), 5tFep7dXGd7vEJ668wTPux, 69
+41, The Cars, This Could Be Love - 2016 Remaster, 1Ib9WXY7TNHWl5Aq8DAf9U, 6
+42, Post Malone, No Option, 6M0IsaUX4GNyto4niSegfI, 70
+43, The Cars, It's Not the Night - 2016 Remaster, 1RWTXgkYId5MwIiuoFb3Mi, 7
+44, Haley Reinhart, Can't Help Falling in Love, 6yIHGmQLJxWAUZ1ZkENemN, 75
+45, Twisted Sister, The Kids Are Back - 2016 Remaster, 4Fuzs29FFtXRe5nxrcoBGX, 13
+46, Flume, Never Be Like You (feat. Kai), 5WI2ltQIdwgzf1SNE76JyR, 67
+47, Twisted Sister, I Am (I'm Me) - 2016 Remaster, 1MAwBHqzi9Gx2JZvjx01BX, 13
+48, Mac Miller, My Favorite Part, 66wkCYWlXzSTQAfnsPBptt, 73
+49, Bonnie Raitt, Under the Falling Sky - 2008 Remaster, 2MudJh6sibKdHM0iUUhQae, 9
+0, Frank Ocean, Nikes, 19YKaevk2bce4odJkP5L22, 71
+1, ABSRDST, BEASTAR, 0nyDtsvKDamjracZKXnMjA, 9
+2, Glass Animals, Take A Slice, 37adYGaYaAWTGhBaOzX4Fh, 71
+3, LADYBABY, Beard-chan Robot, 2HsXrJyxriv6GX7xQguJbp, 16
+4, Mag.Lo, Never, 7fwE3Nr0RsTzYOocfu2XbV, 72
+5, Bonnie Raitt, My First Night Alone Without You - 2008 Remaster, 4e440gcHZhZHn5Wau5aDeR, 9
+6, Martin Garrix, In the Name of Love, 23L5CiUhw2jV1OIMwthR3S, 78
+7, Bonnie Raitt, Good Enough - 2008 Remaster, 1nlXJtomSiKmNlizhfgOew, 9
+8, Drake, Fire & Desire, 4BhGTc3Cgay2U1QcTS7vQe, 70
+9, Harp Player, 7 Years (Instrumental), 2rbG4w9bNGfUAT7VLr1TxU, 11
+10, Bruno Mars, Versace on the Floor, 0kN8xEmgMW9mh7UmDYHlJP, 74
+11, Ray Charles, Two Years of Torture - 2016 Mono Remaster, 2mlRlAHjO5ia4ALDME6hOp, 9
+12, Seafret, Atlantis, 1Fid2jjqsHViMX6xNH70hE, 82
+13, Stratovarius, A Million Light Years Away - Remastered 2016, 7l0mMlqwaNSw9pYOyyQtUT, 4
+14, Christopher Jackson, Where You Are, 2bwSCIuNtVrQPVddCi8sOW, 69
+15, Chris Richter, 7 Years, 2dQ9KOht1c1Du8dBG4klgN, 8
+16, Skillet, Feel Invincible, 0i8JFpqe9cKwnrcvoNgl1L, 73
+17, The Rolling Stones, 2000 Light Years From Home - Mono, 4G3txOqMyTV6j9HwuY2ygd, 11
+18, PLVTINUM, Champagne & Sunshine, 77U6kcldLRFl9vCfaw11Sr, 74
+19, Bonnie Raitt, I'm Blowin' Away - 2008 Remaster, 2VgVrf2XT4kmJePzaFqjIw, 9
+20, Weathers, Happy Pills, 3zjjzKg16tczCMwckGKGuH, 72
+21, ABSRDST, Vore, 0fbKj3nuDpcf24OajQAMt2, 8
+22, Two Feet, Go Fuck Yourself, 4NZrZgrRoR4GwR7flWOXRI, 77
+23, ABSRDST, Copykat, 2wOw0KoTl8n6fTqQGlTVWN, 9
+24, Lil Peep, Gym Class, 08AJ0xQv5LRZsvXf1Jkr2y, 71
+25, LADYBABY, SCHOOL OF HARD KNOCKS, 6ErxyCAF6cGEfqcM6IV5Dx, 15
+26, James Arthur, Can I Be Him, 0VhgEqMTNZwYL1ARDLLNCX, 76
+27, Genix, XO (Mix Cut), 0hNCgQvxgS3GHfP2P8cX3j, 8
+28, Frankie Cosmos, Fool, 5Yx9t9RgATAtYoHN8gbRM0, 71
+29, Twisted Sister, S.M.F. - 2016 Remaster, 4Q91hybDn6rCNdB0QsvWKs, 11
+30, Panic! At The Disco, Don't Threaten Me with a Good Time, 2fh3bZ8jZhMxOcfESE9nQY, 70
+31, The Cars, Down Boys - 2016 Remaster, 6IC1AAh8IAxBc5Wmby63ZL, 5
+32, Charlie Puth, One Call Away, 7soJgKhQTO8hLP2JPRkL5O, 66
+33, The Cars, Double Trouble - 2016 Remaster, 5ybMu5FrH2zLD84WWbAyaM, 7
+34, Miguel, waves - Tame Impala Remix, 3lB0GMiI5KxDbTOG8V3bOx, 68
+35, The Cars, Go Away - 2016 Remaster, 3RefxTynF5pg9ILAcvbdhM, 7
+36, Hailee Steinfeld, Love Myself, 36phXHOKx8rO7CMp2vNX4x, 71
+37, The Cars, Getting Through - 2016 Remaster, 2s5sadxXINdi0VvTpUYwgu, 7
+38, Young Thug, Digits, 4cg1yakyRSIOjxKM2I7J1q, 68
+39, The Cars, Stranger Eyes - 2016 Remaster, 3AZVRJ3YKlnVszwEDp2vG1, 6
+40, Saint Motel, Sweet Talk, 6kcHg7XL6SKyPNd78daRBL, 68
+41, The Cars, I Refuse - 2016 Remaster, 2TxMMIOF2H6WIYwp6Mu0Op, 5
+42, Billie Eilish, ocean eyes, 2uIX8YMNjGMD7441kqyyNU, 67
+43, The Cars, Maybe Baby - 2016 Remaster, 48es4b0yzC8efc1YXOT1QS, 5
+44, BADBADNOTGOOD, Time Moves Slow, 1IqF5PUDUnaykHLs0RWbDO, 72
+45, The Cars, Fine Line - 2016 Remaster, 1ZTHP9HD7blynk7K6kLLoe, 6
+46, Morgan Wallen, Stand Out, 1obSAv22xGzYYrPWRcC4PD, 66
+47, Stefanie Sun, 一起走過 (Chinese Version), 4ck50gDHjITHUGba3a9RCj, 23
+48, DJ Snake, Middle, 0g5EKLgdKvNlln7TNqBByK, 76
+49, The Cars, Looking for Love - 2016 Remaster, 05RbCFmsP8ooDO667xvmjm, 6
+0, Kungs, This Girl (Kungs Vs. Cookin' On 3 Burners), 1A8j067qyiNwQnZT0bzUpZ, 78
+1, The Cars, Think It Over - 2016 Remaster, 4Ske7Sp8khm6qI8KRw3E8p, 5
+2, Travis Scott, beibs in the trap, 0ESJlaM8CE1jRWaNtwSNj8, 69
+3, The Cars, Running to You - 2016 Remaster, 52IPiFmo5oBAunWiSPJPHc, 6
+4, Young Thug, pick up the phone, 20dP2DaMHIAmwWAbp7peSr, 70
+5, Angelo Kelly, I'll Tell Me Ma - 2016 Version, 3YyZ5XwO1Xz6tzL9OIAi2R, 24
+6, Lil Uzi Vert, Ps & Qs, 1gGsNNUfvVMOv4llVMg8Vg, 67
+7, The Cars, Up and Down - 2016 Remaster, 3a6YPMxzm8pjAnoxJnKywu, 6
+8, $uicideboy$, O Pana!, 0cQvicmQo8syJ2Zv8aYDfN, 68
+9, The Cars, Leave or Stay - 2016 Remaster, 3Tlzir9Xn7Lzhhtrnj2iD2, 6
+10, Morgan Wallen, American Nights, 6B4LAyly39cv8Cat9nHObl, 65
+11, The Cars, Wound Up on You - 2016 Remaster, 71cGwVYE9ETtYjfvHra1SX, 6
+12, Sik World, 7 Years (Remix), 1kFlDnWmBTvCBxxeGDpIdp, 71
+13, Bob Sinclar, I Feel for You (2016 Rework), 0930zt1hDYMiSEUv0M1S4O, 10
+14, Vacations, Relax, 5TuTHrKzN6NweeQaKkBNb7, 69
+15, Lukas, 7 Years, 0zS9JGXKwhawRct4wWxvJK, 15
+16, Lil Uzi Vert, Do What I Want, 4IWGnyOHDrVZEtPWfs4s7q, 67
+17, The Cars, Coming Up on You - 2016 Remaster, 3q4U3GnK43ThBuXVV1GdNf, 5
+18, Mitski, A Burning Hill, 6gz3orrUlKresI8GShSkdq, 71
+19, The Cars, You Wear Those Eyes - 2016 Remaster, 61QtqSMfb0YcJk7PWUaaR8, 6
+20, Lil Yachty, One Night, 40yJGQyEaBbIkXpwMFkXip, 67
+21, Twisted Sister, Come Out and Play - 2016 Remaster, 04BKIIm965MkiTv4PHXplo, 12
+22, BTS, Blood Sweat & Tears, 2u54HNQamwFuOMLSuhSRom, 76
+23, John McLaughlin, El Hombre Que Sabià - Live - Montreux Jazz Festival 2016, 5R1crZtSJiJBAEaWLAPXXV, 13
+24, Panic! At The Disco, Victorious, 6od5hFv9IT5JHc7NEF9HRv, 69
+25, Murray Head, One Night In Bangkok - Radio Edit / From “Chess” / Remastered 2016, 5kYbYvJJC9n5riLdpu0Jt3, 8
+26, Verzache, The Loser, 0yTGQpPOgcsS8Xqp5bQO58, 71
+27, Masters & Nickson, Out There (Mix Cut) - Robert Nickson 2016 Remix, 1GFOcCbukE13zfVXR1FeyT, 4
+28, Panic! At The Disco, Emperor's New Clothes, 3px2rAPu74ltbkf9eZsZ8h, 70
+29, Twisted Sister, What You Don't Know (Sure Can Hurt You) - 2016 Remaster, 0sUfpqoltKnpUObSxApSPh, 11
+30, MAX, Lights Down Low, 5A6BJLZArq1MPjsnmcuk5f, 64
+31, Matt Braunger, 9-Year-Old Girls (Jfl 2016), 2wnhc3qYt82T61LxrHRwHm, 4
+32, The Weeknd, Sidewalks, 4h90qkbnW1Qq6pBhoPvwko, 72
+33, Funky Boogie Brothers, Tigerz Attack, 5Nyri0V1yQtpmen7tfjweI, 17
+34, Dan + Shay, From the Ground Up, 0lQJBl9YEsoMtE8D4yTE9g, 66
+35, Jamrud, Wasted Time, 5R0gVvdRUTWDDIOJ65Y7PI, 13
+36, Billie Eilish, Six Feet Under, 2VlLbhGLVJgdOW7kKdWWFc, 74
+37, Tanya Chua, Where I Belong, 0u0a0p4hWefiy09bYqzZ2A, 28
+38, Father John Misty, Real Love Baby, 0Z57YWES04xGh3AImDz6Qr, 67
+39, Rodg, High On Life (Mix Cut), 64WzP5D4nMYpDGgwziuxwS, 6
+40, Lady Gaga, Million Reasons, 7dZ1Odmx9jWIweQSatnRqo, 77
+41, ABSRDST, Dido Song on the Radio, 15YKmxFnpD0UUwQ4c3Tudi, 7
+42, Palace, Live Well, 2H30WL3exSctlDC9GyRbD4, 69
+43, LADYBABY, OVERTURE OVERSEA, 1fTni3c0ee2RnUmsiBe96u, 12
+44, Mila J, Kickin’ Back, 5xjTqz4aYQeBnFhwMPmfx9, 68
+45, ABSRDST, Funniest Moments, 64KTI817YbPEFP18CgL9eJ, 6
+46, Grupo Codiciado, Gente De Accionar, 3ZpajXo0KgjHw5WSMMIDfy, 72
+47, ABSRDST, I Wish, 5v4MJK0c1qcESajt3RM7Xw, 7
+48, Olivia O'Brien, hate u love u, 6ATgDc6e4sPn84hvJsAmPt, 75
+49, ABSRDST, Diddy Kong + The Red Army, 3j4bcu4AGouqte3EN7Xx3H, 8
+0, Drake, Still Here, 433P7tDcIAi6NLnf4Sh6tI, 67
+1, Aron Shorty, Street Warrior, 5C31ci5ln2tHbGcX0pHsB0, 33
+2, Brothers Osborne, It Ain't My Fault, 08wJ1B9yu9sPeoRa5fbpr3, 66
+3, The Cars, Door to Door - 2016 Remaster, 6MocEG2puaHtUpsyL9iXgS, 5
+4, Mustard, Want Her, 4zrwPfq5ENLzjq41Txs2HR, 68
+5, 53A, Tomorrow's Here Today, 6cHJBXRYMS2vCPeO2IaSKY, 26
+6, Alessia Cara, How Far I'll Go - Alessia Cara Version, 1ehPJRt49h6N0LoryqKZXq, 66
+7, Twisted Sister, Sin After Sin - 2016 Remaster, 3vg8qK4KXJShxh5gOUUFFP, 9
+8, Taron Egerton, I'm Still Standing - From "Sing" Original Motion Picture Soundtrack, 0mb7btREdC3wuIUmuVRgWn, 67
+9, The Cars, Ta Ta Wayo Wayo - 2016 Remaster, 5Ee4sHInSLOIWUHbRGWQPA, 5
+10, Kevin Gates, Hard For, 0YSTRuZ7elW9CEBfZJW5Js, 65
+11, Bury Tomorrow, Man On Fire (Live), 1bRvAarrxVvTq7yfpKMt26, 8
+12, Young Thug, pick up the phone, 4GXl8l1MfZPf2GvpyRPJBf, 69
+13, Twisted Sister, The Fire Still Burns - 2016 Remaster, 4LrJuQfe5HykiftNdRFqSD, 9
+14, Kevin Gates, Time for That, 1gZNqH0rDxD1mXLeul1Qq7, 64
+15, Nyarons, Five Years After, 0Flq799VasbvkQhjtXSaDs, 12
+16, Opetaia Foa'i, We Know The Way, 6YH2r9NyEJTjlRmKOCvxgJ, 67
+17, Armin van Buuren, Gotta Be Love (Mix Cut) - Arston Remix, 4A1923p2EupiKsQhYx0TFy, 6
+18, Shakira, Try Everything, 1N3dZ7TTWO6VcD4Y3hHYLZ, 71
+19, Above & Beyond, A.I. (Mix Cut), 0tIPoMQKpHV2BI6Dy4hiAI, 6
+20, Mac Miller, Cinderella (feat. Ty Dolla $ign), 2lpygKqzPFtItQ4ss3cgfb, 68
+21, Estiva, Sun Goes Down (Mix Cut), 5JVascmzBiRvadwL11yHkl, 6
+22, Caamp, All the Debts I Owe, 6255IIBwKySv6RYrOeHfQh, 66
+23, Armin van Buuren, Heading Up High (Mix Cut) - First State Remix, 3ikpJKp8Olum1NvQkLvj5u, 6
+24, Taylor Ray Holbrook, Southern Land, 2bX3Cb6QE8OetYBwJKnd0o, 64
+25, Ilan Bluestone, Bigger Than Love (Mix Cut), 6rzITWgvmR85iqxooWmVmQ, 6
+26, Eric Bellinger, Drive By, 1kEINOBYcSCQ5RwkP65g2A, 66
+27, Omnia, Alien (Mix Cut), 5OgQVScuEHw3enxC4J6eom, 5
+28, Beyoncé, Sorry, 0lnIJmgcUpEpe4AZACjayW, 69
+29, 4 Strings, Sunset Aftermath (Mix Cut), 0uNu1od3loOV7AcvdvGGtH, 6
+30, Nick Jonas, Close, 3lSDIJ2abCrOdDJ6pshUap, 69
+31, Super8 & Tab, Mega (Mix Cut), 3N7N6JAlFn0fzH56uiHNac, 6
+32, Mitski, Your Best American Girl, 7g5qe8VITjr13RIe8uM2p6, 70
+33, Yoel Lewis, Caesarea (Mix Cut), 3dVFLM094laXhoQF1uMK9c, 6
+34, Frank Ocean, Solo, 35xSkNIXi504fcEwz9USRB, 68
+35, Andrew Rayel, All Systems Down (Mix Cut), 4R9VgtHToVwlXnZuuAcl4A, 5
+36, Kanye West, Champions, 2nBI3iWLhupR7LyAJ5GGkE, 68
+37, ARTY, Follow The Light (Mix Cut), 4iH4T1UAekWydpAyn8Rvl9, 5
+38, Sabrina Carpenter, Thumbs, 6WC5fhc9XMaCrUNKNjm9xE, 73
+39, Eric William Barnum, She Walks in Beauty (Live), 42Xbm7U7HKJkJ7xC1lAXkB, 4
+40, Kanye West, Wolves, 432hUIl3ISDeytYW5XBQ5h, 70
+41, Puchi Colon, I Can Only Imagine, 3vAaeevIvg7hPF00E4NlZi, 5
+42, Travis Scott, sdp interlude, 4gh0ZnHzaTMT1sDga7Ek0N, 68
+43, Stefanie Sun, 一起走過 (唱吧,新加坡2002主题歌), 5aY2Igd9adKu3AqY1w95Xm, 19
+44, Rihanna, Consideration, 6t90Z9XkdsHD8xMxro6KRP, 69
+45, Kit Chan, 家 - 華語版, 04nf4eXur8d2NoDBcOmHOp, 24
+46, Kanye West, Saint Pablo, 1o0kWPueYo94LIjPYOE5Nf, 69
+47, Edwin Yearwood, Heart Of Me (feat. Giselle The Wassi One), 0fhutPx9bcRYsP1GD6RTKZ, 4
+48, Beyoncé, Hold Up, 0rzNMzZsubFcXSEh7dnem7, 70
+49, Eat The Turnbuckle, Suplex City, 3gRFVwR1KvHwkuZjn4eNdK, 5
+0, $uicideboy$, All That Glitters Is Not Gold, But It's Still Damn Beautiful, 23A29DEDxMZdwpl0ZRrMOk, 65
+1, Cosmic Gate, am2pm (Mix Cut), 0IDy7bYBO0GGib1Tn5OD3H, 5
+2, Saba, Photosynthesis, 3DlgDXIYtnWtJKiB8bZQMv, 67
+3, Andrew Rayel, Winterburn (Mix Cut), 4sB39XXEDPSh52ooubPLky, 5
+4, $uicideboy$, Champion of Death, 0qHbOme0fFyIWLNie9HG2t, 66
+5, FEEL, Did We Feel (Mix Cut) - Frainbreeze Progressive Dub Mix, 7KC0WFFEs69nwRFdyDYUwd, 4
+6, Isaiah Rashad, Wat's Wrong (feat. Zacari & Kendrick Lamar), 2RPbEp0DyBVlkRvvYKopO7, 67
+7, Yoel Lewis, Goldengate (Mix Cut), 2nANps4dgAnMeX7RBPPLIF, 5
+8, Brothers Osborne, Stay A Little Longer, 23EkfwUdsRIz7jAZIcC8gb, 65
+9, Armin van Buuren, Freefall (Mix Cut) - Heatbeat Remix, 7poBGaTxLrV8WeLEgdDxNX, 4
+10, Ella Mai, She Don't (feat. Ty Dolla $Ign), 01JPQ87UHeGysPVwTqMJHK, 68
+11, David Gravell, Stay Awake (Mix Cut), 4MlQYFM56d3fEiRATnO4GY, 4
+12, Post Malone, Deja Vu, 0H8XeaJunhvpBdBFIYi6Sh, 69
+13, Push, Strange World (Mix Cut) - Andrew Bayer Remix, 7n0fq1DRVRu8sNualJymDc, 5
+14, The Lumineers, Angela, 5bodDpPolC3xlame0SVcDY, 64
+15, Kryder, Crocodile Tears (Mix Cut), 6egvrN5Wdd0sBs7vFnw3hu, 5
+16, Glass Animals, Youth, 1LPGwuFgIzbJoShfDdw7MY, 68
+17, Denis Kenzo, Sunshine Blue (Mix Cut), 2g7lhEZlIULMYq5pF3bgiB, 5
+18, Shakey Graves, Tomorrow, 47KDDZgFiX1w6RFOuLXsSn, 65
+19, Armin van Buuren, Make It Right (Mix Cut), 06l0GNAe3t1Wu1httPeKdh, 5
+20, Jason Aldean, Any Ol' Barstool, 4T5Z4mbTe7kuGqgLpaRtTh, 63
+21, Gareth Emery, CVNT5 (Mix Cut), 65ohyzmre7VtRYLRVoIFcZ, 5
+22, The Band Of Heathens, Hurricane, 3s5NrHgyTkuinl0TgHCHeK, 64
+23, Gareth Emery, Save Me (Mix Cut), 4bR9TuNtUeQcSU9nuF7ZBk, 5
+24, J. Cole, 4 Your Eyez Only, 1vvnYpYEMVB4aq9I6tHIEB, 67
+25, Lost Frequencies, Beautiful Life (Mix Cut) - Gareth Emery Remix, 5PgfU2mnEdaqiEhPkWLVBh, 4
+26, J. Cole, Change, 3pjUyVbFmM96tYhSaKJwTt, 67
+27, Denis Kenzo, Run Away (Mix Cut), 2b9i12LeW74m5XfhGnxNKI, 5
+28, KALEO, All the Pretty Girls, 0QQIhT6PtJ5glyn4HKNKQ6, 70
+29, Andrew Rayel, Epiphany (Mix Cut), 0fQC6p3yAG4a3f1M7NOahG, 5
+30, Sjowgren, Seventeen, 4gsR34XSIE2fUY4odwZqym, 66
+31, Cosmic Gate, Edge Of Life (Mix Cut), 2gt5G7UbmKnYgdToFebzzD, 5
+32, Cole Swindell, You Should Be Here, 63thx7OANplv4I4BQsanHk, 64
+33, Kyau & Albert, Memory Lane (Mix Cut), 4y0sGoLW6WrLmilJQ9EzcS, 5
+34, Banda MS de Sergio Lizárraga, Me Vas a Extrañar, 2yS8aYWXEWJ1NlZ7VPDroT, 72
+35, Chicane, Saltwater (Mix Cut) - Kryder Remix, 4YYDJ5v2veXFsFnC2kHNLC, 5
+36, Upchurch, Rolling Stoned, 2TLz1ezRkzKgMfRQWZZCun, 63
+37, MaRLo, Leave My Hand (Mix Cut), 4H6XgB2A40oA3YRVokTMA2, 5
+38, Desiigner, Tiimmy Turner, 3NJG6vMH1ZsectZkocMEm0, 68
+39, Ana Criado, Beautiful Creature (Mix Cut), 3vWewPUsHjOI1oDUkfr31h, 5
+40, Mariano Barba, Aliado Del Tiempo, 1rEdvfLrkCB4RqxI8D6ZNR, 71
+41, Armin van Buuren, Flashlight (Mix Cut), 4BbudBvHmE03ipYIQFw7tI, 4
+42, Elevation Worship, O Come to the Altar (Live), 1lEk3U3MzbDeL5MNHkE9JU, 66
+43, Denis Kenzo, More Time (Mix Cut), 04Ma8ncYToScTkpUHg5Emy, 5
+44, Kanye West, Pt. 2, 1Wsbr1d2BouNGk2q92mIj7, 68
+45, Gamma Ray, 18 Years (Remastered in 2016) [Live], 4ilsPCGmm7PRt5Hv8io5nV, 1
+46, Pisse, Fahrradsattel, 3svmi1v7HMlyYb7Pnossz6, 71
+47, Johann Strauss I, Radetzky-Marsch, Op. 228, 5zmbNGx8mSalmW7YcJwQqF, 13
+48, SAYGRACE, You Don't Own Me (feat. G-Eazy), 6KI1ZpZWYAJLvmVhCJz65G, 70
+49, Émile Waldteufel, España, Walzer, Op. 236, 2QA0IAHd2b8YN38vkzMuKx, 14
+0, Ariana Grande, Let Me Love You, 49vZduMPCMnDDrl1WBxUDk, 64
+1, Puchi Colon, Thank You, 6DQMOtyONOMVPAgG15VgYo, 4
+2, Red Hot Chili Peppers, Dark Necessities, 2oaK4JLVnmRGIO9ytBE1bt, 74
+3, Above & Beyond, A.I., 6n7FY2c8bdZ8xEhVMGgkbD, 8
+4, Bruno Mars, Finesse, 5XMkENs3GfeRza8MfVAhjK, 70
+5, Armin van Buuren, A State Of Trance Year Mix 2016 - Where's Bob? (Mix Cut) - Outro, 3GPoF49sGzidoJOOjMnNzH, 1
+6, Ark Patrol, Let Go, 3kdlVcMVsSkbsUy8eQcBjI, 71
+7, ABSRDST, Return 2 Dust, 3SanvjdvnbPd8Wc8y1tG0n, 5
+8, Panic! At The Disco, LA Devotee, 2fmCA13dwQQOGBIbIOWRiJ, 67
+9, ABSRDST, IDWK, 4KfGubGV5alBI3sZMYnZd5, 5
+10, The Strumbellas, Spirits, 7GJ572zvnU94VZVrj5XRtb, 72
+11, Razika, Danse - 2016 Outtake, 7vkKH15ZNVwNcAv4gxcbdk, 8
+12, Ricky Montgomery, This December, 3gjRRs7gmh3Euynu1cau1d, 68
+13, Razika, Barnevakt - 2016 Outtake, 4ymDtd7dXsLxrqu2lHllvh, 8
+14, Kodak Black, Too Many Years, 7KyTq7H5f3Oavmuo9TX6QK, 65
+15, Armin van Buuren, A State Of Trance Year Mix 2016 - Gig At The MegaDome (Mix Cut) - Intro, 0FeKjofrGn9JhDt2TcsJNz, 2
+16, Marshmello, Alone, 3MEYFivt6bilQ9q9mFWZ4g, 72
+17, Angelo Kelly, An Angel - 2016 Live Version, 5ptPhecNo8cVjo6pD1STEi, 30
+18, Bastille, Good Grief, 1oxOiOjsi7plNOZEhoPLPj, 66
+19, ILLENIUM, Fortress (feat. Joni Fatora) - Seven Lions Roots Mix, 0vIH3C0QG0yQOMFqJL2j5L, 4
+20, Bad Suns, Daft Pretty Boys, 41d2Q6DHcM20OdzynkRtvf, 63
+21, Jamrud, Jahanam & Bajingan, 7c2q90ptJVYAJ63PKApQRS, 8
+22, Hott Headzz, Hmmm, 7bEKga8eFygrhFWB5KTl3A, 71
+23, DJ Pilizhao, Aladdin's Lamp, 3jwRwm5k33OnD4oue4QqNR, 14
+24, Gente De Zona, La Gozadera (feat. Marc Anthony), 0OMRAvrtLWE2TvcXorRiB9, 75
+25, Cosmic Gate, Edge Of Life, 537S6IVMeyLPeids4vSrOH, 5
+26, The Weeknd, Secrets, 00NAQYOP4AmWR549nnYJZu, 70
+27, Cosmic Gate, am2pm, 0CWUekJWwovONhoik4e97I, 4
+28, Big Sean, Living Single, 36xxq7VDZZsGwARsn6Clo7, 65
+29, Jamrud, Maaf, 5r4cSk6WX7Ent9Bm218huJ, 8
+30, $uicideboy$, Magazine, 2O4GR8PGCKkXYqG5F7SeSY, 65
+31, Denis Kenzo, More Time, 5aW8J4Jco5SFAl1OLCkjhM, 4
+32, Travis Scott, through the late night, 1Ci4wASMY4xtKVMeHA6Sd5, 68
+33, Jamrud, Selamat Ulang Tahun, 0aPgN3PJhimxMirIDfkizv, 9
+34, Arcangel, Tu No Vive Asi (feat. Mambo Kingz & DJ Luian), 6NSMQFKgjpQb0KkjMDYIK0, 75
+35, Jamrud, Sik Sik Sibatumanikam, 3XmHLoiAtzyIc5WJfzsATT, 8
+36, Coffey Anderson, Mr Red White and Blue, 2uJcLlydqLdGiiABFa4KfN, 66
+37, Massive Breakz, Never Give Up, 1t4Ky7wXJDkTifRSnxGWjH, 9
+38, Keith Urban, The Fighter, 5OUSPcqhYTOzpbXzoEvKim, 64
+39, Jamrud, Pelangi Dimatamu, 5E3AFDt4vdpb1OS84GMVaU, 36
+40, BLACKPINK, BOOMBAYAH, 13MF2TYuyfITClL1R2ei6e, 76
+41, Joey Negro, Love Hangover - 2016 Remaster Edit, 12cLiTMTlCAweL3UIhRVMT, 10
+42, J. Cole, She's Mine Pt. 1, 0HtOJj7Kl74s1Ngf3MWeif, 65
+43, Cimorelli, Seven Years, 4Luu2jhHD4UOCHPzDeirzo, 4
+44, Marc E. Bassy, Morning, 54Yappwod1fELR5zb2gDBn, 65
+45, Jeremy Monteiro, One People, One Nation, One Singapore, 0NsXuk0c78hzZkDr7UsIJ3, 22
+46, Florida Georgia Line, God, Your Mama, And Me, 4VFE6ZNqa8jHAmbYICoAFg, 64
+47, JJ Lin, Our Singapore, 5WtMlbTDNZlbN8xZ5zfXva, 24
+48, The Weeknd, I Feel It Coming, 5GXAXm5YOmYT0kL5jHvYBt, 73
+49, Taufik Batisah, Reach Out For The Skies, 7phKkEWEipo3sDrZJiG9uJ, 25
+0, Kygo, Firestone, 1I8tHoNBFTuoJAlh4hfVVE, 77
+1, Midnite String Quartet, 7 Years, 4WhbpAma7RTOM3DTeNkHf5, 4
+2, NF, How Could You Leave Us, 10bt2wAkFgCWRCEOyAyWT9, 68
+3, DJMashup, I'm an Albatraoz, 2OAUKaNT85pMpfnGk5LVf4, 13
+4, Calvin Harris, My Way, 1vvNmPOiUuyCbgWmtc6yfm, 76
+5, The Busters, Sleep Away the Rainy Days - Live 2016, 3i0jvQAuo9DZURUAIvNzK6, 3
+6, Local Natives, Dark Days, 7LZN7FkxHZk6maiN6NdI2i, 63
+7, De Toppers, Apres Ski Medley 2016 - Live in Rotterdam Ahoy, 2CkSl4ACkiXx7bCvRrzEwQ, 5
+8, Glass Animals, Life Itself, 32zkKx35Et6A515oZKxDkD, 66
+9, The Thrillseekers, Amber (Mix Cut), 4TOr4PM6Nat55GU6wXZSHK, 3
+10, Russ, Ain't Nobody Takin My Baby, 6VnqGxiMNexOe0kRmIsBw4, 66
+11, Simon Lee & Alvin, Xcelerate (Mix Cut), 2lavHdjStYLZJbGo56wbVP, 4
+12, Wild Rivers, Speak Too Soon, 0AUURXuRvLPKEH6KaJZSXy, 65
+13, Dim3nsion, Mangata (Mix Cut), 4P3N0RSqZaL0J5CEMn0DpO, 4
+14, Phil Collins, Against All Odds (Take a Look at Me Now) - 2016 Remaster, 63CHa6rmamv9OsehkRD8oz, 75
+15, FEEL, Not Alone (Three Friends) (Mix Cut), 77JvCo8L8n6uOajhN3qAY6, 4
+16, Sleeping At Last, Already Gone, 5zCunX8URvLoBHlg1Fnjv6, 70
+17, Willem de Roo, Hyperdrive (Mix Cut), 5Rj2Vjr5AdrJXJQICxhaP5, 3
+18, RY X, Only, 1GxNPd5r7D1zChEMuMhue0, 63
+19, Luke Bond, Once More (Mix Cut), 6OHrIkidZFRsTprr9mPMP3, 4
+20, Clean Bandit, Rockabye (feat. Sean Paul & Anne-Marie), 5knuzwU65gJK7IF5yJsuaW, 76
+21, John O'Callaghan, Lies Cost Nothing (Mix Cut), 0JSy8n5phoI2PAFyzFV24L, 3
+22, Drake, Sneakin’, 4ckuS4Nj4FZ7i3Def3Br8W, 66
+23, Orkidea, Nana (Mix Cut) - Jerome Isma-Ae Remix, 6DW4DpzsGHHiKNi45Zs74X, 3
+24, Jemaine Clement, Shiny, 1IZwCzAmaFmmdJj0cmhaax, 65
+25, ILLENIUM, Fortress (feat. Joni Fatora) [Mix Cut] - Seven Lions Roots Mix, 3amCL62ccNSbpdAQHMIaqd, 4
+26, Young Dolph, Foreva (feat. T.I.), 23nOXuK95DPOiO62Ixgzza, 62
+27, Orjan Nilsen, Iconic (Mix Cut), 17C5iyxs6VHrsstmWELEsS, 4
+28, Future, Married To The Game, 4Kup1kDTLoJaUMgpGFPqau, 65
+29, Armin van Buuren, Dominator (Mix Cut) - Tom Staar Remix, 3GxYXf1qpZol0IXSjSEeVv, 4
+30, NF, Lost In The Moment, 3qEg6xYffvuvwpq4U6FRrK, 67
+31, MaRLo, You And Me (Mix Cut), 1CcECdumuuBT6OtfasyPKJ, 4
+32, Sunset Rollercoaster, My Jinji, 7wmFsS43fO8vAg0vcr776N, 65
+33, Ben Gold, I'm In A State Of Trance (ASOT 750 Anthem) [Mix Cut], 72Np1jARaxPRzoTwmPUC7s, 3
+34, Cole Swindell, Middle of a Memory, 38gZVjeaeR3gcnCzziAxBm, 63
+35, Bobina, Music Box (Mix Cut), 2mYr7efAD6GSeRIItnae2M, 3
+36, Kanye West, Fade, 3cCxoOgfi6hgt8MNteuiiD, 68
+37, Jorn Van Deynhoven, We Can Fly (Mix Cut), 5HlopuViSG3KDMqs8yDiZE, 4
+38, NF, Therapy Session, 6WKk8l8EXiwPBYlmSlhZWx, 66
+39, Bryan Kearney, By My Side (Mix Cut), 0yOu4LLbZAvl3BCzzygypI, 3
+40, Mac Miller, Stay, 4brX8MJs5hxErgq48f9REO, 66
+41, Mohamed Ragab, Crux (Mix Cut), 4xxGHILcnaN00VbY0W2y6N, 3
+42, A$AP Mob, Yamborghini High (feat. Juicy J), 2rqUblDWJKlMVwh9uJc0Vv, 66
+43, Mino Safy, Kalopsia (Mix Cut), 6qxyq4JblDFhwZWe58UNDh, 4
+44, JT Music, Join Us for a Bite, 4E6QZS2KoOE1U64yMrtpIN, 68
+45, Super8 & Tab, Into (Mix Cut), 0MQv4zZsj7wSX6xaJQ2f8I, 3
+46, Mitski, Once More to See You, 3NE5nGm06kB8QQbQqJaOke, 69
+47, Cosmic Gate, Exploration Of Space (Mix Cut) - Cosmic Gate's Third Contact Remix, 0kFyAdZ67yUH5E1EQTb1dx, 3
+48, Cole Swindell, Flatliner (feat. Dierks Bentley), 0WyFpxYlBCgH1gMXd26OOr, 63
+49, Marco V, Simulated (Mix Cut) - Radion6 Remix, 2JRNLaClMTfsFJZZhbZ4hh, 3
+0, Kehlani, Gangsta, 1W7zkKgRv9mrLbfdQ8XyH3, 72
+1, Armin van Buuren, The Race (Mix Cut), 3OawypGKaqs4plWL6Qpy54, 4
+2, RÜFÜS DU SOL, Innerbloom, 5GXeNbxOEbd7sKrbsVLVVx, 66
+3, Armin van Buuren, Old Skool (Mix Cut) - Vigel Remix, 3c9C6wihBn9gEQPPjNArJn, 4
+4, Anderson .Paak, Come Down, 276zciJ7Fg7Jk6Ta6QuLkp, 65
+5, GAIA, Inyathi (Mix Cut), 4oUlURFsW5PGTKDuPv47aX, 3
+6, Anuel AA, Sola (Remix), 5q2JbCNi4FcnglgPfxcV65, 77
+7, Radion6, Livin The Dream (Mix Cut), 6FGsPvUP8T8Zc3uveneJSX, 3
+8, $uicideboy$, Memoirs of a Gorilla, 32B4HyegZNlYIWhENs8FcZ, 64
+9, Alex M.O.R.P.H., Not All Superheroes Wear Capes (Mix Cut), 17WpIvKU2rtD4on4diBsaY, 3
+10, Highly Suspect, My Name Is Human, 1euszbbvkUzQzIhZUWFmXG, 64
+11, DRYM, Smile (Mix Cut), 4QBzYWLfdcVMv9mqXKNQuI, 4
+12, Dierks Bentley, Black, 2lFtnEmkIPm2ClN55e2chV, 63
+13, Ferry Corsten, Event Horizon (Mix Cut), 3QSjquXU6w3cjuFp9CBrAp, 3
+14, Ellie Goulding, Still Falling For You - From "Bridget Jones's Baby", 3odrUVQ9tvRpkC9II2oWzx, 73
+15, Omnia, I Believe (Mix Cut), 4vskljH6Fw5Tp6HAYYH4wf, 3
+16, Shelley FKA DRAM, Broccoli, 3rZhRBdVQ2fTEM2ULOAwUL, 61
+17, Hilight Tribe, Free Tibet (Mix Cut) - Vini Vici Remix, 5V1f5TtxftFAmDX6Kn26eq, 3
+18, Bruno Mars, Chunky, 0mBKv9DkYfQHjdMcw2jdyI, 69
+19, Chris Bekker, Berlinition (Mix Cut) - PvD Club Mix, 76fnlD39zGhF4V7olmg7ve, 4
+20, BTS, Burning Up (Fire), 0aE3V0zgSD2YwkEHW42gxG, 74
+21, Airborn, Kaleidoscope (Mix Cut), 49vNb5TSAEfszw8w2W284L, 4
+22, Kodak Black, Skrt, 5v7kaZNsnyByrSJOfO8gKq, 63
+23, Maestro, I Will Follow You (Mix Cut) - Alexander Popov Remix, 2zRwDQY37UrrwJOcpum7o6, 4
+24, Drake, Redemption, 4cRBqWBjuccCowYVHFlXK6, 66
+25, Exis, The Count (Mix Cut), 2EatqM2LkZT2KE2ZteKAzi, 3
+26, J. Cole, Immortal, 6AGON2BGdPmPMJGiiNuuwl, 65
+27, Alexander Popov, World Like This (Mix Cut), 1G8Y0LJu4ZwSZvnopkJBXW, 4
+28, Frank Ocean, Seigfried, 1BViPjTT585XAhkUUrkts0, 67
+29, Armin van Buuren, Caught In The Slipstream (Mix Cut) - KhoMha Remix, 72GbGTl3ndGcowxwqXFawI, 4
+30, Desiigner, Panda, 275a9yzwGB6ncAW4SxY7q3, 69
+31, Gareth Emery, Far From Home (Mix Cut) - Craig Connelly Remix, 5uhquQdR9bHTotWs5si8dq, 3
+32, P!nk, Just Like Fire (From the Original Motion Picture "Alice Through The Looking Glass"), 7K5dzhGda2vRTaAWYI3hrb, 70
+33, Andrew Rayel, Once In A Lifetime Love (Mix Cut), 6DnnkmmK98wUvCiANrwpIy, 4
+34, $uicideboy$, Do You Believe in God?, 1hSBVYwG0UPeou0ORftrxm, 64
+35, Omnia, All I See Is You (Mix Cut), 4D0BeOBI1qg5jULHcc0J1o, 4
+36, Kid Bloom, I Kissed a Girl, and She Kissed Me, 42Do1T9tU04SbC9AuTvFqY, 66
+37, Gareth Emery, Reckless (Mix Cut) - Standerwick Remix, 5xJkDYQNf6aBVm6877y1cb, 4
+38, Fifth Harmony, That's My Girl, 2ACOWPLUe4A4KuQ5ioD2od, 70
+39, Gareth Emery, Until We Meet Again (Mix Cut), 7cGYWWAxzdgnY2hJSQ0k1A, 4
+40, KAYTRANADA, YOU'RE THE ONE, 70kdJnm1X6eEM8DbWa8Mnc, 69
+41, Armin van Buuren, Again (Mix Cut) - Armin van Buuren Remix, 4mGflT8dViaECVmTcoCD4F, 4
+42, Watchhouse, Wildfire, 6VfY0sgS4j4JpFQH8kk4XA, 63
+43, Tuuligan, Year 4101 at Lagoon Nebula 140616, 6ZYp7BA1FE7qfKDppDx0gW, 1
+44, Kygo, Stole the Show, 5masKPHeAOVNgxdLebIcK7, 75
+45, Jayne Mendez, 7 Years - 128 BPM Workout Remix, 0SaJvfX2mcmCTTLfymBIZw, 11
+46, RÜFÜS DU SOL, You Were Right, 5H4sJFZZjKakgTzyEVmvGX, 64
+47, Kyau & Albert, Are You Fine? - 20 Years Remake, 1VmcQl6vJlDk5sx8iW2xzO, 7
+48, Starley, Call on Me - Ryan Riback Remix, 2L6orAlH8tBhiFTumIfMyF, 64
+49, Joseph Hellmesberger, Ballszene, 5U9gWwiWy9qkcCsoV9n4pe, 10
+0, Mac Miller, God Is Fair, Sexy Nasty (feat. Kendrick Lamar), 6hzbRKhJHo6cfCHSnNaDS8, 65
+1, Josef Strauss, Sphärenklänge, Walzer, Op. 235, 0LfxubWZyfX4FW6L5GoETd, 9
+2, Kanye West, FML, 30Zcjs7pgEkmJA1lEbGSWT, 66
+3, Johann Strauss II, An der schönen blauen Donau, Walzer, Op. 314, 1EVeSs42FidXajF78Lmx3v, 12
+4, Chance the Rapper, Juke Jam (feat. Justin Bieber & Towkio), 3eze1OsZ1rqeXkKStNfTmi, 64
+5, Johann Strauss II, Kaiser-Walzer, Op. 437, 58CCDOR368wloG2pMCcNt3, 13
+6, Lil Peep, lil jeep, 5OXPfNGyUDTMOSaGhbAvOr, 67
+7, Carl Michael Ziehrer, Weaner Mad'ln, Walzer, Op. 388, 0t26INB7jdsLhoi1eeoHu2, 10
+8, Brown Noise for Babies, Brown Noise, 3qdGhfS5yIyqXMNtmJov6o, 66
+9, Robert Stolz, UNO - Marsch, 0FHBgWXBMdbYWJByAoUcWd, 16
+10, Macklemore & Ryan Lewis, Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally), 5pfJsMwoRYKampPay8amX0, 68
+11, Johann Strauss II, Violetta, Polka française, Op. 404, 4RMSnY8p34sXNjI8JLguPt, 12
+12, Deniece Williams, Let's Hear It for the Boy - From "Footloose" Original Soundtrack, 4VyU9Tg4drTj2mOUZHSK2u, 67
+13, Johann Strauss II, Vergnügungszug, Polka schnell, Op. 281, 7dT3R2MrvXZTeCFywVCFgS, 10
+14, Chance the Rapper, All Night (feat. Knox Fortune), 60xaS8mYBKUW4VQQ666N0T, 66
+15, Puchi Colon, Grace Enough, 6RZXKA4fCG1Vn7O87P6KyY, 2
+16, LOCASH, I Love This Life, 21jkhW2773dELgTMRJcMfI, 62
+17, Kindan no Tasuketsu, nemui (sleepers), 2Z0HR98m63n876NR7Av0Jy, 3
+18, Wheeler Walker Jr., Fuck You Bitch, 7uMBc5uxQRZNFowjhxH9WL, 63
+19, Boom Jinx, We Know - Vintage & Morelli Remix, 2ZYKyT8AiN59jUVF0IfpJl, 3
+20, Drake, Pop Style, 5mPSyjLatqB00IkPqRlbTE, 65
+21, Puchi Colon, This Christmas, 7FdJf9hmthMd397bR2k8KZ, 2
+22, EDEN, sex, 26ZX2JrAb8AFbr8FFfAsO7, 67
+23, Puchi Colon, We Wanna Worship, 0AGy4IWtiuYcxkRI8gFIot, 3
+24, Granger Smith, Backroad Song, 6naYpFIKihKbGg6lGxpveI, 62
+25, Ilan Bluestone, Bigger Than Love, 2NdCv7phLMRcSFGoMSjoV4, 5
+26, Mac Miller, Best Day Ever, 56XhZKFVFeylLeAELp6pdE, 64
+27, Puchi Colon, In God's Hands, 5a7Kok50Pki0ke26qrdzcI, 2
+28, Red Velvet, 러시안 룰렛 Russian Roulette, 5HiSc2ZCGn8L3cH3qSwzBT, 70
+29, Kindan no Tasuketsu, Koarashi Spin, 3K2svTglkeMicGYJjAoELp, 3
+30, EDEN, XO, 0ZAiqymvbQUZAh9y6ZT3Rm, 67
+31, Above & Beyond, Alone Tonight - Jason Ross Remix, 7FK9ddKKJEMWqkssqmKPZl, 4
+32, Vacations, Home, 1TQuqiFxqnVeez9OMq3emB, 66
+33, Puchi Colon, Tomorrow, 0tFVSRAkEuZ24quY7bUzdC, 3
+34, Daya, Hide Away, 0uyZ5ckiIUbFZd3P6RWmrj, 66
+35, Puchi Colon, The Love of Jesus, 6wi8paAtjSMWNWz7SdRJ7D, 3
+36, The Weeknd, False Alarm, 4oeaIftdpT3JuZLcCkKmVE, 69
+37, Daniel Portman, Casa Rumba - Radio Mix, 4b0lFZuEKwtbd12RUxG7ca, 6
+38, Blake Shelton, A Guy with a Girl, 5sjIhQzNljMVrDklI91ezp, 63
+39, Puchi Colon, On My Knees, 7JCDdQvfr86ImnE5xyD9VY, 3
+40, A Boogie Wit da Hoodie, D.T.B. (Interlude), 6dKHEOxmG7I6SraR7QFT6e, 63
+41, Teddyson John, Allez (N.M.G Remix) [feat. Bunji Garlin], 6W4As5XZ9fS7hHdWC8NqYF, 4
+42, Kanye West, Real Friends, 66Q3fAmSX5eHamgbKa9alP, 66
+43, ABSRDST, Wanna B, 3hJlu4rW73IQxqdxU0yxAZ, 4
+44, Travis Scott, way back, 2Zy7XVdxyZQB8xp5xbpJdl, 65
+45, G. Bregovic, Bubamara - Live, 67L8hBRFVmLLfgNvRbgbfH, 10
+46, Glass Animals, Pork Soda, 5C5gvDZsl6d8bh89URfKHr, 64
+47, Jamrud, Ayam, 2O6nLAQt3ZarrLvkgRuHu5, 6
+48, 6LACK, Ex Calling, 1MQ8ydvrTnn2QJgXFATJvD, 65
+49, Zamali, Amin Dada, 1yn4Vqk1OIzfqi00KmVvkw, 5
+0, Jake Owen, American Country Love Song, 0O1x2tRm8ZpfDbcpOWZp7z, 62
+1, Jamrud, Rasa Cinta, 6KmoiS8vR3dAVrdHFzyAoO, 7
+2, Mac DeMarco, Another (Demo) One #2, 1LF3HPHVajnRT1mPCOqfOF, 65
+3, Cosmic EFI, Battle Time, 0CxzpFb5LZewrULKnXNKw6, 11
+4, Flatland Cavalry, A Life Where We Work Out (feat. Kaitlin Butts), 7rJRYP73BI3LLFtteweC2F, 61
+5, Armin van Buuren, Dominator - Tom Staar Remix, 4BL7w6lfIZhVMPxHK7ibaB, 2
+6, American Authors, I'm Born To Run, 6zDs6zI94L761vd0cVScTT, 68
+7, Wicket, Road 2 Victory, 2BK3aXNm9SenGcUUoU3BG6, 11
+8, Hatebreed, Looking Down the Barrel of Today, 5IVA7WzOlWrmZh8EqZqMaw, 67
+9, Yoel Lewis, Goldengate, 26YGDG0Wk1kzb0DHm0RoPA, 1
+10, Kid Cudi, Rose Golden, 40jxatV29fk82SAziDsPqN, 64
+11, Armin van Buuren, Gotta Be Love - Arston Remix, 3swzif2KuEELfz40ZBRzvl, 2
+12, Lil Peep, hellboy, 2YGHCHkWTbtCUTjL0LUXtx, 67
+13, Yoel Lewis, Caesarea, 7DczIXun7hjxt5a2oYyATR, 1
+14, Chris Tomlin, Good Good Father, 1mWdyqs6Zvg8b1lKjDc8yB, 65
+15, Jamrud, Naksir Abis, 6ftLpqNOAE6dVfOBG2ptqX, 7
+16, Lil Peep, cobain, 375l2qnEfCpeY6AaoFOsjb, 66
+17, Urban Sound Collective, Don't Be so Shy (Remix), 7z4k2kB16fDeENLqdXSkoU, 6
+18, Tory Lanez, LUV, 16Ah4QqH4mgYVXqfC4mdSd, 67
+19, Neophyte, S.I.C.K. - Edit, 3eZhMsnU1mHw0WihK9ujlS, 5
+20, Travis Scott, wonderful, 1cZlBZwnwGPtYeRIeQcoFh, 66
+21, Denis Kenzo, Sunshine Blue, 0tet6I3HK90aQFqTYEHcam, 1
+22, Lemon Demon, Touch-Tone Telephone, 1tmRlF5pFo8G5OfJYUjWrR, 65
+23, The Thrillseekers, Amber, 6j7vrQtr1yk3YOwfUK949J, 3
+24, Post Malone, Too Young, 4SYUUlkScpNR1QvPscXf8t, 66
+25, John O'Callaghan, Lies Cost Nothing, 5LV9kdOJSgV4XbIerZBHuR, 2
+26, Cody Johnson, Half a Song, 4EETgKkkLxXrsrc0q50K1P, 61
+27, Stefanie Sun, One United People (2003 Singapore National Song), 2h5gMUxXk3OBfOX9KS5hiX, 23
+28, Skillet, The Resistance, 5O9Dz0h08LuBi0aVvDcylh, 69
+29, Tiff Massey, Detroit Is Black, 4JQWThR8tjyp57cJXpkzF0, 8
+30, Ariana Grande, Greedy, 1FFUXkoWIc9of8yOscGiaC, 61
+31, Sylvia Ratonel, In A Heartbeat, 14dThbrteRM57dxmpV26a8, 23
+32, Young Thug, Wyclef Jean, 55OdqrG8WLmsYyY1jijD9b, 64
+33, Corrinne May, Song for Singapore, 3S19ddIcYfyYhw7ZwKm58w, 22
+34, I Prevail, Scars, 6WaYiQUPel70HUaCZj5eND, 65
+35, Jeremy Monteiro, Stand Up For Singapore, 2aIkiuxUesXTGU756fBJYD, 23
+36, Mick Gordon, Rip & Tear, 5soMJpcVhSrGrB4prvPL6P, 67
+37, Clement Chow, Count On Me Singapore, 3dY7P7YoGU0gYMmFs1krC1, 23
+38, Porter Robinson, Shelter, 2CgOd0Lj5MuvOqzqdaAXtS, 66
+39, 龔詩嘉, My Island Home, 2w5L5kQVkSRdduNewYPDA5, 23
+40, Ricky Montgomery, My Heart Is Buried In Venice, 02H1K5Cw9Ar89b35XwSEw6, 66
+41, Olivia Ong, Love At First Light, 1W5ss3pBJ3W0v8gPhbLl8C, 21
+42, Frankie Cosmos, Sappho, 5DIGt883aHs3KqWSziy4gR, 67
+43, Jonathan Tan Teck Meng, We Are Singapore - with pledge, 0QeDK7Aow84hUKoLrZ1mvK, 19
+44, Lil Peep, walk away as the door slams, 5vJMWciCIDG0R5gLZLF8DC, 66
+45, Bullet For My Valentine, Tears Don't Fall (Live), 2kPOeC3szYXRYKqsaLQFT7, 8
+46, Lil Peep, we think too much, 5tlKygvcLAJr1dfQ94OsTs, 66
+47, Arch Enemy, War Eternal (Live), 15h6roF3nmUphasu6HRUMo, 10
+48, Domo Genesis, Coming Back (feat. Mac Miller), 1WsRuvitfegWXQJKRgRZrj, 64
+49, The Cheeky Monkeys, Happy Birthday to You (Mandarin Version), 02DACVJGAWd50TMquqJ7Bl, 6
+0, Flume, Say It (feat. Tove Lo), 5aOpzm8W8zysk4asB9hxJw, 61
+1, T-Swizzle, Wildest Dreams, 33bX8RFKkGnLRo5Erw8lON, 3
+2, Waterparks, Stupid for You, 1N7Aep1OewK9diaN9WbuuR, 62
+3, Wild Stylerz, Photograph (Remix), 2kDvtimHRZqoCB79ZmQgGW, 17
+4, Cuco, Amor de Siempre, 6VZg3YsN5kKBwz39fPcIM1, 68
+5, Simon Patterson, Now I Can Breathe Again (Mix Cut), 0sxs5tWZZr1RPgm7dFTPOe, 3
+6, Niykee Heaton, Bad Intentions, 5W3UniuRMkHHIpaiQo1hAW, 65
+7, Aly & Fila, Million Voices (Mix Cut), 1tVWmNo6ILOiwZqfmbt7Yo, 3
+8, Kanye West, 30 Hours, 2CHmgtK8OCL28WtIK96u4N, 65
+9, MaRLo, Join Us Now (Mix Cut), 6qYYAlwzYcx3lBmALIgljY, 2
+10, FRENSHIP, Capsize, 2XMTqoHHSH0lvuXrvIEdco, 68
+11, Ferry Corsten, Neba (Mix Cut), 6JlErdaINJasfxtRFDP3st, 3
+12, 21 Savage, Red Opps, 3cqZH3cqvfbV8wVbvHyPbG, 62
+13, Mark Sherry, Follow Me (Mix Cut) - Psyburst Mix, 2TgjyKvo0aC4ckrVz0RFt7, 2
+14, Calibre 50, Siempre Te Voy A Querer, 3VK8copXwqvAueMPhnBe6K, 69
+15, Ben Gold, All Or Nothing (Mix Cut) - Allen Watts Remix, 3ElnyzFNPuX5rySiFiuWVk, 2
+16, Lil Peep, nineteen, 03XjE0nqkkQvktjlRXmsV6, 66
+17, Aly & Fila, Kingdoms (FSOE 450 Anthem) [Mix Cut], 62r0KYcR6UMFiva8t5BDrm, 3
+18, Kid Bloom, Electric U, 4efHJDBcmhJYs8n9hJcVC8, 65
+19, Chris Schweizer, Scorpion (Mix Cut), 6USSmYztYyykIVj5GPORc3, 3
+20, Lizzo, Good as Hell (feat. Ariana Grande) - Remix, 07Oz5StQ7GRoygNLaXs2pd, 68
+21, A.r.d.i., Your Everything (Mix Cut), 6jfRPxqC5fHlAsBIyWAt8V, 3
+22, The Weeknd, A Lonely Night, 0ifooM33X1iBxVYyOkSbXW, 68
+23, Aly & Fila, Unbreakable (Mix Cut), 2tBQBX4DykAAvbhtPKftSU, 3
+24, Kamaiyah, Fuck It Up (feat. YG), 0nXgBBZFVdumUIaxszDm1p, 64
+25, Alex M.O.R.P.H., Angelic (Mix Cut), 4aNtT4eEnyI3hIh5aqTcjV, 3
+26, J. Cole, She's Mine Pt. 2, 5rmcjZTrE9JR1YrbNZDFNW, 63
+27, Armin van Buuren, Great Spirit (Mix Cut), 2odLZ8G9xb5lAgB6MAYCvU, 2
+28, BTS, Save Me, 7bxGcILuAjkZzaveU28ZJS, 72
+29, Simon Patterson, Smack (Mix Cut) - Waio Remix, 58kCl906j0qF6Fnh1CCpiV, 2
+30, Kid Bloom, Different State of Mind, 0ZA43HPPeTVV7hPoFlLeR2, 64
+31, MaRLo, Darkside (Mix Cut), 6NlCahaS6KRZY9hbMa4yCB, 2
+32, Volbeat, The Devil's Bleeding Crown, 79M3Eq1q61lkeQJ1OCVEdZ, 62
+33, Simon Patterson, Evoke (Mix Cut), 0rKBFdefkUB62xJuqYaZev, 2
+34, Lil Peep, worlds away, 2JfV8E7wsD7eVY5wr69teC, 67
+35, Saad Ayub, Move On (Mix Cut), 70m78tHJuS3sJu3Me2UB3i, 3
+36, Drake, 9, 1C7KSXR2GVxknex6I4ANco, 64
+37, John Askew, Supersonic (Mix Cut), 3PFkKsJmP3geJEvoS2Hk1p, 2
+38, Kendrick Lamar, untitled 02 | 06.23.2014., 3I0FBDc1c1BLNtXWKVjmFg, 64
+39, Alex M.O.R.P.H., We Are (Mix Cut), 553mVjBrzIPcja0vcFSbaT, 2
+40, Lil Peep, OMFG, 0EPLdgfGTsdcf7ygd8ChoZ, 65
+41, RAM, Forever And A Day (Mix Cut), 6jTD5io7UiUEvYkNglH4hz, 3
+42, Whiskey Myers, Trailer We Call Home, 33MhvoAQJRVN38lgUGEFjs, 61
+43, Will Atkinson, Subconcious (Mix Cut), 5i6by72EnyqBeVnxXfW9QK, 2
+44, The Weeknd, Six Feet Under, 4mU5iXHeLgbR94siF7p1sY, 67
+45, Ggomagyun, 2016 year, 7mQx2GpfXVdsMiR6J6uw4y, 0
+46, Meek Mill, Blue Notes, 7Gs3otHnZDq514kFHf0nx7, 66
+47, Devenport, 2016 Years, 4lOvyLC9PC00JQQqxfaHgu, 0
+48, Lukas Graham, Mama Said, 5ArQzSBevAdXTxRY6Ulhbq, 70
+49, Dmitriy Rublev, New Year 2016, 4pKfJjAisHCmqDLCLGwBKq, 0
+0, NF, Oh Lord, 1ISsiC4Fw6f96kZQegLGiJ, 64
+1, Dmitriy Rublev, New Year 2016, 4pO449osolldSM5LyFKseH, 0
+2, cupcakKe, Deepthroat, 5cXtT63OTadsjqfRkm5Dwd, 63
+3, Dmitriy Rublev, New Year 2016, 3wduuzbBAlqWRCEvR87tvJ, 0
+4, OneRepublic, Wherever I Go, 7kftK4n15rl1wbpfjSq2Tk, 63
+5, Lyndon Hodges, New Year 2016, 4vdzGeUjLKtisjXsxN8448, 0
+6, Rihanna, Yeah, I Said It, 7eDYNlBwRMeFOZHOZ95dZ1, 67
+7, Ritchie Valence Irony Dan, New Years 2016, 3xbdzrIJ8uJi98XxlBxC3K, 0
+8, Jason Aldean, Lights Come On, 4llYMkhHa1w7UAdDFRQcEZ, 61
+9, Kenji Aoi, Chinese New Year 2016 – Year of Monkey, 0vYhK9tHmvQPtquRNmDIMF, 0
+10, Erik Eriksson, White Noise 3 Hour Long, 04boE4u1AupbrGlI62WvoO, 66
+11, Kenji Aoi, Chinese New Year 2016 (Year of Monkey), 42No72UndhoyDAPN7kOT3z, 0
+12, Aaron Lewis, Northern Redneck, 46ReZjLTWpWQo6U7g3m2Qg, 61
+13, Kenji Aoi, Chinese New Year 2016 (Year of Monkey), 0KjcvPG5LISMDZ2W8DHjNB, 0
+14, Charlie Burg, I Don't Wanna Be Okay Without You, 5HKv1sFHbXgmXBih203HxT, 70
+15, INNY, Infant Years - 2016 Edition, 60ktXVE6uKSkKcxGRkkB1c, 0
+16, Drake White, Makin’ Me Look Good Again, 1VMQYQQlYHhbudATkSJiP1, 61
+17, Leon Kage, The Year Was 2016, 4Ux4jCazJLSQewkTKiawUN, 0
+18, ScHoolboy Q, THat Part, 2yJ9GVCLMmzBBfQAnfzlwr, 63
+19, Dishonour, 10 Years Report - 2016, 0Rr08tqYnsgA29VDtLC2eJ, 0
+20, YG, Why You Always Hatin?, 4ezAjoV01phDz1SqO6SzEU, 63
+21, The Freejays, 2016 Light Years Away, 5hr3ywrZ5genalnqxdQajm, 0
+22, Hoodie Allen, Champagne and Pools (feat. Blackbear & Kyle), 7HytU9V8vMCUayply0lYBq, 62
+23, Honor and Ashes, New Year's Eve (2016), 0GWxrbvpDvgS7VGA92Dx9N, 0
+24, Mag.Lo, Team, 77VHb191LLkpsYJTS2cgEc, 66
+25, Osii G, 2016 (What a Year), 2nX5JcIqk4BKQB1XGpux74, 0
+26, Bryce Vine, Sunflower Seeds, 4MJfCOcc2PpWOrUqOpvy1S, 62
+27, GlePac, 2014-2016 Best Years, 3XVU6Y09vDnimM7rCq2Bsc, 0
+28, Moe Shop, Love Taste, 0XVoD3TmJVEYdRzZoe0Ewy, 64
+29, Keyboard Kid, Years of Tears 2016, 0JAMLXw3F8rYgWPXw4cCeh, 0
+30, MadeinTYO, Uber Everywhere (feat. Travis Scott), 5YCs9rP6ZcMJW6me3QhtWr, 64
+31, Colliding Galaxies, Happy New Years 2016, 50xqgkALDbbTJnZMGhBPmu, 0
+32, Upchurch, Hillbilly, 2LWJmKaOtxk5r2QUAwVamf, 60
+33, Luke Nomura, Eternal 29 years old - 2016, 0nTz1oIf2dOmt9blCuy57I, 0
+34, Bryson Tiller, Let Me Explain, 1trZGMI2CGyVT44STkpCoN, 64
+35, Digital Life, Moving On, New Year 2016, 42mssSALgnKgSYI7yOzYRH, 0
+36, Mitski, Crack Baby, 0I0MPzbmzsjpttpkqWgNyx, 65
+37, Party Mix Club, New Years Dance Party 2016, 7bAL7HQcRd3R3G6QwSk1ll, 0
+38, THE ORAL CIGARETTES, Kyouran Hey Kids!!, 38kcwx5znepLWCIBID0Bwm, 69
+39, The Dementia Cookie Box, Happy New Year (2016 Remaster), 3jf9xOai50tz7PN3VGzYXU, 0
+40, Skrillex, Purple Lamborghini (with Rick Ross), 6JyuJFedEvPmdWQW0PkbGJ, 69
+41, Matt Battle, End of the Year (2016), 29l5ThD6LPC9PY48XAEORN, 0
+42, Lil Peep, crybaby, 6w1k5KDajzJSqPJzMYsQhA, 67
+43, Mega Ran, The Year in Gaming 2016, 5TnJlxhUdYMMApiS5Cunja, 0
+44, Panic! At The Disco, Crazy = Genius, 6V68ItawQkQlZhYIf1S86C, 64
+45, Simon Bell, Happy New Year - 2016 version, 6c0ZdPWK98smM2yL7o2HS1, 0
+46, Lil Peep, ghost girl, 5LAVhynnTmj9VJjW8xGZdP, 64
+47, InSync Records, End of Year Mix 2016, 5MVw2Lsl4JURfzGlArAzM0, 0
+48, Lizzo, Good as Hell, 3Yh9lZcWyKrK9GjbhuS0hR, 65
+49, Dmitriy Rublev, New Year 2016 - Original Mix, 0i5UXku65oAQQ9kDDZovnC, 0
+0, BTS, House of Cards - Full Length Edition, 6S2gYweMmT6xygVh5q3QLa, 69
+1, Dmitriy Rublev, New Year 2016 - Original Mix, 3hSvxfK4dvvDqRLr8DaINR, 0
+2, Desiigner, Panda, 5YEOzOojehCqxGQCcQiyR4, 71
+3, DJ DUNN, EXTREME NEW YEARS EVE COUNTDOWN 2016, 67Iks5ACbkBKSiAJswQBjl, 0
+4, Rihanna, Same Ol’ Mistakes, 6RtzmszGXs32TRhv5zTKNM, 65
+5, Mathien, The Year 2016, in Musical Form, 7EQOzkminKQnB502ToNGJS, 0
+6, Brothers Osborne, 21 Summer, 483beWfErq5MZAvC0fJ7cr, 61
+7, Greg Quill, Seven Years of Silence - 2016 Remaster, 0LHilfPvyvBGX7cGHLKtPu, 0
+8, Noah Cyrus, Make Me (Cry), 2BrzlUj1u1CtvaJDGIKpsP, 67
+9, Isaiah James, New Year’s Freestyle, Pt. II - 2016, 6fmPrxqSVQktdEdPYiNkuj, 0
+10, Chase Atlantic, Moonlight, 1rWzYSHyZ5BiI4DnDRCwy7, 70
+11, Marc Fedak, Happy New Year! (1916, 1969, 2016), 69V5GEwvu9RQeVqSaZEtwB, 0
+12, NF, Grindin', 3m6HMeFX6GIlGPMBcLEN6t, 64
+13, Vlad Volkov & Harisma, Happy New Year 2016 - Original Mix, 7omFBCBofKpyaRbl6HdpBK, 0
+14, Post Malone, Money Made Me Do It, 1ysAvOdJgUjc6CqOQxepaz, 63
+15, Endymion, Nightbreed 2016 Yearmix - Mixed by Endymion, 1BKrLMMy6uqwNWQBOnEJqI, 0
+16, Celia Cruz, La Vida Es Un Carnaval, 1BwrMGGhPA6GarWIYaFrW8, 69
+17, Vlad Volkov & Harisma, Happy New Year 2016 - Radio Mix, 7oh9tdeJLI762ytAOXbEsV, 0
+18, Solange, Cranes in the Sky, 48EjSdYh8wz2gBxxqzrsLe, 64
+19, Vlad Volkov & Harisma, Happy New Year 2016 - Original Mix, 7KfgeeXPsBC2ejt0L67ILm, 0
+20, CNCO, Reggaetón Lento (Bailemos), 3AEZUABDXNtecAOSC1qTfo, 73
+21, Nash The Slash, The Million-Year Picnic - 2016 Remaster, 7nIG0goFT9pFDIITjlULEg, 0
+22, Drake, Summers Over Interlude, 3ppVO2tyWRRznNmONvt7Se, 63
+23, Alex Vlassoff, Never in a Million Years (Remix 2016), 3HgMATezsy1GwtoVgZLfXn, 0
+24, Ayesha Erotica, Emo Boy, 6mPYVKu2OMCsV8Y4ClX2V9, 65
+25, Adma Music Friends, I Believe (Song of the Year 2016), 2pTfLBhI4Gnhz5SDQu77xL, 0
+26, Rachel House, I Am Moana (Song of the Ancestors), 6uk7QQiWRDjPHSiSMZlez8, 63
+27, Roman Messer, Suanda Music Year Mix 2016 - Continuous Mix, 4Gc2knkFjGAMg25g4BOLFs, 0
+28, Sia, The Greatest (feat. Kendrick Lamar), 7xHWNBFm6ObGEQPaUxHuKO, 70
+29, Greg Sletteland, New Years Eve 2016 (EDM Trance Version), 2AEe8LNkFYQHmu7aLKre8Y, 0
+30, Mac Miller, BDE Bonus, 4vbCuMBvSN4jqOX4ypQcbz, 64
+31, Greg Sletteland, New Years Eve Nye 2016 (Trance Remix), 65PtU6TIhh3qMK90dlr6G0, 0
+32, Danny Ocean, Me Rehúso, 6De0lHrwBfPfrhorm9q1Xl, 77
+33, Ren Jie, The Absence Suite: II. Year 2016 (Impromptu), 65neDzaTY67i8g0S5G3GPP, 0
+34, The Weeknd, True Colors, 1oGdVdYjeQvojGKDddxLQQ, 65
+35, Oasis de Luxe, Friday Night Cafe (New Years Eve 2016), 0PWzY6pNoCTPMKc8DBhH5I, 0
+36, The Weeknd, Rockin’, 36YCdzT57us0LhDmCYtrNE, 68
+37, CyFi, New Year, New Bass (Revamped Demo from 2016), 7uiwV7qW2ikjrNfYyrtXt2, 0
+38, Keith Urban, John Cougar, John Deere, John 3:16, 72f7jNxopSGvbx3M35i3Zl, 61
+39, Joe Cutler, 2016 Was a Sad Year for Pop Music, 3queTvAoxJxXN2AaCSPOK4, 0
+40, Lemon Demon, Cabinet Man, 0lrtYwuy37bJzsO2LHz2kj, 63
+41, Aly & Fila, Unbreakable (ASOT 795) [Tune Of The Year 2016], 2pF38jzG9U3v0kotQ2LKj8, 4
+42, Charlie Puth, Marvin Gaye (feat. Meghan Trainor), 7rl1z4j7MurMDnn9rHh4M2, 61
+43, Atomic Swing, The Weird Years Of Gentle Chill - Remastered 2016, 0Z0edLXwkcuDKQBvxZybtk, 6
+44, J. Cole, Ville Mentality, 2z3joGXrdGL2iEjIKQTiN1, 63
+45, DC Yeni, Merry Christmas and a Happy New Year 2016, 1p2TBEIhW1lQiPu4EOxrvN, 0
+46, Drake, With You, 3aJkV6DUTSCqOwVwaBDG9B, 64
+47, The Amy Incident, Since 2016 Didn't Kill Me (Next Year Might...), 7wS1s4nNtozVxpwef2saZ8, 0
+48, Reik, Ya Me Enteré, 0lPXFrKyl8HkdQ2E6NmNja, 75
+49, Bryan Breaux, Love (New Year's Mix 2016) - 2021 Remastered Version, 293bYvuQYbt6Hfk0LNNr9Z, 0
+0, Little Mix, Power, 0lUSd7TCG8srh6HpIAEIWL, 75
+1, Nash The Slash, The Million-Year Picnic (Marsden Version) - 2016 Remaster, 4x8VtOHWdvEfaAvqTwzcIK, 0
+2, Lil Peep, big city blues, 1IX9zu7Ciqf1k48IyPLruN, 68
+3, Years, The Christmas Song (2016), 3BF7u58GVbLhn5rwGbwaby, 0
+4, Lil Peep, yesterday, 1oZX407PWkU5ETtmRy3zL8, 67
+5, Years, Don't Rest a Wink (2016), 6pqjBWOZczK5DCK756qedW, 0
+6, Kiiara, Gold, 6ZSO7kPn8IMJFymyticbJO, 65
+7, ART DLR, We Are Sending Positive Energy in the Year 2016, 0ZyvIzH54JRMl0wA8xl8KZ, 0
+8, Christopher Fitzgerald, Never Ever Getting Rid of Me, 1CZgbcEZEhHH28HcBFvQIW, 65
+9, DJ X-Change, New Years Eve Ultimate Countdown 2016 - Epic DJ Tools, 6ujGMenXQ8PFJGZALNmFRM, 0
+10, Rachel Platten, Stand By You, 3kSXn1osC89W8JcPLozTzs, 65
+11, Allan McLoud, Silent Running 2016 - Mcloud's 16 Year Later Trance Mix, 1HS6RM3qgUr8gusVpPLXVr, 0
+12, Lil Uzi Vert, SideLine Watching (Hold Up), 0VYhxVxH9ijmdHUKsON9Bk, 62
+13, Ferry Corsten, Corsten's Countdown 496 Intro - Corsten's Countdown Yearmix of 2016, 28NUwyTmuzbsnEhckLMBWZ, 0
+14, Justin Hurwitz, Mia & Sebastian’s Theme, 1Vk4yRsz0iBzDiZEoFMQyv, 66
+15, Jam in the Van, Sting's Teacher Years - Live Session, Los Angeles, CA, 2016, 7lmUZVj2F5ApED6Dg7KcAA, 0
+16, The Lumineers, Nobody Knows, 7A0FGrZsLgOUmeNtMTnt4z, 63
+17, Ivan Gomez, Sex 2016 - Original 2016 Mix, 2Wn7tiSoN9jKkD1i9KvBce, 0
+18, Glass Animals, Season 2 Episode 3, 4vcoNCrTtunmJ9q8srpVly, 62
+19, ghostkiller, 2016, 4IAlpc4I2iUtRSKqqch4vs, 0
+20, BTS, Lie, 1nWB8isqs2tviWk20G5pow, 70
+21, Jam in the Van, 18 Year Old Girls - Live Session, Los Angeles, CA, 2016, 3eo5GhgWFKGBiXrqHOA2Ao, 1
+22, Whethan, When I'm Down, 556l9P7WVZVyYUBjT1YFTT, 63
+23, Armin van Buuren, A State Of Trance Year Mix 2016 - Where's Bob? - Outro, 3UHobyRHKuA0KPuGuseK1Z, 0
+24, $uicideboy$, Grey Magic, 0vMezqQQHkkUrYdL6mgRA2, 62
+25, Scott Johnson, 2016, 3TU8R6wCGlndxAmqDLVk6m, 0
+26, Post Malone, Big Lie, 02opp1cycqiFNDpLd2o1J3, 64
+27, How Hard, Hard Kryptic Records Yearmix 2016 - Continuously Mixed by How Hard, 6H0A8B8uHgdtaUzbTvst6Q, 0
+28, The Band CAMINO, 2 / 14, 2QwpEi3eNToZCCMMRcOj0u, 61
+29, Sam Ross, 2016, 6H8p6UyHnEbcl7xdpvxali, 0
+30, Lil Peep, california world, 7kjYPapOatvPuqPuMn4TgM, 63
+31, Don Giovanni, 2016, 3XxRQuiGb5z8ungUSyvjA1, 0
+32, Anna Kendrick, Get Back Up Again, 3K7xYRXPFDVyen7cZF5Zk2, 64
+33, Galgo, Milkshake (2016), 5rVNqR2ZmL1bbjEyS3cl42, 0
+34, Tech N9ne, Erbody But Me, 3kW5Rq9AIL0QQuYTSKNkQw, 61
+35, Galgo, Bot (2016), 6XOIoO2stbmhrkg7rlJViG, 0
+36, Dan + Shay, How Not To, 4n0xztUAbHPUV8G3NQvF30, 60
+37, Shuntaro Okino, The Light (speedometer. "I'm the 2016 light years from home mix"), 0aGNNkTtUzVzvOXwjIGVeg, 0
+38, Future, Perkys Calling, 05nB8pRwwbKA2fsKK1nOyE, 62
+39, Various Artists, Neophyte Records 2016 Yearmix by Neophyte Part 2 - Full Continuous Mix, 1sApXodVm7m42WgmqRpRQI, 1
+40, Wild Rivers, Heart Attack, 1rxB5KwQlyjYqmJU2ahy6V, 62
+41, Armin van Buuren, A State Of Trance (ASOT 795) - Tune Of The Year 2016, 3a8fkac1CGmaHuU84IRgen, 1
+42, The Head And The Heart, All We Ever Knew, 72zmwnbXjx9fMUjw3mbDSs, 62
+43, Ori Uplift, Uplifting Only - Orchestral Trance Year Mix 2016 - Continuous Mix, Pt. 1, 0vYQmPgYzqPrsGZUCBpHBh, 0
+44, Ulices Chaidez, ¿Por Que Me Enamoré?, 18J1Ke20aBiyK0nv9gnjez, 64
+45, Various Artists, Neophyte Records 2016 Yearmix by Neophyte Part 1 - Full Continuous Mix, 0j060jYiGMGVaHRkTqemW2, 2
+46, Young Nudy, Yeah Yeah, 0wIdpFIZqaKyscPAMSQ9wq, 62
+47, Genovese13, Playoffs 2016, 4uQB91jYQNwj8X09yyEush, 0
+48, Rex Orange County, A Song About Being Sad, 6Jl3ZOX6MUOlyoUc721bsX, 66
+49, Ori Uplift, Uplifting Only - Orchestral Trance Year Mix 2016 - Continuous Mix, Pt. 2, 5JQoAt4ydkbkmRpzeHqLXU, 0
+0, KC & The Sunshine Band, Give It Up, 3yDhZq8f17SmumVmEyCaRN, 69
+1, Jay Brandon, Election 2016, 4FWZPpsdHkf3BU1FNqFNfB, 0
+2, Auli'i Cravalho, How Far I'll Go - Reprise, 32pqqCrnIC5O5iE9c218PJ, 62
+3, DJ Isaac, Bitches 2016, 4YQzvREDzWILo9abXVaXnS, 6
+4, Ricky Martin, Vente Pa' Ca (feat. Maluma), 7DM4BPaS7uofFul3ywMe46, 74
+5, Male Factors, Регги - 2016, 2l9Q4zlC2jcxCGRlULqvrS, 0
+6, Zion & Lennox, Otra vez (feat. J Balvin), 3QwBODjSEzelZyVjxPOHdq, 73
+7, Armin van Buuren, A State Of Trance Year Mix 2016 - Gig At The MegaDome - Intro, 1oqWITnjpYwbTm4pWxPyxQ, 0
+8, Hailee Steinfeld, You're Such A, 3QTDzwSkRW04FVPo6COm0H, 63
+9, Panic, Foolish Freestyle 2016 Yearmix by Panic & Dr Phunk - Full Continuous Mix, 3bXdmX6uM0sw1HVvFAqEUi, 5
+10, Rihanna, James Joint, 6K4Co1NQyOnoFEJMkZHkln, 63
+11, Scarecrow, Nightride 2016, 43IAdqGYqd9PSBYxk3wZTu, 0
+12, Miranda Lambert, Tin Man, 4ckQIgBy1gVeevf7UAereE, 60
+13, Bedårande Barn, Konsertintro - 2016, 6yLR7wYkOycoO6fGJtx3wH, 1
+14, Auli'i Cravalho, Know Who You Are, 2wCRJwiL1WSrW0Dwfco7Nj, 62
+15, Wyatt, January 2nd, 2016, 1aW76D68BPa9g2sYX3Ehmt, 0
+16, Mick Gordon, Bfg Division, 4COR2ZPEyUn0lsbAouRWxA, 66
+17, .ex-machina., Pigs (2016 Version), 1B9HmqJseDlimzROr91lXi, 0
+18, Logic, Flexicution, 2c8sgbZoEanC3QyFNZxUcA, 62
+19, Cosmithex, Alchemy - 2016 Rework, 5oJe0ycD6hgfYgt9nP1A43, 0
+20, YoungBoy Never Broke Again, Gravity, 1OgoDWWGzCe6uwVdo2pozN, 60
+21, Mald1n1, First Stroke 2016, 04MeEjLDEvZKAgTk5WkU6Q, 0
+22, Banda MS de Sergio Lizárraga, Solo Con Verte, 5z4O1H0vFY0Nh4ZMtfgapP, 68
+23, PhatWhore's, TGM 2016, 5tml8kngYwldpvNo4oNaBp, 1
+24, Justin Timberlake, CAN'T STOP THE FEELING! - Film Version, 4sQmCQUZcnBPaVm4dEUKv7, 66
+25, INNY, Clockwork - 2016 Edition, 7GnoVXmZCMZ45vkkdQyAeM, 0
+26, BLACKPINK, PLAYING WITH FIRE, 7qmvLmX9tyaTiBAVNI6YEn, 73
+27, INNY, Shamrock - 2016 Edition, 0ZeiIKajw7IZX1pkWTX00X, 0
+28, Chance the Rapper, Same Drugs, 6m9qPYXmhge2QhBLfFKnVF, 62
+29, INNY, Playtime - 2016 Edition, 1svNqkstuQXxKNYPhwiklz, 0
+30, TV Girl, Not Allowed, 3IznIgmXtrUaoPWpQTy5jB, 64
+31, Glenn Murawski, A Foreboding (2016), 7kpo6fLpSmhbQNKiqqlRjn, 0
+32, Logic, 44 Bars, 4s2BWgnSQ9NZiOQM4PP4HB, 62
+33, INNY, Joust - 2016 Edition, 5kFA6nLAUzQlQeLzr7a3xl, 0
+34, NF, Warm Up, 7Gr8gb3hqKr4zEbFlrVYPQ, 63
+35, INNY, Memories - 2016 Edition, 04OsXoXgAgm5abQWDXatAs, 0
+36, Luke Combs, Sheriff You Want To, 1NBJoYCz83qtBFGGPgfTkQ, 61
+37, Armin van Buuren, A State Of Trance (ASOT 791) - A State Of Trance Year Mix 2016, 5kSK0aa9fhmsPYMzVLBevA, 1
+38, R.K.M & Ken-Y, Down, 0t0WIrjRcvgBAwLlby2gsZ, 67
+39, Angelo Kelly, Scarborough Fair - 2016 Version, 6iFDwn17e8l9nQjiMrfdCu, 15
+40, Upchurch, Outlaw (feat. Luke Combs), 0jqIg4wzcKfRNJOJxxgPyn, 59
+41, Greyhawk, 2016Pack - Emiel Roche Remix, 7LLPHOyi869TBj7aNSV5eo, 0
+42, BLACKPINK, WHISTLE, 6NEoeBLQbOMw92qMeLfI40, 73
+43, Armin van Buuren, A State Of Trance (ASOT 794) - A State Of Trance Year Mix 2016, 60zBslAaoJLZafFtvgSmRM, 0
+44, DREAMERS, Sweet Disaster, 7bEDDsy2LFC0KSqhZp5nPE, 61
+45, INNY, Lullaby - 2016 Edition, 1kY1jyDeY9X7JoMfYwLCul, 0
+46, Ab-Soul, The Law (feat. Mac Miller & Rapsody), 17vQTNbvhpvi92qOnDOFHB, 63
+47, D Menace, Propper Bass 3 2016, 3sMpWKBv96cSEWNUf91X1u, 0
+48, Rihanna, Higher, 1KnJwhZU3DIBe54Q4HPpIl, 63
+49, Uncle Doug, Break up Night, 2016, 7HxNX2XF6VKHLnOO5osdit, 0

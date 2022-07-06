@@ -1,0 +1,1500 @@
+0, WILLOW, Wait a Minute!, 0y60itmpH0aPKsFiGxmtnh, 88
+1, Schoolgirl Byebye, Year,2015, 0UsmyJDsst2xhX1ZiFF3JW, 24
+2, Beach House, Space Song, 7H0ya83CMmgFcOhw0UB6ow, 80
+3, Iron Maiden, Wasted Years - 2015 Remaster, 2V0T2LS0pf2r3EFpOEkZFO, 55
+4, Chris Stapleton, Tennessee Whiskey, 3fqwjXwUGN6vbzIwvyFMhx, 81
+5, Anthem Lights, K-LOVE Fan Awards: Songs of the Year (2015 Mash-Up), 5rJw9VsPNdfnV9Ar97xZG2, 27
+6, The Weeknd, The Hills, 7fBv7CLKzipRk6EC6TWHOB, 86
+7, Tori Amos, Silent All These Years - 2015 Remaster, 5kRDK0lC01ceWWuXgkjYLi, 43
+8, The Neighbourhood, Daddy Issues, 5E30LdtzQTGqRvNd7l6kG5, 86
+9, Tori Amos, Pretty Good Year - 2015 Remaster, 70euagGKfDWkSQCoZtHFdh, 23
+10, Tame Impala, The Less I Know The Better, 6K4t31amVTZDgR3sKmwUJJ, 84
+11, Phil Collins, Can't Turn Back The Years - 2015 Remastered, 3R3hLQX2u6lZIORZQsJmtD, 47
+12, BØRNS, Electric Love, 2GiJYvgVaD2HtM8GqD9EgQ, 83
+13, Beatsteaks, Gentleman of the Year - 2015 Remaster, 5ya8rum1Yym1ObenIygXAC, 29
+14, Vundabar, Alien Blues, 11iIikXxC6NP0Ma8vMD27x, 83
+15, Daryl Hall & John Oates, It's Uncanny - 2015 Japanese Remaster, 5eJz8lyMlGVfS03fnZIdPp, 37
+16, Lord Huron, The Night We Met, 0QZ5yyl6B6utIWkxeBDxQN, 78
+17, David Bowie, Velvet Goldmine - 2015 Remaster, 6GCNEAIZVH4lKQD30lfQ6f, 39
+18, Lil Peep, Star Shopping, 30bqVoKjX479ab90a8Pafp, 83
+19, David Bowie, Space Oddity - 2015 Remaster, 5sUrZEf4qEtjepdgcetith, 37
+20, Travis Scott, 90210 (feat. Kacy Hill), 51EC3I1nQXpec4gDk0mQyP, 80
+21, LADYBABY, Nippon Manju, 06NEuecnoNSQxDC3lfHpyy, 42
+22, Kendrick Lamar, Alright, 3iVcZ5G6tvkXZkZKlMpIUs, 79
+23, Roy Orbison, There Won't Be Many Coming Home - Remastered 2015, 4cuozf7bRILRTJyrNo8hTO, 37
+24, Tame Impala, Eventually, 5M4yti0QxgqJieUYaEXcpw, 80
+25, The Flaming Lips, Bad Days - 2015 Remaster, 27DJWxjGalNEa5rfEPTDNG, 29
+26, Bryson Tiller, Don't, 3pXF1nA74528Edde4of9CC, 79
+27, JPEGMAFIA, 2015 was a great year, 4tdI8hLyvQJ562nGhf0f8y, 27
+28, Mac Miller, Weekend (feat. Miguel), 6GnhWMhgJb7uyiiPEiEkDA, 78
+29, Roy Orbison, Losing You - Remastered 2015, 6iAlpVfmqRhmHhEPd1gx8m, 36
+30, Morgan Wallen, Spin You Around, 1yj1ZztSGITJ5Nf4mfH92c, 75
+31, Tori Amos, Silent All These Years - 2015 Remaster, 05sOCR8SfGjcf7D6bsQfUp, 29
+32, Twenty One Pilots, Stressed Out, 3CRDbSIZ4r5MsZ0YwxuEkn, 85
+33, Moon Taxi, Who's To Say? - Live, 2MRKc0dryJdSlrbFj0KV9I, 26
+34, Mark Ronson, Uptown Funk (feat. Bruno Mars), 32OlwWuMpZ6b0aN2RZOeMS, 84
+35, Roy Orbison, Best Friend - Remastered 2015, 14qngyOIYl5grgoLeNNhSo, 32
+36, Rae Sremmurd, This Could Be Us, 4jTiyLlOJVJj3mCr7yfPQD, 80
+37, THE SQUARE, Breeze and You (Live Version), 6yoOrydjbkvRv6XtnjnNC7, 35
+38, Tame Impala, New Person, Same Old Mistakes, 52ojopYMUzeNcudsoz7O9D, 79
+39, David Bowie, Life on Mars? - 2015 Remaster, 769Gf7dDk9ChZrQIzt038b, 32
+40, Jeremih, oui, 0PJIbOdMs3bd5AT8liULMQ, 77
+41, Case & Point, Descender - 2015, 0JZqVnHw3lxOvR7mjxPLic, 25
+42, $uicideboy$, Kill Yourself (Part III), 0kEZlJh4mK1QRfb3CT5LPk, 78
+43, Tori Amos, Pretty Good Year - 2015 Remaster, 0PbE6CgOXKNn622YBGki4w, 22
+44, Thomas Rhett, Die A Happy Man, 5kNe7PE09d6Kvw5pAsx23n, 74
+45, David Bowie, The Man Who Sold the World - 2015 Remaster, 61MJt8DGgDadH67v9mRUYo, 30
+46, Steve Lacy, C U Girl, 6FBzhcfgGacfXF3AmtfEaX, 76
+47, Grant Bowtie, Can You Hear It - 2015, 0HVGEaoG6jgkWlRVHTTxIf, 24
+48, Bryson Tiller, Exchange, 43PuMrRfbyyuz4QpZ3oAwN, 77
+49, Stonebank, Fire - 2015, 6WalqLXkl669YCYVEavpeY, 25
+0, Melanie Martinez, Pacify Her, 360Wr96ywrCQq4kTAJ8Pq6, 83
+1, LADYBABY, Ageage money Ochingin Daisakusen, 5q3v9R8RBuwZb4zRmyqOob, 33
+2, Cavetown, Devil Town, 0vf2eBw2inhl8y61cYQMv2, 79
+3, Fleetwood Mac, Not That Funny - 2015 Remaster, 1HBGbYHunfLYEnWGTi7NGG, 26
+4, Fall Out Boy, Centuries, 04aAxqtGp5pv12UXAg4pkq, 81
+5, Bread, In the Afterglow - 2015 Japan Remaster, 6UR4lRksZAgmJ6Ak2ImrOX, 27
+6, Twenty One Pilots, Ride, 2Z8WuEywRWYTKe1NybPQEW, 82
+7, Houndmouth, 15 Years - Live from SXSW 2015, 7d9XbA7YRANRk03EKDpCzJ, 16
+8, The Weeknd, Can't Feel My Face, 22VdIZQfgXJea34mQxlt81, 81
+9, Downtown Party Network, Space Me Out - Jody Wisternoff & James Grant Remix, 4aGyxpz1eTMaF3Wqvj1uKS, 31
+10, Fetty Wap, Trap Queen, 2d8JP84HNLKhmd6IYOoupQ, 75
+11, Inpetto, Lifting - Mix Cut, 7avlJ4ApOAje5977pRPmAy, 33
+12, Big Sean, I Don't Fuck With You, 7FYH5AW3bVfZHJIQpq3UOA, 75
+13, David Bowie, Changes - 2015 Remaster, 5O2KvGO2jE74XxMNQpPxsm, 23
+14, Justin Bieber, Love Yourself, 50kpGaPAhYJ3sGmk6vplg0, 84
+15, Phil Collins, Can't Turn Back the Years - 2015 Remaster, 2yIINfKM7FSllGaCFXNawR, 27
+16, Rae Sremmurd, Come Get Her, 1Ser4X0TKttOvo8bgdytTP, 75
+17, David Bowie, Oh! You Pretty Things - 2015 Remaster, 6JaYRajAjlWOaqyJV2kAh4, 23
+18, The Weeknd, Often, 4PhsKqMdgMEUSstTDAmMpg, 80
+19, LADYBABY, Renge Chance!, 52OVS4atVZ4l45pUXUJ39Z, 26
+20, $uicideboy$, Runnin' Thru the 7th with My Woadies, 1tm7c4V0kqLiN0XPVnoUcT, 75
+21, THE SQUARE, Hank & Cliff (Live Version), 4HsoS5WY522Gu34PD9MuBH, 23
+22, $uicideboy$, Paris, 6tO5bxNnMuh1c3cziSpecA, 75
+23, David Bowie, Ragazzo Solo, Ragazza Sola - 2015 Remaster, 6Lah4wdkr7j8QeABkuZrdK, 26
+24, Demi Lovato, Cool for the Summer, 3uwnnTQcHM1rDqSfA4gQNz, 85
+25, Bad Company, Bad Company - 2015 Remaster, 7i3FVvz4bEW7FjjvvvurVB, 14
+26, Big Sean, I Know, 6rje9f1wRFJDO2iTORw0lH, 75
+27, The Lights, Y. M. C. A., 2GNt7eZeRhsOnkooTE0LNc, 27
+28, The Weeknd, Earned It (Fifty Shades Of Grey), 4frLb7nWtsz2ymBE6k2GRP, 74
+29, Everything But The Girl, Before Today - Adam F Remix / 2015 Remaster, 2CyNHbhmiG7deA5rHrgnMY, 13
+30, Kodak Black, No Flockin', 34oWbFBfGEElvgO0a5c9V4, 73
+31, Grateful Dead, Scarlet Begonias - Live at Soldier Field, Chicago, IL 7/3/2015, 0YnaxkPaWl5kiVv1vB1Rsl, 13
+32, Chase Atlantic, Friends, 2jQiSYrwJehQAcuaaQrXnS, 82
+33, JPEGMAFIA, 2015 was a great year - Instrumental, 6y9wdQ46GnDWXtrE39RBKu, 13
+34, Roy Woods, Drama (feat. Drake), 0PXp9QxBfSKGGpWUNaws2X, 75
+35, David Bowie, Amsterdam - 2015 Remaster, 3jFHn2P14UisjAbaPvgZp5, 30
+36, Wiz Khalifa, See You Again (feat. Charlie Puth), 2JzZzZUQj3Qff7wapcbKjc, 82
+37, Bad Company, Seagull - 2015 Remaster, 1tRwFmLqxYzVy5shmIyPUC, 13
+38, Adele, When We Were Young, 7GgWAITsYJaRM3r50rfh5w, 75
+39, The Beatles, Eight Days A Week - Remastered 2015, 1BDyXgAoGr8nwJyvLo8l0m, 18
+40, Flo Rida, My House, 6Knv6wdA0luoMUuuoYi2i1, 78
+41, Roy Orbison, Ride Away - Remastered 2015, 2EvU5Dafs3U8tW5va9T42Q, 13
+42, Shawn Mendes, Stitches, 5jsw9uXEGuKyJzs0boZ1bT, 76
+43, LADYBABY, C'est si bon Kibun, 1o0KRodlb9q4ImI7Err5Ie, 24
+44, Fetty Wap, 679 (feat. Remy Boyz), 5NQbUaeTEOGdD6hHcre0dZ, 75
+45, David Bowie, Queen Bitch - 2015 Remaster, 0bx62Ku1d0ZyZfdLo67nZw, 17
+46, Sufjan Stevens, Fourth of July, 5Qnrgqy1pAm9GyNQOgyVFz, 80
+47, Grateful Dead, West L.A. Fadeaway - Live at Soldier Field, Chicago,IL 7/4/2015, 1XkANYxUsa1oJYXpfY1Bxd, 12
+48, Melanie Martinez, Play Date, 4DpNNXFMMxQEKl7r0ykkWA, 80
+49, Bad Company, Ready for Love - 2015 Remaster, 6PxBq0X6eTm91LpgrH5e3l, 13
+0, KYLE, Don't Wanna Fall In Love, 1YakuHfzKxjnseCEeVQtrY, 74
+1, David Bowie, I Wish You Would - 2015 Remaster, 4s3XabMZXMmaMNHYEubZ0i, 16
+2, Bryson Tiller, Right My Wrongs, 5rgrBsAFYMun6yhtnLKRPz, 74
+3, Grateful Dead, Fire on the Mountain - Live at Soldier Field, Chicago, IL 7/3/2015, 0otriTANizzbePRIu5Zt9V, 11
+4, Cavetown, This Is Home, 7s8VgA8OjvwBUuigKzEGBx, 76
+5, Grateful Dead, Bertha - Live at Soldier Field, Chicago, IL 7/3/2015, 0Q6rV8wWiyZdI3NQsIE8JN, 11
+6, Jeremih, Don't Tell 'Em, 0Dc7J9VPV4eOInoxUiZrsL, 75
+7, Grateful Dead, Shakedown Street - Live at Soldier Field, Chicago, IL 7/4/2015, 3MWyOX32x0SqXiTo73Jzzd, 11
+8, Drake, Jungle, 7JXZq0JgG2zTrSOAgY8VMC, 73
+9, Bad Company, Shooting Star - 2015 Remaster, 6BHZ967p9zVgaHBQKBCCQX, 12
+10, mike., These Days, 5tsI3xxDHDgzHhn30LTQNz, 73
+11, Bad Company, Rock Steady - 2015 Remaster, 0XmqQRhl7cMj5hKk4q43V4, 12
+12, Colter Wall, Sleeping on the Blacktop, 3Ozx6IrGdoQyAworJzvBDE, 72
+13, Daryl Hall & John Oates, When the Morning Comes - 2015 Japanese Remaster, 3HWI7jLHJJlReH2sDjKb6f, 13
+14, Rihanna, FourFiveSeconds, 78TTtXnFQPzwqlbtbwqN0y, 78
+15, David Bowie, The Prettiest Star - Mono; 2015 Remaster, 6F4Zhc5JqCBh5EBEfW3k3u, 18
+16, $uicideboy$, My Flaws Burn Through My Skin Like Demonic Flames from Hell, 6QFQqqYye5lAcnhCALvxKJ, 73
+17, Johann Strauss II, Elektromagnetische Polka, Op. 110, 5zpiSiRxbcvx0TI8r3UkQA, 24
+18, blackbear, idfc, 3SErMoIKdRELto2OspGs5L, 82
+19, Bad Company, Good Lovin' Gone Bad - 2015 Remaster, 4nOP6bSCajC5an8MZo6xSx, 11
+20, A$AP Rocky, Everyday (feat. Rod Stewart, Miguel & Mark Ronson), 2N3U8uTYhjX2KwGT0pf5x0, 77
+21, Grateful Dead, Box of Rain - Live at Soldier Field, Chicago, IL 7/3/2015, 7wfsRNtxOAim6i8K1P5G5T, 10
+22, Lil Uzi Vert, 7AM, 4v1P7JCjehbg5TmLQo2mFy, 72
+23, Moon Taxi, Year Zero - Live, 1h2aXTmrgmJ6smdoUGQIPF, 10
+24, Coldplay, Hymn for the Weekend, 3RiPr603aXAoi4GHyXx0uy, 83
+25, David Bowie, Conversation Piece - Mono Version; 2015 Remaster, 6Jm1OuOAWfUEk1ntKM41lV, 16
+26, Justin Bieber, Sorry, 09CtPGIpYB4BrO8qb1RGsF, 81
+27, David Bowie, Holy Holy - Spiders Version; 2015 Remaster, 66BTz98mYCizmDGRcl1TJo, 16
+28, Houndmouth, Sedona, 2MQhTbX792AT6YyzwLz9dt, 69
+29, Grateful Dead, Althea - Live at Soldier Field, Chicago, IL 7/5/2015 [GH Edit], 2T5m3DjBEs0XmP2EDizhm6, 10
+30, A$AP Rocky, L$D, 4S7YHmlWwfwArgd8LfSPud, 74
+31, Grateful Dead, China Cat Sunflower - Live at Soldier Field, Chicago, IL 7/5/2015, 4YUoVT8NAvrxJFcAV6oo3C, 10
+32, Chris Stapleton, Parachute, 5jROdl6MhcmP3O7h2sVgtw, 71
+33, Huey Mack, December 32nd, 2015, 4oB4VAjNZTOFZCgU7sYD4R, 10
+34, Kendrick Lamar, King Kunta, 0N3W5peJUQtI4eyR6GJT5O, 75
+35, Bad Company, Movin' On - 2015 Remaster, 5fDQrMfOOvdXOt8UY87XeV, 11
+36, One Direction, Drag Me Down, 2K87XMYnUMqLcX3zvtAF4G, 81
+37, Bad Company, Can't Get Enough - 2015 Remaster, 4X2PWPXS12GrIullqUaH4r, 12
+38, Melanie Martinez, Training Wheels, 3EGW6TGGbdk6Ys1Y3HU3lj, 76
+39, Inpetto, Learn To Fly - Mix Cut, 67zhpgDVNSTyzwjgry4oTw, 20
+40, blackbear, idfc, 6y6jbcPG4Yn3Du4moXaenr, 76
+41, Bad Company, Feel like Makin' Love - 2015 Remaster, 2pBuk3HpBnhJRHZWWOzMXa, 11
+42, Meghan Trainor, Like I'm Gonna Lose You (feat. John Legend), 2YlZnw2ikdb837oKMKjBkW, 78
+43, Grateful Dead, The Music Never Stopped - Live at Soldier Field, Chicago, IL 7/3/2015, 5eB0PLaYrmrjkLbVfIpIMn, 10
+44, Current Joys, Kids, 3pyyGVqWvRMq43qtJBzxe0, 74
+45, Grateful Dead, I Know You Rider - Live at Soldier Field, Chicago, IL 7/5/2015, 1lg2PXjoFB8HFcYETSxhQf, 10
+46, OMI, Cheerleader - Felix Jaehn Remix Radio Edit, 023OVLNzXhX0j7CxswUt6D, 69
+47, Miles Davis, Fantasy - 2015 Remaster, 5sn3oqWpWjICiZeJ0Djhhe, 26
+48, Cody Jinks, Loud and Heavy, 7JnCZ9w4HwDdCbJsIwS4SA, 70
+49, David Bowie, Moonage Daydream - The Arnold Corns Single Version; 2015 Remaster, 1Yb30zTZh4Ha7LDdJxRR9v, 17
+0, The Weeknd, Acquainted, 7uJH0YdSZL6psjxI6Xy08b, 75
+1, Moon Taxi, Run Right Back - Live, 4gQ3Dg2I22lt13CVny63ri, 11
+2, Alessia Cara, Scars To Your Beautiful, 0wI7QkCcs8FUQE1OkXUIqd, 77
+3, Grateful Dead, Drums - Live at Soldier Field, 7/5/2015, 5rzZ2R82TdEramx6rsCRyT, 9
+4, Travis Scott, Antidote, 1wHZx0LgzFHyeIZkUydNXq, 74
+5, Grateful Dead, Cumberland Blues - Live at Soldier Field, Chicago, IL 7/4/2015, 77RZmFOiZIkpyjCYvUXBBL, 9
+6, Twenty One Pilots, Tear in My Heart, 3bnVBN67NBEzedqQuWrpP4, 75
+7, Johann Strauss II, Studenten Polka, Polka française, Op. 263, 35yXAZx9BUNrm6spcxHPgB, 23
+8, Melanie Martinez, Cake, 5H3TCfiw0CQTX1XU7A9TXM, 78
+9, Grateful Dead, Touch of Grey - Live at Soldier Field, Chicago, IL 7/5/2015, 7cYJphCBJAn7dEEChOgZzV, 9
+10, G-Eazy, Me, Myself & I, 40YcuQysJ0KlGQTeGUosTC, 78
+11, Daryl Hall & John Oates, Las Vegas Turnaround (The Stewardess Song) - 2015 Japanese Remaster, 4Q0ew8rMlDqF4sPFhBwPWG, 10
+12, Teen Suicide, haunt me (x 3), 1QUMpZT7HG6sO3RiBu1LAJ, 74
+13, Roy Orbison, So Young - Remastered 2015, 1ejnmEFAz3fe4cFczxTBE4, 10
+14, Major Lazer, Lean On, 1Lim1Py7xBgbAkAys3AGAG, 73
+15, House Victimz, Amen for 8 years prayer, 1WIt8hyPpvOvrJP6cJgXuv, 30
+16, Adele, Love In The Dark, 7B5Npv8NjjTCzk8PLpU66h, 74
+17, The Flaming Lips, When You Smile - 2015 Remaster, 6e96Aek76bNvWgCqDN8iAo, 10
+18, Chris Janson, Buy Me a Boat, 2WKLUgklz0VDX5bKTZ3eYD, 70
+19, Jazz At Lincoln Center Orchestra, Single Petal of a Rose (Live in 2015), 0JPFkmxe4I7X0SkD0d5Urx, 11
+20, Zac Brown Band, Homegrown, 2kR18wsL3gvXRXdNE4dCGc, 70
+21, Roy Orbison, Unchained Melody - Remastered 2015, 0EdrIIyOYcnvUJOFyZehss, 12
+22, $uicideboy$, $Outh $Ide $Uicide, 496GZe7MxLloHgUQTmY2Ch, 71
+23, LADYBABY, ULTRA LUCKY, 0aPltFdJJCgtXoT8bolkM2, 16
+24, Sia, Chandelier, 2s1sdSqGcKxpPr5lCl7jAV, 70
+25, Moon Taxi, All Day All Night - Live, 019VEDtG5vOuROGFCaFnws, 10
+26, The Chainsmokers, Roses, 3vv9phIu6Y1vX3jcqaGz5Z, 75
+27, Grateful Dead, Truckin' - Live at Soldier Field, Chicago, IL 7/5/2015, 6dS0G5U8ReSsedQ25FalNZ, 8
+28, The Neighbourhood, The Beach, 2u0CelO5c81XS7z3dGpHbS, 77
+29, David Bowie, Unwashed and Somewhat Slightly Dazed - 2015 Remaster, 2tIZ64nUzIYLyjpxjPfG19, 14
+30, Tame Impala, Let It Happen, 2X485T9Z5Ly0xyaghN73ed, 75
+31, Dimitri Vegas & Like Mike, The Hum [ANR85], 6iAt54CMYKhfieOsubdaZ6, 20
+32, Drake, Jumpman, 27GmP9AWRs744SzKcpJsTZ, 73
+33, Hans Christian Lumbye, Champagner-Galopp, 3Oh8EAU5cTa7Pvd4cr6D4e, 18
+34, X Ambassadors, Unsteady, 7lGKEWMXVWWTt3X71Bv44I, 74
+35, Grateful Dead, Not Fade Away - Live at Soldier Field, Chicago, IL 7/5/2015, 6IWpbdp57shcm7h8qFSXtR, 8
+36, Drake, Energy, 79XrkTOfV1AqySNjVlygpW, 73
+37, The Yardbirds, Five Long Years - Live at the Marquee Club, 1964 - 2015 Remaster, 0JSWSWAvSh9yji01yYTB5z, 10
+38, Chris Stapleton, Fire Away, 5j4hSQH0KaAc8f6cimnXIT, 70
+39, Moon Taxi, Change - Live, 51XRm0bIg2Qlyx15jWACLw, 9
+40, Jeremih, Planez, 08zJpaUQVi9FrKv2e32Bah, 71
+41, Moon Taxi, River Water - Live, 5Xr3MavecWqHtOuwx64NFJ, 9
+42, Cage The Elephant, Trouble, 5n0CTysih20NYdT2S0Wpe8, 72
+43, Moon Taxi, Mercury - Live, 2mDaaBPelnEtyWpqh8hN2g, 9
+44, Melanie Martinez, Dollhouse, 6wNeKPXF0RDKyvfKfri5hf, 75
+45, David Bowie, Kooks - 2015 Remaster, 6ZLQ7htoZdHrLC1l6tGki5, 15
+46, Tim McGraw, Humble And Kind, 4Pn0JlCUusD2QHjADuOzuV, 69
+47, The Flaming Lips, Brainville - 2015 Remaster, 6Ch0gUjvJrqtAzmD5yLwjW, 8
+48, A$AP Rocky, Jukebox Joints (feat. Joe Fox & Kanye West), 2gAGWaK4wvt2xrFUlR4mK8, 71
+49, David Bowie, Holy Holy - Mono; 2015 Remaster, 2Cc3nUb7az8s4hjyjK29r0, 10
+0, X Ambassadors, Renegades, 0fYVliAYKHuPmECRs1pbRf, 76
+1, Placebo, Twenty Years - Live at Europa Festival 2015, 5C16cyfchibqnGoVkcCEqD, 5
+2, Meek Mill, R.I.C.O. (feat. Drake), 0Y0TOsE1q11qgbi7c5WZsG, 71
+3, David Bowie, All the Madmen - 2015 Remaster, 5q0rYe11PQ6e0azpSkImjm, 12
+4, Rae Sremmurd, No Type, 4scpF6J5uMBvoh6sFB7EL1, 73
+5, Bad Company, Wild Fire Woman - 2015 Remaster, 0QaI1pK4r9dLlTYIwbPddE, 7
+6, Rainbow Kitten Surprise, Cocaine Jesus, 0ZAbupc7jAQpG9IxojQ3s3, 70
+7, Bad Company, Don't Let Me Down - 2015 Remaster, 6yTyncZRFYZZB8JCyeobOA, 8
+8, Fall Out Boy, Immortals, 3Te8uLyit6X3ncNW8Fp3K2, 74
+9, Bad Company, The Way I Choose - 2015 Remaster, 7c9Xz19MZGKrJE7oLAsKkX, 8
+10, Sia, Elastic Heart, 5S9lfZu1YF8xKkgSsqL2Bd, 70
+11, The Flaming Lips, The Abandoned Hospital Ship - 2015 Remaster, 5preMDMh0oulNf3NyOMN50, 8
+12, Adele, Hello, 62PaSfnXSMyLshYJrlTuL3, 73
+13, David Bowie, Space Oddity - UK Mono Single Edit; 2015 Remaster, 1jc1pjS2K5rjGILNO0C9tW, 17
+14, Chief Keef, Faneto, 7EcE5yCPVZaZut1JqowbcI, 69
+15, Moon Taxi, Savannah - Live, 2GrLvLiexk5JAl7QWh8EUU, 8
+16, Leon Bridges, River, 3hhbDnFUb2bicI2df6VurK, 73
+17, Moon Taxi, Make Your Mind Up - Live, 6OTyvQChdsW1sSfjLoyGi9, 8
+18, Mac DeMarco, No Other Heart, 2aaCNg42RA74s0EmHTBqS7, 73
+19, The Flaming Lips, Psychiatric Explorations of the Fetus with Needles - 2015 Remaster, 7jUcm67t61jqDLApNJGz21, 7
+20, Pastel Ghost, Dark Beach, 5QmdK8QFbY8TLVKPuJzexD, 74
+21, THE SQUARE, 宝島 (Live Version), 0y2wBb9hRS7IxHU94uAtqH, 17
+22, Halsey, Gasoline, 2IO7yf562c1zLzpanal1DT, 72
+23, Giorgos Zambetas, Peristeri, 3bmBASAizfhWn39E2suo9Q, 17
+24, A$AP Rocky, Lord Pretty Flacko Jodye 2 (LPFJ2), 1j6kDJttn6wbVyMaM42Nxm, 71
+25, T-SQUARE, Open The 35th Gate (Live Version), 3porfyFpfrQxTJnEIgXJeq, 21
+26, Justin Bieber, What Do You Mean?, 4B0JvthVoAAuygILe3n4Bs, 78
+27, David Bowie, Cygnet Committee - 2015 Remaster, 7qlQBKebUnGBPzGmlHjrZ1, 13
+28, Ocean Waves For Sleep, Rolling Ocean Waves, 11Rm75lU5EmETsTR22C0gT, 69
+29, David Bowie, Andy Warhol - 2015 Remaster, 3OrVVvxCW57eDV5gCQlfss, 11
+30, Melanie Martinez, Soap, 03f7xZmt2wHCIDJBFPK8G4, 74
+31, David Bowie, Letter to Hermione - 2015 Remaster, 6LIQz0iiokJkCjpRtwIHKT, 14
+32, Ne-Yo, She Knows, 7seTcUFOhn5caSDbiSfsp0, 67
+33, David Bowie, Black Country Rock - 2015 Remaster, 4cWyMR0mjBuyS6pB3driwM, 11
+34, Eric Church, Record Year, 5fSPbm5lcwtqwXkeQQswW8, 68
+35, David Bowie, Round and Round - 2015 Remaster, 2fs58FkjjxqWyxi2oh3MJ7, 12
+36, The Weeknd, In The Night, 25KybV9BOUlvcnv7nN3Pyo, 73
+37, Grateful Dead, Attics of My Life - Live at Soldier Field, Chicago, IL 7/5/2015, 0XhjlPj5YxJ03dgMrV9BMg, 6
+38, Adele, All I Ask, 05TOt5Vz4StdjMpEdFPlvB, 71
+39, Boombox Cartel, B2U (feat. Ian Everson) - Mix Cut, 0fbPV6HpJ5vUvJboXGjxtp, 11
+40, One Direction, Perfect, 3NLnwwAQbbFKcEcV8hDItk, 78
+41, Bad Company, Deal with the Preacher - 2015 Remaster, 4vUVwFExC0FkVWM7FmaBFa, 7
+42, Meghan Trainor, Better When I'm Dancin', 5k5fWendNngd89O8JKoE8L, 75
+43, The Flaming Lips, This Here Giraffe - 2015 Remaster, 5qyC7PnBvouNLZ943ayXhX, 7
+44, Adele, Send My Love (To Your New Lover), 0t7fVeEJxO2Xi4H2K5Svc9, 73
+45, Daryl Hall & John Oates, Fall in Philadelphia - 2015 Japanese Remaster, 3d3ZZl9wMCh9Tjb091I2PL, 7
+46, Billy Currington, Do I Make You Wanna, 3I7krC8kr0gFR7P6vInR1I, 68
+47, Moon Taxi, Whiskey Sunsets - Live, 3Ajk0klQz4eRWJeyXWzMq2, 8
+48, Melanie Martinez, Pity Party, 3fo6DYGktjENCiagUeU9yH, 73
+49, David Bowie, The Width of a Circle - 2015 Remaster, 4e52QJBGzuQnjiuBCkR1Tr, 12
+0, Thomas Rhett, Crash and Burn, 2Fk0WwAqTBesLtKg97nojy, 67
+1, LADYBABY, Beard-chan Robot, 2HsXrJyxriv6GX7xQguJbp, 16
+2, The Oh Hellos, Soldier, Poet, King, 3xtiXNDbSKxy20I7D6vFUg, 71
+3, Daryl Hall & John Oates, Love You Like a Brother - 2015 Japanese Remaster, 79A9UFbX9tf61uZ3b1Ee0G, 7
+4, Jason Derulo, Want to Want Me, 7oGZAicScQt96OAW4AruYy, 76
+5, David Bowie, Hang on to Yourself - Arnold Corns Version; 2015 Remaster, 346Wm4hdxTu4leg2yQqB9d, 12
+6, Chris Young, I'm Comin' Over, 0H04yVa3DJxoXbLBpAb7iV, 68
+7, Franz von Suppé, Ein Morgen, ein Mittag, ein Abend in Wien: Ouvertüre, 5zEZ57rGQbZMEt6SeoJpCu, 13
+8, Cavetown, Meteor Shower, 6A2itXgDf96XHp9qR6oyPN, 72
+9, LADYBABY, SCHOOL OF HARD KNOCKS, 6ErxyCAF6cGEfqcM6IV5Dx, 15
+10, Melanie Martinez, Mad Hatter, 5gWtkdgdyt5bZt9i6n3Kqd, 72
+11, David Bowie, Sorrow - 2015 Remaster, 0KVe5zXb6e3wBMOdONSKf7, 12
+12, Galantis, Runaway (U & I), 46lFttIf5hnUZMGvjK0Wxo, 76
+13, David Bowie, Janine - 2015 Remaster, 2oPfxbxyd96Vci1PI4L7Or, 12
+14, Belly, Might Not, 5e9aFSdnkQUrm5y8Dhw0qN, 71
+15, David Bowie, Time - 2015 Remaster, 34m1uRHAFaOXs1LKSKPih7, 10
+16, Luke Bryan, Huntin', Fishin' And Lovin' Every Day, 0dbzWSYpMcRtwjI1S7Pkql, 68
+17, Giorgos Zambetas, Ta Dilina, 7t6O79lBf5G2ugnNMd54vW, 20
+18, Rihanna, Bitch Better Have My Money, 0NTMtAO2BV4tnGvw9EgBVq, 74
+19, David Bowie, Quicksand - 2015 Remaster, 1comewccDPZxr2KqsskxDG, 11
+20, Imagine Dragons, Warriors, 1lgN0A2Vki2FTON5PYq42m, 68
+21, Stoneface & Terminal, Super Nature - 2015 Rework, 49qqzhd0sCVp0itLXwaNk4, 8
+22, Five Finger Death Punch, Jekyll and Hyde, 5MjkeHk6I0JA0q13eqtnJP, 67
+23, Miles Davis, Tutu - 2015 Remaster, 4CU1RTsfZQ8qJ8ihRklHt9, 9
+24, Amber Run, I Found, 5zT5cMnMKoyruPj13TQXGx, 74
+25, Roy Orbison, Claudette - Remastered 2015, 4zsuCHNJFYANlT459lRYmu, 8
+26, Renée Elise Goldsberry, Satisfied, 3dP0pLbg9OfVwssDjp9aT0, 70
+27, David Bowie, The Supermen - 2015 Remaster, 3enwjmxT6rGw1KHmWcoUea, 10
+28, Leslie Odom Jr., Alexander Hamilton, 4TTV7EcfroSLWzXRY6gLv6, 70
+29, DJ Kid Stretch, Argentina Break, 5OLK0LJjZQoRFcrTpcLyio, 30
+30, Snakehips, All My Friends (feat. Tinashe & Chance the Rapper), 6TaqooOXAEcijL6G1AWS2K, 74
+31, Lost Frequencies, Reality [ANR85], 246bdGvcKlPLS4Qv3Rc6yl, 24
+32, Avicii, Waiting For Love, 2P4OICZRVAQcYAV2JReRfj, 81
+33, David Bowie, Running Gun Blues - 2015 Remaster, 3TRljFSbGvMo7hIWKgKmyo, 9
+34, Coldplay, Adventure of a Lifetime, 69uxyAqqPIsUyTO8txoP2M, 77
+35, David Bowie, An Occasional Dream - 2015 Remaster, 19IKXFE0cG5pbBZB0vUPy5, 11
+36, NF, Paralyzed, 5DHQKZCOZhGNTbYBCekWx0, 73
+37, David Bowie, The Bewlay Brothers - 2015 Remaster, 5jCaiy8NHXpUfh1yTQXR7s, 11
+38, Toby Fox, Fallen Down, 1jDMi92a9zNQuPD3uPMkla, 72
+39, David Bowie, Eight Line Poem - 2015 Remaster, 2qsxbpUmRRnWRlaDXpHvhk, 10
+40, Future, March Madness, 3WcC6NH9J77xPEvj1SOL7z, 68
+41, Bad Company, Weep No More - 2015 Remaster, 49kWlv6AtKWnEJOSz2IFNY, 6
+42, Elle King, Ex's & Oh's, 70eDxAyAraNTiD6lx2ZEnH, 73
+43, Bad Company, Call on Me - 2015 Remaster, 2Q7KbUHCksY5McONtFZy09, 5
+44, Chris Stapleton, Traveller, 178OI1A3qjROeFeh8lmNwW, 67
+45, David Bowie, Song for Bob Dylan - 2015 Remaster, 1lit7jyu4sHYkPDScZAAga, 10
+46, Sheppard, Geronimo, 19cL3SOKpwnwoKkII7U3Wh, 67
+47, David Bowie, God Knows I'm Good - 2015 Remaster, 15Qf4JBEjO2AhU11TYrjcx, 11
+48, Drake, Back To Back, 5lFDtgWsjRJu8fPOAyJIAK, 69
+49, Daryl Hall & John Oates, I'm Sorry - 2015 Japanese Remaster, 6Rtzx99mrKtOhP1EnCcbFT, 7
+0, Ross Lynch, On My Own, 51xUartdwQzXmtrwHyXRVp, 74
+1, Roy Orbison, Help Me, Rhonda - Remastered 2015, 0AmKhLviEyG2Ct0nX0hjzr, 6
+2, Fetty Wap, Again, 3ESSGgWzRf1xvP7G5hHMhB, 67
+3, David Bowie, All the Madmen - Edit; 2015 Remaster, 1v6OADR9HweDVrPUlnPZrT, 9
+4, Colter Wall, The Devil Wears a Suit and Tie, 7hlA8gMMz6jSp91Twsnuv3, 67
+5, David Bowie, Memory of a Free Festival - 2015 Remaster, 5CZX9eSXbz485sdMpU5ncj, 12
+6, $uicideboy$, CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This), 59aL2q2UPYJkgLTSv0WTlB, 67
+7, David Bowie, Wild Eyed Boy from Freecloud - 2015 Remaster, 1j59mXbJYgG28eLmE53jMG, 11
+8, One Direction, Olivia, 5dONhl6aXFuN86UBdayF6W, 73
+9, Bread, Make It with You - 2015 Japan Remaster, 1jP2fH9A1uxXcYTAtawYDT, 9
+10, White Noise Meditation, Brown Noise - Loopable with No Fade, 67iF3DdebmElASIGoebYt1, 67
+11, Daryl Hall & John Oates, You're Much Too Soon - 2015 Japanese Remaster, 6QdkSLWn6wy6oWQskvS2ZM, 6
+12, Old Dominion, Snapback, 7I5fYc4qKJddht8Ozhqqdx, 66
+13, Edwin Yearwood, Party Ah De Year, 3LzayzSoQsilgmrrSakLqa, 7
+14, Tyler, The Creator, SMUCKERS (feat. Lil Wayne & Kanye West), 078C2jXg7XsMgW78Gfx1JA, 68
+15, The Flaming Lips, Bad Days - Aurally Excited Version; 2015 Remaster, 6JkimOlOwpC8kiecs5ZZ5A, 6
+16, Meghan Trainor, Dear Future Husband, 3cU2wBxuV6nFiuf6PJZNlC, 74
+17, David Bowie, Memory of a Free Festival (Pt. 1) - 2015 Remaster, 6g4df0mDAxPdMXTT2vDkqd, 9
+18, Young the Giant, Mind Over Matter (Reprise), 77KnJc8o5G1eKVwX5ywMeZ, 76
+19, Daryl Hall & John Oates, Had I Known You Better Then - 2015 Japanese Remaster, 6QLiC1GwioZpMb1Q5KQc1b, 6
+20, Future, The Percocet & Stripper Joint, 1yCVsVH2hQ72SxNI8QTDaB, 68
+21, Roy Orbison, Pistolero - From "The Fastest Guitar Alive" Soundtrack / Remastered 2015, 6YM3IP8lMCP6eevA039xYB, 9
+22, Jonathan Groff, You'll Be Back, 6OG1S805gIrH5nAQbEOPY3, 70
+23, Giorgos Zambetas, Otan Tha Lavis Afto To Grama, 55SFVvOBV0gY00vDEvgSRf, 18
+24, The Internet, Palace/Curse (feat. Tyler, The Creator & Steve Lacy), 300DUx4tdtCdGEUXR032jA, 68
+25, David Bowie, Wild Eyed Boy from Freecloud - Mono, Single B-Side, 2015 Remaster, 1chcRVWGTZN9Mho5bPqT7j, 8
+26, Wes Walker, Jordan Belfort, 6qMXubogFdMrvVMJwqATzd, 66
+27, Accept, 200 Years - Live, in Pratteln, 2015, 4DkIFqdeUUhTs6A9JPK69c, 14
+28, Lil Peep, ghost boy, 19LvG1Uqsk9KyRRYhLC8Ib, 71
+29, Maribou State, Wallflower - Lane 8 Remix, 0onDOa0yMdn4bd6Sr8k2fD, 9
+30, Trey Songz, Slow Motion, 4NYwy0R3NdvORX2B6OZXBT, 69
+31, Edwin Yearwood, How Ah Like It, 5ar02XGjVnVcZXfeZYCRIe, 6
+32, Halsey, Control, 3SKzTIl9mW0DadTys9SFo3, 71
+33, LADYBABY, OVERTURE OVERSEA, 1fTni3c0ee2RnUmsiBe96u, 12
+34, $uicideboy$, Dead Batteries, 00UDmkyejOcUApEqpiB90i, 68
+35, THE SQUARE, Omens of Love (Live Version), 1KDUX2A9NlNfhQOuNqBQdd, 16
+36, Andra Day, Rise Up, 0tV8pOpiNsKqUys0ilUcXz, 74
+37, Bad Company, Anna - 2015 Remaster, 3QXynPNQYtooj7njfR3fkH, 5
+38, Ruth B., Lost Boy, 4h0zU3O9R5xzuTmNO7dNDU, 73
+39, David Bowie, Saviour Machine - 2015 Remaster, 43hr1Jl848X7Tt2H1X2SXG, 9
+40, $uicideboy$, Mount Sinai, 5vyR3lTiw4zz8B4PvnAO4c, 68
+41, Brennan Heart, Illumination (Reverze Anthem 2015), 4jNGGQ9OExdw9YS1xTsLrZ, 19
+42, Ellie Goulding, Love Me Like You Do - From "Fifty Shades Of Grey", 3zHq9ouUJQFQRf3cm1rRLu, 79
+43, David Bowie, After All - 2015 Remaster, 3ogqEijPyl9JD3H6ZljwUY, 9
+44, Natalia Lafourcade, Hasta la Raíz, 3lGMtkONrZdJ8kTCg6KIFf, 81
+45, David Bowie, Everything's Alright - 2015 Remaster, 39QtKgaezFtMLehASuGoCd, 7
+46, Adele, Water Under the Bridge, 4jL6WWKFDqCOPo2hC3VhSS, 68
+47, Decap, Taiwon, 4kUW0TkPN33Wz4EsxoQN40, 30
+48, The Revivalists, Wish I Knew You, 2EWpa5XnAuSn0sIkSSIhYk, 68
+49, David Bowie, See Emily Play - 2015 Remaster, 7p0khU1RMGRpNwChLJ0JfZ, 9
+0, Lin-Manuel Miranda, My Shot, 4cxvludVmQxryrnx1m9FqL, 69
+1, Roy Orbison, Crawling Back - Remastered 2015, 3USM9B5C02LahgmYgb1ehI, 7
+2, Jack Ü, Where Are Ü Now (with Justin Bieber), 66hayvUbTotekKU3H4ta1f, 75
+3, David Bowie, I Can't Explain - 2015 Remaster, 3DjetCnKnxSpMhOfWuptjJ, 8
+4, Renée Elise Goldsberry, The Schuyler Sisters, 71X7bPDljJHrmEGYCe7kQ8, 69
+5, David Bowie, Fill Your Heart - 2015 Remaster, 7MSnD5gkWt0GKDOG8Slbkt, 9
+6, BONES, Sodium, 5oo7lrBwuD4dVfJbBLyVyI, 70
+7, Roy Orbison, Only You - Remastered 2015, 4KRZ0bHSd7xpfgFWb63UOk, 6
+8, Shinedown, Cut the Cord, 4LFBVDJV0xpayUvquQVzhS, 68
+9, The Flaming Lips, Placebo Headwound - 2015 Remaster, 60aDRzpuB4tvfO6CtnCbst, 5
+10, Meghan Trainor, Lips Are Movin, 6gj08XDlv9Duc2fPOxUmVD, 72
+11, David Bowie, Friday on My Mind - 2015 Remaster, 4f6E3SyeGo0FWF9Q8ArRpm, 9
+12, Little Mix, Black Magic, 6rmXhRIemCTPyMYZRDN7Qg, 76
+13, David Bowie, Changes - Mono Single Version; 2015 Remaster, 3fMOn1U8m1PHPaVG6AikFw, 10
+14, 5 Seconds of Summer, She's Kinda Hot, 5fsQSDifYpjfbCqvZKPVBj, 69
+15, David Bowie, She Shook Me Cold - 2015 Remaster, 3BVVM7Oue0m5OZsgVaWNHr, 9
+16, Ryn Weaver, Pierre, 31c1V9xUONZYk78NE4Id8D, 66
+17, Daryl Hall & John Oates, Lady Rain - 2015 Japanese Remaster, 37qYEZOZo6SHHj2N2pLe24, 5
+18, Calvin Harris, How Deep Is Your Love, 22mek4IiqubGD9ctzxc69s, 78
+19, Roy Orbison, You Fool You - Remastered 2015, 6dQVunQ2xPO31Aa07bqFJv, 7
+20, Kodak Black, Already, 3XoMtVDuIbmMQ9UKSShXti, 66
+21, David Bowie, Don't Bring Me Down - 2015 Remaster, 35ypTQlgitwrrsYC8g3S08, 7
+22, Drake, Know Yourself, 5InOp6q2vvx0fShv3bzFLZ, 70
+23, Roy Orbison, Afraid To Sleep - Remastered 2015, 5k1BDXQoLIENGlgG5PRph0, 7
+24, Los Alegres de la Sierra, De Rodillas Te Pido, 7IIYeNjeZBJaZfDBIcJlAm, 65
+25, Roy Orbison, Southbound Jericho Parkway - Remastered 2015, 2WAl9YUZYSsJesXACRzk1Z, 5
+26, Kali Uchis, Melting, 2kSb3wYSOV996xA2NSmpck, 69
+27, The Flaming Lips, Kim's Watermelon Gun - 2015 Remaster, 3RN1FYsYA1CSDgPEGyPAtq, 4
+28, Lil Dicky, Molly (feat. Brendon Urie of Panic at the Disco), 7MkysLvt3L8UFji2PceoFU, 67
+29, The Flaming Lips, Evil Will Prevail - 2015 Remaster, 3fAfEGa4rnOWGhryFylLDa, 4
+30, Fetty Wap, My Way (feat. Monty), 1WoOzgvz6CgH4pX6a1RKGp, 67
+31, David Bowie, Andy Warhol - Mono Single Version; 2015 Remaster, 65D4q2YmZVxkwAVqTlDaYB, 8
+32, Tyler, The Creator, FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis), 46CA1H0T1r7u5lDUtVveAh, 68
+33, Daryl Hall & John Oates, Goodnight and Goodmorning - 2015 Japanese Remaster, 4MtcONdQFOERBNfRkn4Ytt, 5
+34, Fall Out Boy, Uma Thurman, 5PUawWFG1oIS2NwEcyHaCr, 69
+35, Roy Orbison, This Is Your Song - Remastered 2015, 6Yp3CLcA3r6cZ1wMJcIqgz, 6
+36, Sam Smith, Lay Me Down, 64GRDrL1efgXclrhVCeuA0, 73
+37, Roy Orbison, Two Of A Kind - Remastered 2015, 0NR31G5tbFqlrdD2rqA1J3, 7
+38, Luke Bryan, Kick The Dust Up, 5g15o2Sm55Hn9ShK5yEXgp, 66
+39, Roy Orbison, I Fought The Law - Remastered 2015, 1nMsGTXYHHZuJeNuG8KFX1, 5
+40, Disturbed, The Sound of Silence, 1Cj2vqUwlJVG27gJrun92y, 72
+41, The Flaming Lips, They Punctured My Yolk - 2015 Remaster, 1wjSVL6yNHwcc8Wy4cA6sz, 4
+42, Lil Uzi Vert, Top, 55Q46o5adtSobImSKrrlqW, 66
+43, The Flaming Lips, Lightning Strikes the Postman - 2015 Remaster, 3cPGau9zZGhv9iTlREIy2y, 4
+44, Jeremih, Impatient, 3WjyiSbfR74pjWXQ3IaFKJ, 69
+45, Daryl Hall & John Oates, Lilly (Are You Happy) - 2015 Japanese Remaster, 1EvJksrqVR5rKhhcGZ8eMS, 5
+46, Phillipa Soo, Helpless, 54Sc7mZQ1RM03STpk4SfaA, 68
+47, Daryl Hall & John Oates, Better Watch Your Back - 2015 Japanese Remaster, 3TtYhqmqS8cd8HE50DGuU8, 4
+48, Travis Scott, Maria I'm Drunk (feat. Justin Bieber & Young Thug), 6Yqmv7XJLCrQEauMbPGZSw, 69
+49, Moon Taxi, Year Zero - Live, 3NbVRO7iiXObkVdM9iqOgt, 3
+0, Drake, Legend, 1ID1QFSNNxi0hiZCNcwjUC, 68
+1, Daryl Hall & John Oates, Is It a Star - 2015 Japanese Remaster, 4yLMNMs7IJJLlLlkHC5DVC, 4
+2, Troye Sivan, YOUTH, 1cOyWWUr3oXJIxY0AjJEx9, 66
+3, David Bowie, Drive-In Saturday - German Single Edit; 2015 Remaster, 26rtzzGfTEPTeVzzl65SZH, 9
+4, Carrie Underwood, Church Bells, 67citk3uzWs5qbaIVKTeg8, 66
+5, Roy Orbison, It Wasn't Very Long Ago - Remastered 2015, 58SxgftmkkDdGXIKk0uwtR, 6
+6, $uicideboy$, Lte, 6GB3N6bDucdHThFVDCBcCv, 68
+7, Roy Orbison, Here Comes The Rain, Baby - Remastered 2015, 1OI7tbBRswJVWrZkxCv26l, 6
+8, Leslie Odom Jr., Wait for It, 7EqpEBPOohgk7NnKvBGFWo, 69
+9, Rome, Years of Abalone - Remastered, 1QuQYc4yclk9oAR6hdbMxA, 7
+10, Melanie Martinez, Tag, You're It, 3u1FiuSpfsgVnekEMXgMwJ, 71
+11, Daryl Hall & John Oates, Everytime I Look at You - 2015 Japanese Remaster, 3xEcjVR376HKF03ha4Yzwb, 5
+12, Kendrick Lamar, Wesley's Theory, 7Ks4VCY1wFebnOdJrM13t6, 69
+13, David Bowie, Memory of a Free Festival (Pt. 2) - 2015 Remaster, 5X20Xf7ViUNe20ZevgfHGF, 12
+14, Future, Where Ya At (feat. Drake), 5nN8BwAQDJDguq7Dpd3JQQ, 67
+15, David Bowie, Where Have All the Good Times Gone - 2015 Remaster, 6uwb1zWgpGfGKNJdi4FuHJ, 8
+16, Alessia Cara, Here, 5zUQZjVB6bfewBXWqsP9PY, 68
+17, Roy Orbison, I’m So Lonesome I Could Cry - Remastered 2015, 48sg8tYnlhJtnCkKAulomD, 5
+18, Meghan Trainor, All About That Bass, 5jE48hhRu8E6zBDPRSkEq7, 74
+19, Roy Orbison, I'm In A Blue, Blue Mood - Remastered 2015, 3WpVA9lDa9fTqYLhXAIeFQ, 6
+20, Chris Young, Think of You, 6W9W8dSswA8KNegvl3W97V, 66
+21, Roy Orbison, Breaking Up Is Breaking My Heart - Remastered 2015, 0GLReIRAIsvmYkyfg4exi4, 6
+22, Morgan Wallen, Stand Alone, 5Gy4y79aKl44KZ2BpmgY7P, 65
+23, Daryl Hall & John Oates, Beane G. and the Rose Tattoo - 2015 Japanese Remaster, 4FFkJXUspjFRHBJblP7zPp, 4
+24, Rich Homie Quan, Flex (Ooh, Ooh, Ooh), 4T0ScSPdQKmGvruK7pavNP, 66
+25, Roy Orbison, Whirlwind - From "The Fastest Guitar Alive" Soundtrack / Remastered 2015, 03LXhTuNdBiFJ1W2oNTjf1, 7
+26, Old Dominion, Break Up with Him, 5ZManJDV3CexO66nRCkdiV, 65
+27, Erik Koskinen, First Time in Years, 6Ume9E45JPlggfUt9wy2wV, 3
+28, Shawn Mendes, I Know What You Did Last Summer, 2GyA33q5rti5IxkMQemRDH, 73
+29, Roy Orbison, Medicine Man - From "The Fastest Guitar Alive" Soundtrack / Remastered 2015, 6tKLzQwBAOQkmlVukF0lbo, 7
+30, Thomas Rhett, T-Shirt, 1zWZvrk13cL8Sl3VLeG57F, 65
+31, Johann Strauss II, Explosions-Polka, Op. 43, 1gOpkryD7as6ssj97z7h4F, 12
+32, R. City, Locked Away (feat. Adam Levine), 7x5xYW5W42OGPAdHUyyguy, 78
+33, Yotto, Personal Space - Original Mix, 1AETNJWMgr6p3X7bvdgSJD, 10
+34, Vince Staples, Norf Norf, 4uQ7wYsuL0DryknoDc11Hk, 66
+35, Josef Strauss, Dorfschwalben aus Österreich, Walzer, Op. 164, 0uVPZ2NGf8DKaI6HMjVEnQ, 9
+36, Melanie Martinez, Sippy Cup, 2e4jB31WcGsxKL1ByqdZCq, 69
+37, Roy Orbison, The Fastest Guitar Alive - From "The Fastest Guitar Alive" Soundtrack / Remastered 2015, 7BVYbvUaLrlVoXnCcNtB54, 6
+38, Billy Currington, It Don't Hurt Like It Used To, 0iA1unTbTbDOWUSlbwJ1pS, 65
+39, The Flaming Lips, Guy Who Got a Headache and Accidentally Saves the World - 2015 Remaster, 3eCKngUbUN2ikTaMNAnhX7, 5
+40, Morgan Wallen, Sleep When We're Dead, 77Q8V48a8jGsghvaVNWMaP, 64
+41, Daryl Hall & John Oates, Can't Stop the Music (He Played It Much Too Long) - 2015 Japanese Remaster, 61uUw255Ca7XDIgOsexU5f, 4
+42, Demi Lovato, Confident, 3DXXKDbbZKyAZfNb96ST3q, 72
+43, Moon Taxi, Who's To Say? - Live, 1v6xv2IJp6RDORdJ5JV5p1, 4
+44, Lin-Manuel Miranda, Aaron Burr, Sir, 6dr7ekfhlbquvsVY8D7gyk, 68
+45, Moon Taxi, Run Right Back - Live, 6bmbIRyFMF3qbRLtZGkGRq, 4
+46, Rihanna, Dancing In The Dark - From The "Home" Soundtrack, 3nlVjrlLMJHC7Flf9impf9, 64
+47, Daryl Hall & John Oates, I'm Just a Kid (Don't Make Me Feel Like a Man) - 2015 Japanese Remaster, 4DR9yAfyh1DIFEXjoOLFEd, 5
+48, $uicideboy$, Harvest Moon, 1ejyx2kXWFY6QuYHu7yOyD, 66
+49, Mikis Theodorakis, VII (Ta Kelia), 4mdM3IzfQmOilrrUkU24SN, 8
+0, Selena Gomez, Same Old Love, 1BZG99C7Co1r6QUC3zaS59, 66
+1, Verbal Jint, Heat It Up, 0t3JxucJ51uKYEzsrg4RjU, 9
+2, Leon Bridges, Coming Home, 65GbQI9VDTs7vo6MJL2iJA, 69
+3, Todd Rundgren, Happenings Ten Years Time Ago - 2015 Remaster, 0DnVBaCcUf2KGYkmOPaUBN, 3
+4, Bring Me The Horizon, Throne, 0M3adYbGtyRHACP86dey1H, 73
+5, Mike Oldfield, The Year Zero 2 - From “The Killing Fields” Soundtrack / Remastered 2015, 4Hnx3JfyKvisVlJoq76q9f, 11
+6, Melanie Martinez, Cry Baby, 052vSBPxqdmYRDlkSPiavc, 70
+7, Johann Strauss II, Accelerationen, Walzer, Op. 234, 4u518tmUvIB2K0n7T4hTCu, 8
+8, Tame Impala, Yes I'm Changing, 0xtIp0lgccN85GfGOekS5L, 70
+9, ODESZA, Bloom - Lane 8 Remix, 3Xvyu4sDpDyznUo5zjKand, 6
+10, The Weeknd, Tell Your Friends, 1mhVXWduD8ReDwusfaHNwU, 69
+11, Eduard Strauss, Mit Dampf, Polka schnell, Op. 70, 2Bv9H3DyB5gd2qFdx7YDKZ, 8
+12, Sam Smith, Make It To Me, 2uCMaUojwuqr8CRGsLoPa6, 72
+13, David Bowie, Rosalyn - 2015 Remaster, 4hPUSn4UlzsIuyxkrZ0aW9, 7
+14, Monsieur Periné, Nuestra Canción, 5reQI13tWWYDLMrGcUF4Mk, 73
+15, Audiojack, Robot - 2015 Reincarnation, 6oLlTt8LnQMnua4f5OJYIP, 9
+16, Fifth Harmony, Worth It (feat. Kid Ink), 41Fflg7qHiVOD6dEPvsCzO, 74
+17, Moon Taxi, All Day All Night - Live, 1Jw59KQTJdlqcefodkGEjy, 3
+18, Ben Rector, Brand New, 07m8PuXxxv5J4qPEDq6ZkK, 66
+19, Moon Taxi, Make Your Mind Up - Live, 5w4iZIzQlQWaoyhaIO2uL6, 3
+20, Daniel Caesar, Streetcar, 7Cu2COdH93MnuireuKNiS3, 69
+21, Moon Taxi, River Water - Live, 1Ox5xHIDFRrbGnvR6qK9GS, 3
+22, The Neighbourhood, Baby Came Home 2 / Valentines, 40gvh6jP5qxMJuMmF9lG9A, 71
+23, Moon Taxi, Mercury - Live, 7tsvoWW9y6e1p1EIiDWQP1, 3
+24, Meek Mill, All Eyes on You (feat. Chris Brown & Nicki Minaj), 0hy1SOTEn9ifXTzOwnCwEr, 69
+25, Moon Taxi, Change - Live, 73cbuIOcqKUSC26PVbq4CO, 3
+26, Canaan Smith, Love You Like That, 2QVzUws1l5mzZ4v46tGHrC, 64
+27, Miles Davis, Mystery - 2015 Remaster, 0AdjBRJyaLhrHKoUfWEarc, 6
+28, The Neighbourhood, Cry Baby, 0EfsDEYaSjGYd66Pr881nq, 73
+29, Miles Davis, Tomaas - 2015 Remaster, 4DTmwWMr7qLRMh0SWv8g3Y, 6
+30, Tory Lanez, In For It, 6ydWxkzjDktHsTzvWcaZ1i, 70
+31, Miles Davis, Splatch - 2015 Remaster, 6z7JziWrRESI2ZGyjD90E2, 4
+32, Robin Schulz, Sugar (feat. Francesco Yates), 5tf1VVWniHgryyumXyJM7w, 78
+33, Miles Davis, Portia - 2015 Remaster, 5q7CN2Q9vg1Op1TLuTm2cK, 5
+34, Phillipa Soo, Burn, 4B3qvzOMzLQXLeYgPsG3KA, 67
+35, Roy Orbison, Money - Remastered 2015, 1f0VHISoNp8LGRDesLoZze, 3
+36, Cam, Burning House, 2zhk0kypGeOPsaaZcjyc14, 65
+37, Roy Orbison, Pantomime - Remastered 2015, 4fKJYmIKxOXfww9d0aBkM5, 4
+38, Taylor Swift, Bad Blood, 6xsEAm6w9oMQYYg3jkEkMT, 73
+39, Roy Orbison, She - Remastered 2015, 3b7Yn1GMZcd78sHeGyMF6s, 4
+40, RJMrLA, Hoes Come Easy, 1tVwKHwJ5OfNGIyAuM8HLL, 68
+41, Roy Orbison, Wondering - Remastered 2015, 5OWmRi609HURDf7pm6WRkq, 4
+42, Mac Miller, ROS, 388jD8ko9cvFM9cd9TYDrl, 66
+43, Roy Orbison, Flowers - Remastered 2015, 1YBfccQHuXB44FFdmg2tJt, 4
+44, Future, F*ck Up Some Commas, 49zD0wr2S3d0lZPib0K4e1, 66
+45, Giorgos Zambetas, O Penintaris, 0n1Ym7tdrxxrOMXbX6bTHm, 13
+46, Cody Jinks, Mamma Song, 5EUXRdukDwEkNays7HQ3AB, 64
+47, THE SQUARE, Eurostar (Live Version), 5oEpry3lkono9ajRbgDW2q, 12
+48, Morgan Wallen, Man of the South, 2S1YzIHFyLxLop7XCdYrTp, 64
+49, Giorgos Zambetas, O Arapis, 5IiBW83LPRmoDp4KnSqTxj, 14
+0, Three Days Grace, I Am Machine, 2UDumaw7osnyjH7RZ2DLpB, 68
+1, THE SQUARE, Big City (Live Version), 3il7K8Pvfkoq0h86pbR747, 9
+2, Anna Kendrick, Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version, 6mH3qVIeOsnQIAho5eWwhH, 64
+3, THE SQUARE, Truth (Live Version), 4mpvCSQqA1uhJEwUkPh2qE, 13
+4, Lord Huron, Meet Me in the Woods, 1bqrRn1pJWowNLA5N9L6uW, 64
+5, THE SQUARE, Radio Star (Live Version), 3W4zZID2c8P7pBoHh7VRKb, 11
+6, Wale, The Need to Know (feat. SZA), 6KacmqPPQ3LNoiGFuqGChs, 65
+7, GoKmyn, Looking At Ks (2015), 6belw2fWh1yCV1ffRXmCMI, 1
+8, Leslie Odom Jr., Non-Stop, 7qfoq1JFKBUEIvhqOHzuqX, 67
+9, Miles Davis, Full Nelson - 2015 Remaster, 0QdNo3EmSwPiGPsLv1EK91, 4
+10, Mac DeMarco, Another One, 63q9LqTK5iiZLy3cTvLMUf, 68
+11, Miles Davis, Backyard Ritual - 2015 Remaster, 3veN86CoMrfaUlotuEboVh, 4
+12, Zac Brown Band, Loving You Easy, 5mhW03yGpDpkYHs9aZaxSE, 64
+13, Daryl Hall & John Oates, Waterwheel - 2015 Japanese Remaster, 2RIiQPXqlXXK14ckSWXSO5, 3
+14, Melanie Martinez, Mrs. Potato Head, 3K1tdhoeE6koNnWgAxEK9Y, 70
+15, Miles Davis, Mr. Pastorius - 2015 Remaster, 1XjNCKqrNSbRNccLHoleFS, 4
+16, Tech N9ne, Hood Go Crazy, 0kIHfcHGFGm5xb0dSlKEdp, 64
+17, Miles Davis, Conchita - Lament - 2015 Remaster, 4K2NH2652sTBTM1vtEGC83, 4
+18, Watchhouse, Old Ties and Companions, 53DVsTZvB16BDP30XmfSef, 64
+19, David Bowie, Shapes of Things - 2015 Remaster, 12vf5j4rLh9WdVgL1IgUjm, 7
+20, $uicideboy$, Diemonds, 4PYYfhYIP7TyzxeMU4xvp3, 65
+21, Miles Davis, Chocolate Chip - 2015 Remaster, 4XPz71IbMWmJYc5rs6BTra, 3
+22, Pia Mia, Do It Again, 72Bz4ciRZPBcVSw0nrZDHi, 74
+23, Miles Davis, Perfect Way - 2015 Remaster, 7F410aEzCqMNYAGrVb7RBR, 4
+24, Donnie Trumpet & The Social Experiment, Sunday Candy, 6fTdcGsjxlAD9PSkoPaLMX, 65
+25, David Bowie, Janine - Mono Version; 2015 Remaster, 78D97ZUvBxyxhKHJ9tKXJb, 7
+26, Dove Cameron, If Only, 1mRBJdpIgc3jZH8C3cN2WV, 70
+27, Roy Orbison, Go Away - Remastered 2015, 4YTohVWRtq45plpTB8oHZ5, 4
+28, Leslie Odom Jr., Guns and Ships, 7m9XR7FquXLP1FewdAcNS9, 67
+29, Roy Orbison, Twinkle Toes - Remastered 2015, 3a0dEcZZjGr7LxhtqnkchF, 5
+30, Rae Sremmurd, Throw Sum Mo, 5uqphUYsR45kPYplrYSAQh, 66
+31, Roy Orbison, Walk On - Remastered 2015, 1R82c4WLSwmhby0GI2fxmd, 5
+32, Morgan Wallen, Yin Yang Girl, 1jYHeWuwdAcaI7D97GTxF2, 63
+33, Roy Orbison, Sweet Dreams - Remastered 2015, 5OF14FXFFgoLiVeQPWChPG, 5
+34, Watchhouse, Daylight, 11TmWrHkxwtVcCtEdAXjJA, 64
+35, Roy Orbison, Heading South - Remastered 2015, 1ei8ISRHP2jqC6GHkFVEJK, 5
+36, Bryson Tiller, Let Em' Know, 5QDGKcQLqOJvoiu8eScEaM, 66
+37, Roy Orbison, Danny Boy - Remastered 2015, 6Y2TvoDV1Tn2XmZcAj3F2l, 3
+38, Twenty One Pilots, Heavydirtysoul, 7i9763l5SSfOnqZ35VOcfy, 70
+39, Roy Orbison, Sweet Caroline - Remastered 2015, 5ZuqFSNTKra2BRhOi5DTlc, 5
+40, The Neighbourhood, Daddy Issues (Remix) feat. Syd, 5Q6fh8OEhBYepJaORz9lxe, 74
+41, Roy Orbison, Summer Love - Remastered 2015, 1kw3vC4R3xkLHv0UPiRLuG, 5
+42, Cage The Elephant, Cold Cold Cold, 1Q3t9fWvHUXKsMmpD2XpUu, 69
+43, Stoneface & Terminal, Super Nature - 2015 Radio Edit, 5nft6G9HlxdLuVIDpauPTo, 3
+44, Kelsea Ballerini, Peter Pan, 2wqXQjOmQ9KoBm9Ssgt4Fo, 64
+45, Roy Orbison, Penny Arcade - Remastered 2015, 52D5lFqX1ZE3rnGQEuHoXE, 18
+46, Major Lazer, Light It Up - Remix, 500mvzh7TRZ0YdnVeHhj8b, 67
+47, David Bowie, Anyway, Anyhow, Anywhere - 2015 Remaster, 10mNC6t0Ic45bAlnB8joXh, 7
+48, Quinn XCII, Another Day in Paradise, 0cTmZAWgUFAPQXj2ZNgU8T, 64
+49, Stoneface & Terminal, Don't Give a Fuck - 2015 Rework, 6Cxx4xGYSSVXYfZUKJUEtQ, 8
+0, Brantley Gilbert, Bottoms Up - Remix, 6hbwFerDj55bMGZZvcInze, 63
+1, Aron Shorty, At the Bus Stop, 1cKGL6wISCrNRkRrjJPneN, 29
+2, Chris Stapleton, Whiskey And You, 5aDK0TurEtiedVdT0a6k9a, 65
+3, Funky Boogie Brothers, Ready 2 Move, 1t5bbB6VpllfMeBsgPjVDI, 23
+4, Chris Brown, Ayo, 0k6DnZMLoEUH8NGD5zh2SE, 72
+5, The Flaming Lips, Chosen One - 2015 Remaster, 2t3QSGZC9v8Ob0Oeo96NPU, 2
+6, Billy Currington, Don't It, 4iLPK8QnOvqm0Azbsk2GDn, 64
+7, The Flaming Lips, Ice Drummer - 2015 Remaster, 0qI53lILxG0dDnXnuvmYqC, 3
+8, Bohnes, Middle Finger, 0IK8y0vAO0sM630HsxwLht, 70
+9, Bread, Coming Apart - 2015 Japan Remaster, 0fuHQTDvBVS2f3G621vKb9, 4
+10, Chris Stapleton, Nobody To Blame, 4WRRCuJYRq7gUKiupxVH9W, 64
+11, Bread, Easy Love - 2015 Japan Remaster, 7tEe4rUwTSCU4CHjwsF4hG, 4
+12, Kat Dahlia, I Think I'm In Love, 3U1TuSqHIubBA10cVP7Sk6, 71
+13, Noisuf-X, P-S-D - 2015 Demo Version, 2htyC6RSyKtBlaia5qddEO, 4
+14, Drake, 10 Bands, 12d5QFwzh60IIHlsSnAvps, 66
+15, Roy Orbison, Cold, Cold, Heart - Remastered 2015, 4CDYDt7j8bUscHOoU0ltxO, 3
+16, Nathaniel Rateliff & The Night Sweats, S.O.B., 1VPUpUwtbpoRVXt0txVU0w, 66
+17, Roy Orbison, A New Star - Remastered 2015, 4eAwyq08lmSxdqccQuIJ9H, 4
+18, One Direction, History, 0HMjXBAZmSYOTTi33WpMso, 74
+19, Roy Orbison, Try To Remember - Remastered 2015, 5Jqs6p9sxnEmHmsSprelGD, 4
+20, Alesso, Heroes (we could be), 3zU9rdflI65tK4dkkNSp77, 72
+21, David Bowie, Here Comes the Night - 2015 Remaster, 6a9RPG4DVb5EYwgJG0jEZh, 9
+22, Xavier Wulf, Akina Speed Star, 0FmrNFYyLLRtIS7XWJPLLk, 64
+23, Roy Orbison, Sugar And Honey - Remastered 2015, 1SZbvO13vII9msF8rBiGtI, 5
+24, Falling In Reverse, Sexy Drug, 4TncWhCfACwaIU8hllz8SQ, 67
+25, Roy Orbison, Hey, Good Lookin’ - Remastered 2015, 4CCOKGPgO8JHp8EhKf5XG6, 3
+26, Three Days Grace, Painkiller, 6OMO6WdRhSfjMPAiPT94wH, 69
+27, Roy Orbison, Your Cheatin’ Heart - Remastered 2015, 4kvUTufjdn1EkU69VSDj2H, 3
+28, Lil Dicky, $ave Dat Money (feat. Fetty Wap & Rich Homie Quan), 1TkWsnheqK0gBtvh07BtNX, 65
+29, Roy Orbison, Lonesome Number One - Remastered 2015, 6Zd63oJustOPoQZCazfmu5, 3
+30, Shinedown, State of My Head, 1fnULsZuORnAgCFFbM8nTZ, 64
+31, The Flaming Lips, Little Drummer Boy - 2015 Remaster, 7c3rfLFWGStDNa1OjQKPhq, 2
+32, Brooks Jefferson, Friends in Low Places, 4OMj5QWwvYSUs9O0hsymts, 65
+33, The Flaming Lips, Slow Nerve Action - 2015 Remaster, 6BcVIsDkeJd1XpduL4bqSS, 2
+34, BØRNS, American Money, 4AewKenHXKBt643p473xCk, 68
+35, Bread, Blue Satin Pillow - 2015 Japan Remaster, 2FIpO7oZusAjJIN3JQ57N1, 5
+36, Zac Brown Band, Castaway, 5sRHIWY7oREZYxTSbRybna, 63
+37, Bread, Call on Me - 2015 Japan Remaster, 2HVCwr8kS0m2l2RLCkbKyU, 4
+38, Melanie Martinez, Carousel, 5nHTLEJ10zaqdnKqLriah4, 69
+39, Miles Davis, The Doo-Bop Song - 2015 Remaster, 5vklocCNEVHdO5El2GSgJc, 6
+40, Alan Walker, Faded, 7gHs73wELdeycvS48JfIos, 73
+41, Daryl Hall & John Oates, Past Times Behind - 2015 Japanese Remaster, 5zFLnZa2b1HcUUpI6rYNRa, 4
+42, Highly Suspect, Lydia, 7yoBjKO6cCnK3zV8gr1k4e, 65
+43, Roy Orbison, This Is My Land - Remastered 2015, 5Z8ALJrrJK3EdUJ4BmW8LX, 4
+44, Leslie Odom Jr., Dear Theodosia, 2sEq2rC3ynYsT49x7utWnd, 66
+45, Roy Orbison, Cry Softly, Lonely One - Remastered 2015, 5UagW1zb26wQbp7kyX9TcB, 4
+46, Mac Miller, 100 Grandkids, 4z0PnuB07fxtVZZRWsCfxb, 65
+47, Roy Orbison, If Only For Awhile - Remastered 2015, 5XTb9eDYtBxsBCu6cV0e6U, 3
+48, Tame Impala, Nangs, 1cCbsojaA6GIT7Y3zuMJ1q, 66
+49, Roy Orbison, Jambalaya (On The Bayou) - Remastered 2015, 383RtCTFW1mVLXf4Tev3Ih, 4
+0, Leslie Odom Jr., The Room Where It Happens, 2TK2KSrzXD6W01qjXVjNGh, 66
+1, Roy Orbison, Too Soon To Know - Remastered 2015, 18wXeBuaTijjJWN9otFj7h, 6
+2, Bryson Tiller, Sorry Not Sorry, 16bHRxM89ue0TiCKARYbRp, 64
+3, Roy Orbison, Tennessee Owns My Soul - Remastered 2015, 5jPtiDltOjvU03GFNREiZj, 5
+4, Breaking Benjamin, Angels Fall, 2D9BrlpeyjXF0vli2dYQ5V, 65
+5, DJMashup, I'm an Albatraoz, 2OAUKaNT85pMpfnGk5LVf4, 13
+6, Halsey, Colors, 1TnUURhehaoMWKAqQtirm6, 69
+7, Simon From Deep Divas, Baby Baby - Maurizio Gubellini Remix, 4HlVoFxDg8ROp6QGFfvzxK, 8
+8, Selena Gomez, Hands To Myself, 1LoriJC05IrHIDwj3q0KC1, 64
+9, Cannibal Corpse, Evisceration Plague (Live), 2kmFVWhgYpJcMtTdvLy6bi, 11
+10, $uicideboy$, Fuckthepopulation, 0XfsT6rbC7myipngFhWa9T, 64
+11, Judas Priest, Painkiller (Live), 03DcJfjdkfGUUu0l9jJkxD, 13
+12, Old Dominion, Song for Another Time, 7px4t7HGiuMUvFkEOpZEwp, 63
+13, Beyond The Black, Rage Before The Storm (Live), 65GhcQhKzSOV2nMFVbjEFA, 11
+14, Flo Rida, GDFR (feat. Sage the Gemini & Lookas), 26rdOwwjC2UnweK3xeS58u, 71
+15, Bread, Look What You've Done - 2015 Japan Remaster, 2GIiH7f5bh0Cp4lrNr0Y3s, 6
+16, Lin-Manuel Miranda, The Story of Tonight, 0NJWhm3hUwIZSy5s0TGJ8q, 66
+17, The Flaming Lips, Christmas at the Zoo - 2015 Remaster, 7F5RiAfynIK4pFcg0PtGvB, 4
+18, Halsey, Castle, 16w8ZGVSjI4TlTLV8VimBY, 67
+19, Roy Orbison, Big As I Can Dream - Remastered 2015, 087i0XVQpwtfljQHJ3x9Fv, 5
+20, Julión Álvarez y su Norteño Banda, Pongámonos De Acuerdo, 1OZpgVRQKkxcoeEocqTMRZ, 77
+21, Roy Orbison, How Do You Start Over - Remastered 2015, 3zOVXzDo4USTWb0tbU9ihW, 5
+22, Eric Church, Round Here Buzz, 52ioLaTnO2J7BWY8UN2n9D, 63
+23, Roy Orbison, Casting My Spell On You - Remastered 2015, 2i7OP8yLh4Y2lu3Z2LG7JF, 3
+24, blackbear, dirty laundry, 0qgZvYWLIqDn0tXimF8gPa, 67
+25, Bread, The Other Side of Life - 2015 Japan Remaster, 7bLQSaTeDd5HqUJ19GYt9Q, 5
+26, Lin-Manuel Miranda, Right Hand Man, 3nJYcY9yvKP8Oi2Ml8brXt, 66
+27, Bread, I Am That I Am - 2015 Japan Remaster, 3v1nAPVhu13qvtIwJRSxJ1, 4
+28, Disturbed, The Sound of Silence, 0eZBeB2xFIS65jQHerispi, 71
+29, Ran-D, No Guts No Glory - Defqon.1 Anthem 2015, 5j0mpQhOd17txGdJKRf2ne, 19
+30, Olivia O'Brien, Complicated, 0jllH0usRFD4LJkJnGK9Lf, 71
+31, Bread, I Want You with Me - 2015 Japan Remaster, 6B71Ao5V7usEWPih68J1zF, 5
+32, Big Sean, Blessings, 1bzM1cd6oqFozdr4wK6HdR, 64
+33, Roy Orbison, I Can Read Between The Lines - Remastered 2015, 5gMYeqeDjeNg9gsHPCOokd, 4
+34, Joel Adams, Please Don't Go, 3cNjgVBKTJ1SvKhunrCdVy, 72
+35, Roy Orbison, It Takes All Kinds of People - Remastered 2015, 5bmVNji0M6XfEujrJeh23D, 4
+36, Fetty Wap, 679 (feat. Monty), 0w3Q3VFdrYzo24QUIGnBNy, 64
+37, Roy Orbison, I’ve Been Loving You Too Long - Remastered 2015, 3mQIxdBrMkodx4ebTq7i1e, 3
+38, Colter Wall, Caroline, 7rwKNqgVO0OfdOLNSKfYR4, 63
+39, Roy Orbison, If You Can't Say Something Nice - Remastered 2015, 4fETjlsUVCy5iBP3WYo7bD, 5
+40, Five Finger Death Punch, Wash It All Away, 05QquCUFrpkKTHz5Sy09nc, 62
+41, Roy Orbison, Born To Be Loved By You - Remastered 2015, 2j5s2t6I2Rmf61eIwoSMcC, 4
+42, Little Mix, Love Me or Leave Me, 1n73Qe6oEprLsUNHXET2pb, 73
+43, Bread, Been Too Long on the Road - 2015 Japan Remaster, 66Zq6WIkyzf5EvcJowUKWE, 6
+44, Machine Gun Kelly, Bad Mother F*cker, 2kjPvFgVIGki2BRlOHvQQr, 65
+45, Bread, Why Do You Keep Me Waiting - 2015 Japan Remaster, 5gigverFRdrryjwe4kRO2O, 5
+46, Kendrick Lamar, These Walls, 7uWVT3UkCAZyANvv0bdyQn, 67
+47, T-SQUARE, Control (Live Version), 2tL7gqfXxY2HIYnVNukfTH, 10
+48, Kodak Black, Institution, 2G6PeWL4JanUge47LNdFtJ, 63
+49, The Flaming Lips, Chewin' the Apple of Yer Eye - 2015 Remaster, 5KE7PbRechPh5ATPCXKKRU, 3
+0, Lauren Daigle, Trust in You, 50f6Sc85lbQgEaOfQm41Zr, 64
+1, Roy Orbison, Why Hurt The One Who Loves You - Remastered 2015, 3Jfb8MSGMsMA96d27x2zwD, 4
+2, $uicideboy$, Low Key, 2nzjXDv6OuRHrHKhfhfB98, 64
+3, Roy Orbison, (I'd Be) A Legend In My Time - Remastered 2015, 1yNwgb8PCcDycQ4K4AGIPg, 5
+4, Parker McCollum, Meet You in the Middle, 2HOPkIqhzukXGxzr2s1Xg5, 61
+5, Roy Orbison, River - From "The Fastest Guitar Alive" Soundtrack / Remastered 2015, 6F29IWcj6dcsQi4VRymGa0, 6
+6, Drake, 6 God, 3a8tAZFJxlmBwOtrf5L1oC, 65
+7, Assaf, After Dark (Mix Cut) - Original Mix, 68jZhqIVTcOvUQVIp0KwAi, 3
+8, Jukebox The Ghost, Girl, 63OB8oKmBUUYiRtrRtFCvX, 63
+9, Venom One, Serenity (Mix Cut) - Original Mix, 0qUEk625iR7PkmIlE5JxkG, 3
+10, Shane Smith & the Saints, All I See Is You, 46fHLVEQBcyC8VjnmdDF3q, 63
+11, Armin van Buuren, Strong Ones (Mix Cut) - Deem Remix, 0pNFtT6ZlcG6MdSSHIMg4S, 3
+12, Twenty One Pilots, Doubt, 57yL3161hUMuw06zzzUCHi, 69
+13, Rodrigo Deem, Belvedere (Mix Cut) - Original Mix, 2Bq6dN3blHSJRYhNrRKLO5, 4
+14, The Wombats, Greek Tragedy, 28C4nmrd7BTu0XbOmaTHZr, 61
+15, Fabio XB, Step Into The Light (Mix Cut) - Original Mix, 20A1uCXZu1ux1fhJxc6Xqm, 3
+16, Kodak Black, Shake Back, 7HbJiOw9TePjIcvvHCeWRc, 63
+17, Luke Bond, Reflex (Mix Cut) - Original Mix, 1bMQRNYhDWQo9HiwV6he8d, 3
+18, $uicideboy$, Gloss of Blood, 7zOIzXpbnCcx6iZfvOjGCQ, 64
+19, 3LAU, Alive Again (Mix Cut) - Extended Mix, 1tO7wXFCCUy0JaBETKWq3d, 3
+20, Action Bronson, Baby Blue (feat. Chance the Rapper), 7gDwRzJhLs0fFHaGtMDJVM, 65
+21, Willem de Roo, Omen (Mix Cut) - Original Mix, 3ymCCTeXi0LhTLAe3ddn4x, 3
+22, Hippo Campus, South, 64TjzuxG5PJ7payjphrOC0, 61
+23, W&W, Rave After Rave (Mix Cut) - Original Mix, 5M4osbE2Qk7AV8AymqWfr0, 3
+24, Meghan Trainor, Title, 0k5hoseEJnCAbpRh38dNoI, 75
+25, Eximinds, Handprint (Mix Cut) - Original Mix, 0Szs3qtc5TXAVYz86RRC5a, 3
+26, Sara Bareilles, She Used To Be Mine, 2D4BSm5Z8Hq5zYbSgJwEOh, 67
+27, Fast Distance, Frontera (Mix Cut) - Original Mix, 2h1F7xwgylVf2x9DIdD346, 3
+28, Lil Uzi Vert, Paradise, 7pudclCl5P99Me3P5F9hPC, 63
+29, Arisen Flame, Fireball (Mix Cut) - Original Mix, 6inway7DRs7lOiEeSYxo5C, 4
+30, Future, Thought It Was a Drought, 5ihDGnhQgMA0F0tk9fNLlA, 64
+31, The Flaming Lips, Put the Waterbug in the Policeman's Ear - 2015 Remaster, 3jbwD8ab6fYms8dzRtn1fK, 2
+32, Thayne Jasperson, Farmer Refuted, 2G9lekfCh83S0lt2yfffBz, 65
+33, Andrew Bayer, Do Androids Dream Part 2 (Mix Cut) - Original Mix, 7FcggywViLJSQW6wIz38Z9, 3
+34, Zedd, Beautiful Now, 2ISSQPb9LHHiV6ng2NXosL, 70
+35, Cosmic Gate, Going Home (Mix Cut) - Gareth Emery Remix, 0SlzKw1BVvA2glHRSF7Txb, 3
+36, La Factoria, Todavia, 7gaovXojjqfn276uZR0omT, 76
+37, Orjan Nilsen, Don (Mix Cut) - Original Mix, 1QlOs3Qtym9jla6XeyNx2G, 3
+38, Jeremih, Remember Me, 2fUazQuDcmHbKYfPoXWpZU, 63
+39, Andrew Rayel, Chased (Mix Cut) - Original Mix, 0U3VUmWlnV5f2ISaIav9CA, 3
+40, Dance Gavin Dance, We Own The Night, 4rc2WNOt2w8BHfQjBC8PO0, 63
+41, Armin van Buuren, Embargo (Mix Cut) - Original Mix, 0AjNaDhNiw9WJQzaNq39Oe, 3
+42, BTS, I Need U, 3wQnyXNFXNUEOBt1pb4urq, 73
+43, Armin van Buuren, Another You (Mix Cut) - Extended Mix, 5S6hHptHsMsXECkO8tCFXR, 4
+44, NF, Mansion, 3nKRYKbGxhzv4BbwlLOcWU, 65
+45, MaRLo, Atlantis (Mix Cut) - Original Mix, 7hbXXjccRkcKEKsWIHYcTa, 3
+46, Selena Gomez, Good For You, 578Eooad7oUyn4stovZiPg, 63
+47, Vigel, SQRT (Mix Cut) - Original Mix, 3BFiBYTz9TmpRwIRrRSJ9q, 4
+48, BTS, Silver Spoon, 6O734u9qnz6B4gWMyszWhi, 72
+49, Corti Organ, Butterfly (Mix Cut) - Original Mix, 0ZECIpdBnmYBQrKRyx7TAC, 3
+0, G-Eazy, Some Kind Of Drug (feat. Marc E. Bassy), 1Bqxj0aH5KewYHKUg1IdrF, 64
+1, Protoculture, Southbound (Mix Cut) - Original Mix, 50vVTCiChShSXrcDt97QSy, 4
+2, Brett Eldredge, Drunk on Your Love, 1jNNHFZmRGXZFHlil5uhei, 62
+3, Andrew Rayel, Mimesis (Mix Cut) - Original Mix, 56AB0mipRlK4CL0AvBOsQO, 3
+4, One Direction, If I Could Fly, 5CRVwXGikmqzoRO6q7FeAg, 71
+5, Armin van Buuren, Panta Rhei (Mix Cut) - Original Mix, 7iHZ2gEwvwYFuEdCIIHkCi, 3
+6, KANA-BOON, シルエット, 1di1C0QI6Y92yZPYn6XYAZ, 72
+7, Armin van Buuren, Hands To Heaven (Mix Cut) - Club Mix, 7MOMC4dKt61fIAi2lbzLNf, 4
+8, Van Morrison, Wild Night, 1A7hIo1C8jacIQ5ZiCjc8g, 63
+9, Ana Criado, The Force of The Blow (Mix Cut) - Original Mix, 1p3xzTsnUZqzoh9zZP6r5h, 4
+10, Rae Sremmurd, My X, 1GLcGInllpE4JUTStzaCOM, 63
+11, Ben Gold, Hide Your Heart (Mix Cut) - Club Mix, 2SZUXyUQVWRIblxG7cuDOH, 3
+12, Leslie Odom Jr., A Winter's Ball, 2yBMVrq96wb9OHbMdBs0lF, 65
+13, Denis Kenzo, Be A Dreamer (Mix Cut) - Original Mix, 4LvIIRjAIJp6IvXcReRsYi, 3
+14, Travis Scott, 3500 (feat. Future & 2 Chainz), 1SGt65i9AnXYdDQt1AtDRH, 66
+15, Farhad Mahdavi, Warsaw (Mix Cut) - Original Mix, 7GswKD0MVdTiJu0db9rxzX, 3
+16, The Neighbourhood, R.I.P. 2 My Youth, 07VBqWH6NG8L2ad3l84UKk, 68
+17, Denis Kenzo, Ashes (Mix Cut) - Original Mix, 1NVPkeuih6w02X19BmWKXc, 3
+18, Carrie Underwood, Dirty Laundry, 5qRRiqndqXaq2QBudIrkYU, 63
+19, Andrew Rayel, Daylight (Mix Cut) - Original Mix, 2fozf19A4lPPxIDIkX1cYP, 4
+20, DeJ Loaf, Me U & Hennessy (feat. Lil Wayne), 4TSDz7xZtxIXeKwiOuCe25, 63
+21, BT, Aika (Mix Cut) - Rafaël Frost Remix, 34ZrKTJovhZI5KsLkxYotM, 3
+22, Young Thug, Check, 1jk9c0gZI0wbn5GvAj7PBV, 64
+23, Omnia, For The First Time (Mix Cut) - Original Mix, 1YCMrsIFvnUq7OrCfH91U0, 3
+24, Duke Dumont, Ocean Drive, 0b6wdul3A5sQNpIOv03OxP, 73
+25, Cosmic Gate, Yai (Here We Go Again) [Mix Cut] - Extended Mix, 4XNzSTxa4GlsOSsv2Lbr10, 3
+26, Petit Biscuit, Sunset Lover, 0hNduWmlWmEmuwEFcYvRu1, 72
+27, Roy Orbison, Rollin' On - From "The Fastest Guitar Alive" Soundtrack / Remastered 2015, 27egf5AJ5t8cWyd2MNI2If, 6
+28, Rayland Baxter, Yellow Eyes, 3HOXNIj8NjlgjQiBd3YVIi, 61
+29, Roy Orbison, It Ain’t No Big Thing (But It’s Growing) - Remastered 2015, 0iB2njDVURvgoAbscpSgG6, 3
+30, Cartoon, On & On, 2uZWffKoemZDI0gHcBEcDc, 73
+31, Miles Davis, Tutu - Live at Casino De Montreux 07/20/90; 2015 Remaster, 2bfPK0VBHev2k6W8crvgfa, 7
+32, BØRNS, 10,000 Emerald Pools, 2pA4ip3VIEVcIa3qE02oAX, 63
+33, Roy Orbison, Good Time Party - From "The Fastest Guitar Alive" Soundtrack / Remastered 2015, 353kP0MVeUBARC44YoSjyq, 6
+34, Matoma, Old Thing Back (feat. Ja Rule and Ralph Tresvant), 6HTJZ0TQJVMSKkUGzAOe2h, 68
+35, Roy Orbison, It Ain't No Big Thing (Just Say So Long) - Remastered 2015, 3luIxanqDNn4dUge4m9Pvl, 4
+36, Travis Scott, Nightcrawler (feat. Swae Lee & Chief Keef), 3xby7fOyqmeON8jsnom0AT, 66
+37, Yoga Tribe, Transparent Chime, 2ZM565dh24XdfYvCP3a3BU, 7
+38, Nick Jonas, Jealous - Remix, 5NQJnRpJHRaupdegphntQT, 66
+39, Miles Davis, Time After Time - Live at Nice Festival, France, July 1986; 2015 Remaster, 1RC5UbKa1NVZF9ZdAM5XV2, 3
+40, Travis Scott, Apple Pie, 6scpNkWEmUxmKY7nYjVLsX, 64
+41, The Flaming Lips, Jets, Pt. 2 (My Two Days as an Ambulance Driver) - 2015 Remaster, 0WLxIcUAgyyc8HHRMrcvNg, 3
+42, Camille Saint-Saëns, The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano), 0jOnZhF75V68VsBObWx2XO, 68
+43, Years & Years, Shine, 2PxPv7PNsXaiajPugScLZq, 11
+44, Randy Travis, Three Wooden Crosses, 1S4fpfX2u0hzFD9vb6FEB6, 62
+45, Miles Davis, Time After Time - Live at Chicago Theatre - JVC Jazz Festival Chicago, IL 6/9/89; 2015 Remaster, 3DW0GlFNrLAsnSWZ1kVVVe, 6
+46, MisterWives, Reflections, 2PtBhfoPZ6VYtXkrE5FrCH, 62
+47, House Victimz, Amen for 8YEARS Prayer - HOS Volume Boost, 3JbPAXcHQCYBS0IA9FjB9m, 6
+48, Original Broadway Cast of Hamilton, Yorktown (The World Turned Upside Down), 733tju3KUeatsbjcTRQ04i, 64
+49, Kelly Rida, Habits (Stay High) - Acoustic Version, 6zZldCTVL8JEcff26qtpdZ, 1
+0, Lana Del Rey, Art Deco, 5jqNQZBwbZWQXPWfo0ygZF, 69
+1, Kelly Rida, Habits (Stay High) - Acoustic Version, 6zZldCTVL8JEcff26qtpdZ, 1
+2, MIIA, Dynasty, 29OBQBdkEWYaE3YxVAT8KL, 71
+3, Journeyman, Crash Reel - Peace Attack Rerub, 0HruSoAHwZLNYsKZloq1XJ, 6
+4, Lana Del Rey, High By The Beach, 7g3htkaLz4ETFn0cifwM3y, 69
+5, Johann Strauss II, An der schönen blauen Donau, Op. 314, 0AA2xLFmXmBGxtbY2YFKf5, 5
+6, Carly Rae Jepsen, I Really Like You, 2hHLbkatPwOOmrNxTiD41L, 71
+7, Skyramid, Bella Ciao, 27oCOTdlcISquG0fiZYzyN, 6
+8, NEEDTOBREATHE, Brother (feat. Gavin DeGraw), 62M9yafZsSRzlsphzeJPGo, 63
+9, Johann Strauss I, Freiheits-Marsch, Op. 226, 1bzLdCzBlzfnm6bClUEv7p, 8
+10, White Noise Baby Sleep, White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night, 20GlDz2SYsXF8pzdxguxfe, 73
+11, Eduard Strauss, Mit Chic, Polka schnell, Op. 221, 11DLagJxzDb0ExEP1dJW88, 7
+12, Little Mix, Secret Love Song (feat. Jason Derulo), 6KHL1En9v6iNWjcs44mcmU, 78
+13, Johann Strauss II, Vom Donaustrande, Polka schnell, Op. 356, 7EEFTlmW4XjB5ZmsPm6nGe, 9
+14, Nick Jonas, Jealous, 2RqtfcLB7iOZj0zYB8Auhu, 65
+15, Moon Taxi, Savannah - Live, 0Y7Ic2ANvbASZJivDxqNGa, 2
+16, Maluma, Borro Cassette, 6DUdDIRgLqCGq1DwkNWQTN, 74
+17, Moon Taxi, Whiskey Sunsets - Live, 6eh57Hh1h3EWLCnTS2Agwz, 2
+18, Kelly Clarkson, Heartbeat Song, 7FC9Lng8iXU081lbigu8m8, 67
+19, Joe Acosta, Lonliness, 1N1hyQWAJaBpqUa2iPitb4, 2
+20, Future, Stick Talk, 20fAoPjfYltmd3K3bO7gbt, 62
+21, Joe Acosta, La Bendicion, 27OAWTfu2GTbnVdWOVd3TD, 7
+22, Bring Me The Horizon, Drown, 6o39Ln9118FKTMbM4BvcEy, 70
+23, Markos Vamvakaris, Nostimo Trelo Mikro Mou, 6MWd67OT1p4KfNB1UXXsgF, 13
+24, Denzel Curry, Ultimate, 6R0GRYk2vs2XuBVemYK5YZ, 66
+25, THE SQUARE, It's Magic (Live Version), 5CJc0qOVzrLBwkfhKqt6Gp, 9
+26, BTS, Run, 3G1aAxWS2Nd17FQs4PWV6X, 71
+27, THE SQUARE, Wind Song (Live Version), 1d54rlXOTfTXQQZAEUukW3, 9
+28, Toby Fox, MEGALOVANIA, 1J03Vp93ybKIxfzYI4YJtL, 68
+29, THE SQUARE, Prime (Live Version), 5Vh4hkUldatjfoKAM3FkPD, 8
+30, Tame Impala, Love/Paranoia, 5h9hkYIBWTZYFRmF6Iz1gt, 64
+31, Giorgos Zambetas, Agonia, 6sFe6YVqXmJZRRYgbKL2xG, 8
+32, Daveed Diggs, What'd I Miss, 2W9u3whoCkQYOUbmnSrHi1, 64
+33, Mikis Theodorakis, Sogno di liberta, 4C6e2248IWcHMGd0x3Oujg, 12
+34, Drake, Digital Dash, 0GR7iJLhj80KD5LkA14ZRn, 63
+35, THE SQUARE, Twilight In Upper West (Live Version), 4DFh4OkLgNXV1VVoGDaIdx, 13
+36, Christopher Jackson, History Has Its Eyes on You, 1mGO8rwCE9zk7H06OxcU5m, 64
+37, Inside Out, Treetris, 2OE0LXCjnpOlOAhLpeYuwV, 4
+38, Little Mix, Love Me Like You, 6L2uVVPJA9WcDc7zCZ4DHN, 72
+39, Ilan Bluestone, 43 - Radio Edit, 57yROFJ3qBe368uR1qt7FK, 2
+40, Tame Impala, The Moment, 1UYj8qTWjneZJDVjUMwMub, 65
+41, Armin van Buuren, Embargo - Radio Edit, 7zsGLUoRiguw4Oj0Vdgb2A, 2
+42, Lin-Manuel Miranda, Ten Duel Commandments, 3lXyAQ0kekAvY5LodpWmUs, 64
+43, Luke Bond, Reflex - Radio Edit, 4vbmUqBHs9JXVJfHxQP3kv, 2
+44, A$AP Rocky, Excuse Me, 3I8MbKRkS2IBDuslhCS3iT, 63
+45, Armin van Buuren, Strong Ones - Deem Radio Edit, 6sLfAMIQh2Qirb5vgaOzOm, 1
+46, Twenty One Pilots, Lane Boy, 2P61EK6DMGyVyssLWS4fKy, 68
+47, Kong Jam, No Mês De Abril, 6b2PODPYEQ5dHy5rCmXDRw, 5
+48, Xavier Wulf, Hollow Be They Squad, 5OMNVzNkXIs6HP4tnExf5m, 61
+49, Kong Jam, Shakespeare, 0WsUBomWT5sAhJQzkUaLRZ, 5
+0, Luke Bryan, Strip It Down, 5XFu5S1vBY7sNHlheCapOz, 61
+1, Kong Jam, Hades, 521xhTFUyMqwySDTdz6XCL, 5
+2, Okieriete Onaodowan, The Story of Tonight - Reprise, 1CzeuSrm71wHP9qsjg7p3F, 64
+3, Sultan & Sheperd, BWU - Mix Cut, 7vqkLK6uXm03VLmpb27MLj, 5
+4, Ruth B., Superficial Love, 5hwh37sTi84MVhCBMWzhGE, 68
+5, MaRLo, Atlantis, 6yua55bCEodtSys0yQaHlU, 3
+6, Grimes, Kill V. Maim, 3WXhshrs1fzwF3rQE399Gq, 65
+7, W&W, The One, 0rBSZCbtyZc9UbM78x54iM, 1
+8, Mariano Barba, Una Noche Mas Contigo, 0kOTspv4AkZbfUDcsPI6I9, 70
+9, Cosmic Gate, Going Home - Gareth Emery Radio Edit, 7KYZQzyqZzOZkVMrsQXSMu, 2
+10, Justin Bieber, Company, 61uyGDPJ06MkxJtHgPmuyO, 71
+11, Armin van Buuren, Hands To Heaven, 0mCyAXIpPZHQLJQL4y2Frl, 2
+12, Demi Lovato, Stone Cold, 3by8IfnW9dZ2t4pZw1WVxz, 70
+13, Kong Jam, Sos Universo, 3qSxY0uxA7bjWVc7eKEwZ1, 5
+14, Hot Flash Heat Wave, Gutter Girl, 1sEzuZNasuG8s1OOHwYfN2, 62
+15, Kong Jam, Kabuki, 6tToaqrJnDqqrCvFpZJGF4, 5
+16, Ty Dolla $ign, Blasé (feat. Future & Rae Sremmurd) - Louis the Child Remix, 2NAZcL9tLUkdMMb5v3xFVG, 61
+17, Ramil O'Shawa, Pure Gold - Jerome Isma-Ae Remix, 4ifRFjVlZgYS4l2GJljmyJ, 5
+18, Tito Y Su Torbellino, Te La Pasas feat. EP, 3bT9fp9mM5HDWE2BEI0yhP, 65
+19, In Flames, Paralyzed (Live), 4xp4BAo3ieBVWGnilFV2Kj, 8
+20, Lil Dicky, Professional Rapper (feat. Snoop Dogg), 5TlAXiBCBwiQnIZUAA4Jkg, 64
+21, Danilo Ercole, Flash - Original Mix, 6aFfS41OMB2eerwG7mzXgh, 3
+22, A$AP Rocky, Canal St. (feat. Bones), 0rBMP6VVGRgwnzZCLpijyl, 65
+23, T-Swizzle, Wildest Dreams, 33bX8RFKkGnLRo5Erw8lON, 3
+24, Phillipa Soo, That Would Be Enough, 6oF8ueLn5hIl4PRp17sxW6, 63
+25, T-SQUARE, 明日への扉 (Live Version), 6AgND5NARPdZC0un9HMexV, 6
+26, Thomas Rhett, Vacation, 4DdF1l0DzBQy8YL2UVhPrU, 60
+27, Ben DJ, 7 Seconds - Chunkybiz Remix, 1jpThs6dmdciYcMCYXmTTC, 5
+28, Brooks Jefferson, Callin' Baton Rouge, 7w8nryFVgPW4voepzRO3wW, 62
+29, RAM, Someone Like You (Mix Cut) - Original Mix, 5UpekvYEWPwddkYTJK7DbQ, 1
+30, BTS, Butterfly, 3bjg5cbmuwDoS7e2dAWyRG, 71
+31, Protoculture, Pegasus (Mix Cut) - Original Mix, 5PdhyqtTUvJHf1elMXqntI, 2
+32, Future, Jersey, 2ACys0pX0SjmpQmQWzp7wt, 62
+33, Simon Patterson, Time Stood Still (Mix Cut) - Original Mix, 0LELEIqmEi88ATOKrWnRpX, 2
+34, Arsenal Efectivo, Lolo Felix, 2JwztiYR35Y8Wvf8rwnQva, 63
+35, Alexander Popov, Paradise (Mix Cut) - Original Mix, 5YI34f0khGbBrVnDgnW17b, 3
+36, Caravan Palace, Lone Digger, 0thLhIqWsqqycEqFONOyhu, 59
+37, Armin van Buuren, Embrace (Mix Cut) - Extended Mix, 1RFdPyD3Yn5jiUylXX9yn6, 2
+38, Disturbed, The Vengeful One, 3jjU4Pky1ja5J1onU6ei4T, 66
+39, Heatbeat, It's Killing Me (Mix Cut) - Original Mix, 1uu7byKVIA4xJdyfXRtaDf, 1
+40, Griffinilla, Stay Calm (feat. Jeff Burgess), 1uEirYIgTtCnojbufoer37, 64
+41, Alexander Popov, Multiverse (Mix Cut) - Original Mix, 4jMn8nplNwRx71XbEKpgoR, 3
+42, Beach House, PPP, 5JyJsAZyLTD7W5oWLeB0JK, 60
+43, Mark Sixma, Restless Hearts (Mix Cut) - Club Mix, 46LxyJXPgM21srcWWbBW0g, 2
+44, Machine Gun Kelly, Till I Die, 7rq7HvZrCie7MmiGm8pUVC, 63
+45, Matt Darey, See The Sun (Mix Cut) - Dan Stone Rework, 0IRy708gIFMyfxAc1doo11, 1
+46, Twenty One Pilots, The Judge, 1lguQJjlNrIOoOylYVZN3M, 66
+47, Deem, Elevation (Mix Cut) - Original Mix, 4HUfONmAgmCCiAHoNMz8or, 2
+48, Jasmine Cephas-Jones, Say No to This, 3s9itRgJYcKhem01P17865, 63
+49, FEEL, Disappear (Mix Cut) - DRYM Remix, 5qRD7934Y0h7aKACTJBHyH, 3
+0, Jonathan Groff, What Comes Next?, 3D4J0o9w44QKFrBrYrSVJY, 63
+1, Jorn Van Deynhoven, Freaks (Mix Cut) - Festival Mix, 3c0L5xd7rYMx63UBI1KIZ7, 2
+2, Stick Figure, Smokin' Love (with Collie Buddz), 3D7cUXDEKLAFsoD10QRoiR, 63
+3, CUB!C, Endless Horizon (Mix Cut) - Heatbeat Remix, 2AMJTRMpECGuXebMCmboOO, 2
+4, Julión Álvarez y su Norteño Banda, El Amor De Su Vida, 5zMgWyXawwhTbCh74tiMxD, 73
+5, STANDERWICK, Magic Light (Mix Cut) - Original Mix, 63xp5VBRtQ5JRmWjHGC8ih, 2
+6, Zella Day, Hypnotic, 2zsWRxMcUdGjj8TnWkVKw0, 66
+7, Denis Sender, New Day (Mix Cut) - Mino Safy Remix, 1EA7ub4fURLkqAoeQ9BHtE, 2
+8, Pop Evil, Footsteps, 7IEpEB1hnFW67S2FTi8eyw, 62
+9, Orjan Nilsen, Now We Are Talking (Mix Cut) - Original Mix, 20QaRLwyDWjAxZp0GtLlPN, 2
+10, CHVRCHES, Clearest Blue, 0eozuFNutbnEbWKOvf4W86, 63
+11, Jorn Van Deynhoven, 101010 (The Perfect Ten) [Mix Cut] - Original Mix, 2e4Z0wNEG9mB2PErtFAaUJ, 2
+12, The Internet, Girl (feat. KAYTRANADA), 3PFaFVWq5wucLu6s4baj9D, 65
+13, Talemono, Overload (Mix Cut) - Original Mix, 0ufUPUNjUQujyHJ4EXUkzZ, 2
+14, Drake, Preach, 1OHoBC4icbuNhpSxP400sv, 65
+15, GAIA, Carnation (Mix Cut) - Original Mix, 31dVjiZbAEslvK0wBB2ipu, 2
+16, BTS, Dope, 7jPCPDYoiaKeK7cgNGpIzq, 70
+17, Dawn, The Truth We Can't Escape (Mix Cut) - Original Mix, 5Pins8f3rrdFdqUvG0MQU0, 2
+18, Original Broadway Cast of Hamilton, Stay Alive, 27MB0qHaYAZiTlwg25js1Y, 63
+19, Armin van Buuren, Safe Inside You (Mix Cut) - Original Mix, 1PjkHdLMWzezQX9imdD3Js, 2
+20, Rainbow Kitten Surprise, Lady Lie, 50bmpfgcV29ouRVDfr5wOc, 61
+21, Alex Di Stefano, I've Got The Power (Mix Cut) - Original Mix, 74oGNprPHXFdugzzX9ob9x, 2
+22, Shawn Mendes, Imagination, 21TcDbGosp7w9YhTjOszgA, 75
+23, Ferry Corsten, Anahera (Mix Cut) - Extended Mix, 71tBHbSoaOtlhQtISSyHXY, 2
+24, Tyler, The Creator, 2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein), 6Xw3iWrQKgArwlRhVuU9CK, 61
+25, Stefan Viljoen, Divinity (Mix Cut) - Spark & Shade Remix, 66zU7iIwsKXR8L6hI3zRmR, 2
+26, Elle King, America's Sweetheart, 2NcstvY8H9PVQ0DMNGHckh, 62
+27, Hardwell, Off The Hook (Mix Cut) - Original Mix, 5nJPc6OxzHv2Ys57ArDs8c, 2
+28, Kodak Black, Like Dat, 788NX6uCNEVuZW8x5BkQqM, 61
+29, Easton, Healing Rain (Mix Cut) - Bryan Kearney Remix, 5EZxL9hFDrWioadZSjxZR9, 1
+30, Koe Wetzel, Song I Can Drink Too, 2sBbIyKK7f2Kkdt2RVBAlY, 59
+31, Sneijder, Love Of My Control (Mix Cut) - Original Mix, 3ISdgCxKSvNyGvj9vJhSog, 1
+32, One Direction, What a Feeling, 0iSWAT0EL8TwmzcgBjKMh6, 67
+33, Sebastien, Escape (Mix Cut) - Heatbeat Remix, 5TOIkj7AdqCjdQmweZN8q0, 2
+34, Ella Henderson, Ghost, 4z7gh3aIZV9arbL9jJSc5J, 59
+35, Bryn Liedl, Statues (Mix Cut) - Bryan Kearney Remix, 1EJuA3YFoX6YLWU5D5T4Tf, 1
+36, Christopher Jackson, Cabinet Battle #1, 3TfKt8mPpdXfQTMfRjHzyz, 63
+37, Simon Patterson, Apex (Mix Cut) - Original Mix, 0p9etQhfOVsWSiV0xOVOUD, 1
+38, Siinamota, Young Girl A, 5sPKAEb7afrIMtdqEnI6H6, 66
+39, A & Z, Never Forget (Mix Cut) - Original Mix, 0L32L0ynrKJWTicHgI8WNp, 2
+40, Drake, Scholarships, 0B5OTb36fzLayn6XQHg5A1, 62
+41, A.r.d.i., The Light (Mix Cut) - Original Mix, 6KpuZBsKiuIWnefxg2neXT, 1
+42, Drake, Diamonds Dancing, 2AGottAzfC8bHzF7kEJ3Wa, 62
+43, Venom One, Rush (Mix Cut) - Original Mix, 3E0EkLgPwfjdqU3s8Tx5Q0, 2
+44, Nicki Minaj, Truffle Butter, 3keUgTGEoZJt0QkzTB6kHg, 61
+45, Lange, Imagineer (Mix Cut) - Alex M.O.R.P.H. Remix, 4caDAKQxkB9Rm5ECF0A2AB, 2
+46, Don Omar, Guaya Guaya, 79zvVrn65ksbiGQxrtV4I5, 74
+47, Rank 1, Juno (Mix Cut) - Original Mix, 20jtadYPqx74UBK9l9nskr, 2
+48, Original Broadway Cast of Hamilton, Who Lives, Who Dies, Who Tells Your Story, 7EsSVPxaYoAZjQwhspJBs2, 63
+49, 2Rock, Hammer Blow (Mix Cut) - Eximinds Remix, 4NVY1ALXyP2ompVllwCiYT, 1
+0, Randy Travis, If I Didn't Have You, 52erNkfUKv34u02CjcHOPj, 60
+1, 2Rock, Hammer Blow (Mix Cut) - Eximinds Remix, 4NVY1ALXyP2ompVllwCiYT, 1
+2, T-Wayne, Nasty Freestyle, 0PT7nlpo11hYYyfnBgtilT, 63
+3, Dimension, Origami (Mix Cut) - Original Mix, 5PuVUq6Tay6XgvXpuaOCsM, 1
+4, Bring Me The Horizon, Happy Song, 1yYE8EyuIV0rrvQ1bA2Fyf, 67
+5, Alex M.O.R.P.H., Amistad (Mix Cut) - Original Mix, 6sNixaFLqkXEsnaSbWr7ps, 1
+6, Jessie J, Flashlight - From "Pitch Perfect 2" Soundtrack, 6SkoBaMd0lzoQjID5aV2d9, 62
+7, Craig Connelly, Shipwreck (Mix Cut) - Original Mix, 28LysErttS1s2VbBEBFeWG, 1
+8, Nelly, The Fix (feat. Jeremih), 33QRsLBBdWDYgCZfWEZqR6, 64
+9, MaRLo, The Dreamers (Mix Cut) - Original Mix, 0Y6H3KA97vktw7ZAiZRAUH, 2
+10, Drake, Big Rings, 7jslhIiELQkgW9IHeYNOWE, 61
+11, Aly & Fila, Es Vedra (Mix Cut) - Original Mix, 3lMfZy62uAleuB5HnMKT0C, 2
+12, Hippo Campus, Suicide Saturday, 0scQIzgcOhnmfqfOTpRUFH, 59
+13, Vini Vici, The Tribe (Mix Cut) - Original Mix, 5Ls6Xc8tYMimQljnKCPr1U, 2
+14, Flo Rida, I Don't Like It, I Love It (feat. Robin Thicke & Verdine White), 2S5LNtRVRPbXk01yRQ14sZ, 69
+15, Fisherman & Hawkins, United (Mix Cut) - Original Mix, 4QW6wZEtm3eAVUS3U9jrRO, 2
+16, Kali Uchis, Loner, 6m6R6O2BOZDCNymhJ45spI, 62
+17, Lee Osborne, Safe In The Sky (Mix Cut) - Cold Rush Remix, 1uLszdyOt6MS0OSHtNNxzM, 2
+18, Cigarettes After Sex, Affection, 4eVNSHRazoHgfYGv3AYFyZ, 61
+19, RAM, Heartfelt (Mix Cut) - Original Mix, 4yLkW34c6R0XFgPCUGNHd1, 2
+20, No Vacation, Dræm Girl, 6lbLn5iL2NBJnbib7bTXMn, 62
+21, Bobina, Flying Kitten (Mix Cut) - Original Mix, 0jFxAnpvZOPtltjBQXQhXP, 1
+22, Phillipa Soo, Take a Break, 2qFIJT5hjqaNFA1GKwl9me, 63
+23, Andrew Rayel, Impulse (Mix Cut) - Omnia Remix, 029CMkgcBv3oezFg1HzmSB, 2
+24, Zedd, I Want You To Know, 1JDIArrcepzWDTAWXdGYmP, 66
+25, MaRLo, Hold It Together (Mix Cut) - Original Mix, 7D3gcnlIYC1s9dtSv4zJEp, 2
+26, Ella Eyre, We Don't Have To Take Our Clothes Off, 48wSJ6NhMFYYB6LjdnPNjM, 60
+27, Armin van Buuren, Together (In A State Of Trance) [Mix Cut] - Original Mix, 3xN1K2wp7wykNvCds8OK8c, 2
+28, Houndmouth, Darlin', 2TmqE1B16v0H6BLbBz38ob, 58
+29, Ucast, To Another Day (Mix Cut) - Original Mix, 3IKAYumWbHqGahfxUUZwJj, 1
+30, Alessia Cara, Wild Things, 0bmm9xZUJQDR1tBhWtIXVM, 62
+31, Will Atkinson, Numb The Pain (Mix Cut) - Original Mix, 0X0pjY5flDn184H8zBrWC6, 2
+32, Brett Eldredge, Wanna Be That Song, 1XazlqB4YAtvouCmJPWXlM, 61
+33, GAIA, In Principio (Mix Cut) - Original Mix, 2NEwiQmgeE4DTTj4ArKcvV, 2
+34, Tyler Farr, Damn Good Friends (with Jason Aldean) - Duet with Jason Aldean, 7p7Htw2r4UavqvWv1O6omI, 59
+35, Ben Gold, Atomic (Mix Cut) - Original Mix, 6gj3R41QKlEZWmx5LP6GJc, 2
+36, Ruelle, War Of Hearts, 4R8BdwRidxAWaYyFNU00P1, 69
+37, Ron Alperin, Knockout (Mix Cut) - Original Mix, 0JL4uqSYacpvEmCGCsJATC, 2
+38, BØRNS, Past Lives, 1Dr5JexwA15wmKe7Y7maA9, 64
+39, Markus Schulz, Destiny (Mix Cut) - Extended Mix, 3PRGIKEmvms0qxQeEHJ3PA, 3
+40, Wafia, Heartburn, 3tjfbu0G0PPy8UjhxfxVIe, 74
+41, Luxemburg Radio Symphony Orchestra, Peter and the Wolf, Op. 67: Main Theme & Coda (From "Minions"), 6Dec9FYbOSjfbX7RyEV7PR, 3
+42, Andy Grammer, Good To Be Alive (Hallelujah), 3gHc5XTAywdFQUsHS6DD7G, 60
+43, Severin Waites, new years 20156, 23TZVZPOXe0VVVxp6lczWR, 0
+44, The Mowgli's, I'm Good, 5KQDGl3vAkNGyfvSbaW89E, 63
+45, Pan Papason, 2000 Years Ago - 2015 Years Ago Mix, 4sTbyTPYrIOCr9Ev1NzHB7, 0
+46, Melanie Martinez, Alphabet Boy, 3NDPcoeno6oasqi6Hs75Ax, 64
+47, Dario Polvara, Year 2015 - Razor Girl, 4CWaIigdXh4DxXjVQ5kYyt, 0
+48, Vulfpeck, Back Pocket, 1DrlLvlYd1FIjNavRm6NdX, 63
+49, SeaNator, Happy New Year 2015, 13DI8upvdp1VDH98WqesXa, 0
+0, Travis Scott, Oh My Dis Side (feat. Quavo), 2rMFawCg4BW65jzbwztXAV, 64
+1, Cj Vasoff, Happy New Year 2015, 4mM5ccYO9CxZIuETFwy6b7, 0
+2, Christopher Jackson, One Last Time, 0Iys022UwQ8xBfxE1g4nWZ, 62
+3, SeaNator, Happy New Year 2015, 6roSX20A4nHaO3jlKsZEMy, 0
+4, $uicideboy$, Ugly, 3qDbBtbRv6eBls6q51pAL7, 60
+5, SeaNator, Happy New Year 2015, 3yKd6SdJu0Ep7wGrHOf2cE, 0
+6, Breaking Benjamin, Failure, 4wh0E9OwMCxcaIKTg0Mts9, 61
+7, Isaiah James, New Year's Freestyle - 2015, 0At2YYi2ZN7nI9vKPSK6Ip, 0
+8, Maddie & Tae, Girl In A Country Song, 1GRiBe0kNCNYpjwCHIyynI, 58
+9, Mega Ran, Year in Gaming 2015, 5bTj8p5UOrlhQAUC31M7OU, 0
+10, Hayley Kiyoko, Girls Like Girls, 3dNjUFt6EFU4Gq6Q5vfJqf, 65
+11, Song a Day, New Years Eve 2015, 4ep5OFIq5g1poibB5AVgKc, 0
+12, Drake, Right Hand, 3lSR267IJfT54p0Gfuw7mi, 61
+13, SeaNator, Happy New Year 2015, 1yQeyVM0KhgLrYdChD24aC, 0
+14, Rainbow Kitten Surprise, All's Well That Ends, 37ZvpHeZKazqOnLfAGm9nb, 60
+15, SeaNator, Happy New Year 2015, 4iD8882762mmw7VBrbdmJm, 0
+16, Brent Faiyaz, Running on E, 7q1rfAWSkb8AQpZCgEX3jq, 62
+17, Mieroo, Starting the year 2015, 1R1ZJcS5PDoV6AAwSE7Hy8, 0
+18, Broadside, Coffee Talk, 7wXays9vrRN3i4wBpBYb2d, 61
+19, David Allen Style, Better ("New Year, New Me" New Years 2015), 4s8EffqpHVf9t3ddEPKnkh, 0
+20, Demi Lovato, Confident, 0Mn3amMRMoabaoTf1Publ4, 65
+21, Hot Tuna, Happy New Year 2015 - Live, 4Trn3cdYylMgvCDe9NdRuR, 0
+22, Kendrick Lamar, u, 1bxEpNR75Hq3T2oF9AZjt8, 63
+23, Black Stripe, New Year 2015 - Original Mix, 3PBumHKDvjsIHj4rWyrHUf, 0
+24, Upchurch, Cheatham County, 4BSbrb5pBriMpH4q6q57VO, 59
+25, Fleshcassette, First of the Year 2015, 2CB9QBqrziwLTau92ZlMlk, 0
+26, Demi Lovato, Cool for the Summer, 2zFF6jG5hQArbzcXz3KUWk, 68
+27, Joshua Cunningham, A Year in This Home - 2015, 3tYEiX1SoqaLmJec2XSq8S, 0
+28, Pitbull, El Taxi, 1LbGorB0xOfpiXQJFKB2Nd, 65
+29, SeaNator, Happy New Year 2015 - Radio Edit, 6UGw3kkoobP3W0vuX2pG7S, 0
+30, Kendrick Lamar, The Blacker The Berry, 5Mtt6tZSZA9cXTHGSGpyh0, 63
+31, Swings, 2015 is Also My Year (feat.BewhY), 2BfNJK29tmuCAbfky1TcUG, 4
+32, Mac Miller, Brand Name, 6ulzLZnp6Y2TVLh1inckeJ, 61
+33, SeaNator, Happy New Year 2015 - Original Mix, 2Oz69G2B6Ht7iJe8X8H0qf, 0
+34, Fetty Wap, RGF Island, 1iuljeYz6ZG3GTJOZZkoer, 60
+35, Jungheim, January 15, 2015 (Five Years On), 0DfyCPCD3lt85PmscpaImb, 0
+36, Slayer, Delusions of Saviour, 06WUUNf7q18NZfjIsQFsfa, 67
+37, Elekkk, Separated by 20 Years - 2015 Remix, 59rh1fhnEwDiMznwI2fgDw, 0
+38, Adele, Remedy, 5CjKwY7FUJgKSwTVzoQIaU, 62
+39, SeaNator, Happy New Year 2015 - Radio Edit, 4wL3LQBhWvTBSVxTPIKyJq, 0
+40, Fall Out Boy, Irresistible, 3znPiywA0q1VK2jgAZFDoI, 64
+41, Elekkk, Separated by 20 Years - 2015 Remix, 0yefFSPNgyRXDljhWXNVIU, 0
+42, Lin-Manuel Miranda, Meet Me Inside, 6p7jXaTJdpzGWnOJoK2jYr, 62
+43, Jungheim, January 15, 2015 (Five Years On), 3zWaKMBhRHyIQ7qRtMlpv7, 0
+44, Stick Figure, Fire on the Horizon, 7mnk9W0umx7q4Vo4FjtOot, 59
+45, Nathan Veshecco, Years at My Fingertips (Coyote Hours 2015), 0ZZu1K38zwPb07is5os7lh, 0
+46, Dreamgirl, Teenage Blue, 7mgI1HLrLMlIHL3wzotbyM, 63
+47, How Hard, Hard Kryptic Records Yearmix 2015 - Continuously Mixed, 78WYhbCvqAY2CGtyhBaORt, 0
+48, Jelly Roll, Smoking Section, 5ELEsgMwvWJald9BQbIgsV, 59
+49, DJ Tools 4 U, New Years Eve Tool 2014 to 2015, 2mBvJ1g8imn22vu6K48Dvm, 0
+0, WILLOW, Wait a Minute!, 0y60itmpH0aPKsFiGxmtnh, 88
+1, Schoolgirl Byebye, Year,2015, 0UsmyJDsst2xhX1ZiFF3JW, 24
+2, Beach House, Space Song, 7H0ya83CMmgFcOhw0UB6ow, 80
+3, Iron Maiden, Wasted Years - 2015 Remaster, 2V0T2LS0pf2r3EFpOEkZFO, 55
+4, Chris Stapleton, Tennessee Whiskey, 3fqwjXwUGN6vbzIwvyFMhx, 81
+5, Anthem Lights, K-LOVE Fan Awards: Songs of the Year (2015 Mash-Up), 5rJw9VsPNdfnV9Ar97xZG2, 27
+6, The Weeknd, The Hills, 7fBv7CLKzipRk6EC6TWHOB, 86
+7, Tori Amos, Silent All These Years - 2015 Remaster, 5kRDK0lC01ceWWuXgkjYLi, 43
+8, The Neighbourhood, Daddy Issues, 5E30LdtzQTGqRvNd7l6kG5, 86
+9, Tori Amos, Pretty Good Year - 2015 Remaster, 70euagGKfDWkSQCoZtHFdh, 23
+10, Tame Impala, The Less I Know The Better, 6K4t31amVTZDgR3sKmwUJJ, 84
+11, Phil Collins, Can't Turn Back The Years - 2015 Remastered, 3R3hLQX2u6lZIORZQsJmtD, 47
+12, BØRNS, Electric Love, 2GiJYvgVaD2HtM8GqD9EgQ, 83
+13, Beatsteaks, Gentleman of the Year - 2015 Remaster, 5ya8rum1Yym1ObenIygXAC, 29
+14, Vundabar, Alien Blues, 11iIikXxC6NP0Ma8vMD27x, 83
+15, Daryl Hall & John Oates, It's Uncanny - 2015 Japanese Remaster, 5eJz8lyMlGVfS03fnZIdPp, 37
+16, Lord Huron, The Night We Met, 0QZ5yyl6B6utIWkxeBDxQN, 78
+17, David Bowie, Velvet Goldmine - 2015 Remaster, 6GCNEAIZVH4lKQD30lfQ6f, 39
+18, Lil Peep, Star Shopping, 30bqVoKjX479ab90a8Pafp, 83
+19, David Bowie, Space Oddity - 2015 Remaster, 5sUrZEf4qEtjepdgcetith, 37
+20, Travis Scott, 90210 (feat. Kacy Hill), 51EC3I1nQXpec4gDk0mQyP, 80
+21, LADYBABY, Nippon Manju, 06NEuecnoNSQxDC3lfHpyy, 42
+22, Kendrick Lamar, Alright, 3iVcZ5G6tvkXZkZKlMpIUs, 79
+23, Roy Orbison, There Won't Be Many Coming Home - Remastered 2015, 4cuozf7bRILRTJyrNo8hTO, 37
+24, Tame Impala, Eventually, 5M4yti0QxgqJieUYaEXcpw, 80
+25, The Flaming Lips, Bad Days - 2015 Remaster, 27DJWxjGalNEa5rfEPTDNG, 29
+26, Bryson Tiller, Don't, 3pXF1nA74528Edde4of9CC, 79
+27, JPEGMAFIA, 2015 was a great year, 4tdI8hLyvQJ562nGhf0f8y, 27
+28, Mac Miller, Weekend (feat. Miguel), 6GnhWMhgJb7uyiiPEiEkDA, 78
+29, Roy Orbison, Losing You - Remastered 2015, 6iAlpVfmqRhmHhEPd1gx8m, 36
+30, Morgan Wallen, Spin You Around, 1yj1ZztSGITJ5Nf4mfH92c, 75
+31, Tori Amos, Silent All These Years - 2015 Remaster, 05sOCR8SfGjcf7D6bsQfUp, 29
+32, Twenty One Pilots, Stressed Out, 3CRDbSIZ4r5MsZ0YwxuEkn, 85
+33, Moon Taxi, Who's To Say? - Live, 2MRKc0dryJdSlrbFj0KV9I, 26
+34, Mark Ronson, Uptown Funk (feat. Bruno Mars), 32OlwWuMpZ6b0aN2RZOeMS, 84
+35, Roy Orbison, Best Friend - Remastered 2015, 14qngyOIYl5grgoLeNNhSo, 32
+36, Rae Sremmurd, This Could Be Us, 4jTiyLlOJVJj3mCr7yfPQD, 80
+37, THE SQUARE, Breeze and You (Live Version), 6yoOrydjbkvRv6XtnjnNC7, 35
+38, Tame Impala, New Person, Same Old Mistakes, 52ojopYMUzeNcudsoz7O9D, 79
+39, David Bowie, Life on Mars? - 2015 Remaster, 769Gf7dDk9ChZrQIzt038b, 32
+40, Jeremih, oui, 0PJIbOdMs3bd5AT8liULMQ, 77
+41, Case & Point, Descender - 2015, 0JZqVnHw3lxOvR7mjxPLic, 25
+42, $uicideboy$, Kill Yourself (Part III), 0kEZlJh4mK1QRfb3CT5LPk, 78
+43, Tori Amos, Pretty Good Year - 2015 Remaster, 0PbE6CgOXKNn622YBGki4w, 22
+44, Thomas Rhett, Die A Happy Man, 5kNe7PE09d6Kvw5pAsx23n, 74
+45, David Bowie, The Man Who Sold the World - 2015 Remaster, 61MJt8DGgDadH67v9mRUYo, 30
+46, Steve Lacy, C U Girl, 6FBzhcfgGacfXF3AmtfEaX, 76
+47, Grant Bowtie, Can You Hear It - 2015, 0HVGEaoG6jgkWlRVHTTxIf, 24
+48, Bryson Tiller, Exchange, 43PuMrRfbyyuz4QpZ3oAwN, 77
+49, Stonebank, Fire - 2015, 6WalqLXkl669YCYVEavpeY, 25
+0, Melanie Martinez, Pacify Her, 360Wr96ywrCQq4kTAJ8Pq6, 83
+1, LADYBABY, Ageage money Ochingin Daisakusen, 5q3v9R8RBuwZb4zRmyqOob, 33
+2, Cavetown, Devil Town, 0vf2eBw2inhl8y61cYQMv2, 79
+3, Fleetwood Mac, Not That Funny - 2015 Remaster, 1HBGbYHunfLYEnWGTi7NGG, 26
+4, Fall Out Boy, Centuries, 04aAxqtGp5pv12UXAg4pkq, 81
+5, Bread, In the Afterglow - 2015 Japan Remaster, 6UR4lRksZAgmJ6Ak2ImrOX, 27
+6, Twenty One Pilots, Ride, 2Z8WuEywRWYTKe1NybPQEW, 82
+7, Houndmouth, 15 Years - Live from SXSW 2015, 7d9XbA7YRANRk03EKDpCzJ, 16
+8, The Weeknd, Can't Feel My Face, 22VdIZQfgXJea34mQxlt81, 81
+9, Downtown Party Network, Space Me Out - Jody Wisternoff & James Grant Remix, 4aGyxpz1eTMaF3Wqvj1uKS, 31
+10, Fetty Wap, Trap Queen, 2d8JP84HNLKhmd6IYOoupQ, 75
+11, Inpetto, Lifting - Mix Cut, 7avlJ4ApOAje5977pRPmAy, 33
+12, Big Sean, I Don't Fuck With You, 7FYH5AW3bVfZHJIQpq3UOA, 75
+13, David Bowie, Changes - 2015 Remaster, 5O2KvGO2jE74XxMNQpPxsm, 23
+14, Justin Bieber, Love Yourself, 50kpGaPAhYJ3sGmk6vplg0, 84
+15, Phil Collins, Can't Turn Back the Years - 2015 Remaster, 2yIINfKM7FSllGaCFXNawR, 27
+16, Rae Sremmurd, Come Get Her, 1Ser4X0TKttOvo8bgdytTP, 75
+17, David Bowie, Oh! You Pretty Things - 2015 Remaster, 6JaYRajAjlWOaqyJV2kAh4, 23
+18, The Weeknd, Often, 4PhsKqMdgMEUSstTDAmMpg, 80
+19, LADYBABY, Renge Chance!, 52OVS4atVZ4l45pUXUJ39Z, 26
+20, $uicideboy$, Runnin' Thru the 7th with My Woadies, 1tm7c4V0kqLiN0XPVnoUcT, 75
+21, THE SQUARE, Hank & Cliff (Live Version), 4HsoS5WY522Gu34PD9MuBH, 23
+22, $uicideboy$, Paris, 6tO5bxNnMuh1c3cziSpecA, 75
+23, David Bowie, Ragazzo Solo, Ragazza Sola - 2015 Remaster, 6Lah4wdkr7j8QeABkuZrdK, 26
+24, Demi Lovato, Cool for the Summer, 3uwnnTQcHM1rDqSfA4gQNz, 85
+25, Bad Company, Bad Company - 2015 Remaster, 7i3FVvz4bEW7FjjvvvurVB, 14
+26, Big Sean, I Know, 6rje9f1wRFJDO2iTORw0lH, 75
+27, The Lights, Y. M. C. A., 2GNt7eZeRhsOnkooTE0LNc, 27
+28, The Weeknd, Earned It (Fifty Shades Of Grey), 4frLb7nWtsz2ymBE6k2GRP, 74
+29, Everything But The Girl, Before Today - Adam F Remix / 2015 Remaster, 2CyNHbhmiG7deA5rHrgnMY, 13
+30, Kodak Black, No Flockin', 34oWbFBfGEElvgO0a5c9V4, 73
+31, Grateful Dead, Scarlet Begonias - Live at Soldier Field, Chicago, IL 7/3/2015, 0YnaxkPaWl5kiVv1vB1Rsl, 13
+32, Chase Atlantic, Friends, 2jQiSYrwJehQAcuaaQrXnS, 82
+33, JPEGMAFIA, 2015 was a great year - Instrumental, 6y9wdQ46GnDWXtrE39RBKu, 13
+34, Roy Woods, Drama (feat. Drake), 0PXp9QxBfSKGGpWUNaws2X, 75
+35, David Bowie, Amsterdam - 2015 Remaster, 3jFHn2P14UisjAbaPvgZp5, 30
+36, Wiz Khalifa, See You Again (feat. Charlie Puth), 2JzZzZUQj3Qff7wapcbKjc, 82
+37, Bad Company, Seagull - 2015 Remaster, 1tRwFmLqxYzVy5shmIyPUC, 13
+38, Adele, When We Were Young, 7GgWAITsYJaRM3r50rfh5w, 75
+39, The Beatles, Eight Days A Week - Remastered 2015, 1BDyXgAoGr8nwJyvLo8l0m, 18
+40, Flo Rida, My House, 6Knv6wdA0luoMUuuoYi2i1, 78
+41, Roy Orbison, Ride Away - Remastered 2015, 2EvU5Dafs3U8tW5va9T42Q, 13
+42, Shawn Mendes, Stitches, 5jsw9uXEGuKyJzs0boZ1bT, 76
+43, LADYBABY, C'est si bon Kibun, 1o0KRodlb9q4ImI7Err5Ie, 24
+44, Fetty Wap, 679 (feat. Remy Boyz), 5NQbUaeTEOGdD6hHcre0dZ, 75
+45, David Bowie, Queen Bitch - 2015 Remaster, 0bx62Ku1d0ZyZfdLo67nZw, 17
+46, Sufjan Stevens, Fourth of July, 5Qnrgqy1pAm9GyNQOgyVFz, 80
+47, Grateful Dead, West L.A. Fadeaway - Live at Soldier Field, Chicago,IL 7/4/2015, 1XkANYxUsa1oJYXpfY1Bxd, 12
+48, Melanie Martinez, Play Date, 4DpNNXFMMxQEKl7r0ykkWA, 80
+49, Bad Company, Ready for Love - 2015 Remaster, 6PxBq0X6eTm91LpgrH5e3l, 13
+0, KYLE, Don't Wanna Fall In Love, 1YakuHfzKxjnseCEeVQtrY, 74
+1, David Bowie, I Wish You Would - 2015 Remaster, 4s3XabMZXMmaMNHYEubZ0i, 16
+2, Bryson Tiller, Right My Wrongs, 5rgrBsAFYMun6yhtnLKRPz, 74
+3, Grateful Dead, Fire on the Mountain - Live at Soldier Field, Chicago, IL 7/3/2015, 0otriTANizzbePRIu5Zt9V, 11
+4, Cavetown, This Is Home, 7s8VgA8OjvwBUuigKzEGBx, 76
+5, Grateful Dead, Bertha - Live at Soldier Field, Chicago, IL 7/3/2015, 0Q6rV8wWiyZdI3NQsIE8JN, 11
+6, Jeremih, Don't Tell 'Em, 0Dc7J9VPV4eOInoxUiZrsL, 75
+7, Grateful Dead, Shakedown Street - Live at Soldier Field, Chicago, IL 7/4/2015, 3MWyOX32x0SqXiTo73Jzzd, 11
+8, Drake, Jungle, 7JXZq0JgG2zTrSOAgY8VMC, 73
+9, Bad Company, Shooting Star - 2015 Remaster, 6BHZ967p9zVgaHBQKBCCQX, 12
+10, mike., These Days, 5tsI3xxDHDgzHhn30LTQNz, 73
+11, Bad Company, Rock Steady - 2015 Remaster, 0XmqQRhl7cMj5hKk4q43V4, 12
+12, Colter Wall, Sleeping on the Blacktop, 3Ozx6IrGdoQyAworJzvBDE, 72
+13, Daryl Hall & John Oates, When the Morning Comes - 2015 Japanese Remaster, 3HWI7jLHJJlReH2sDjKb6f, 13
+14, Rihanna, FourFiveSeconds, 78TTtXnFQPzwqlbtbwqN0y, 78
+15, David Bowie, The Prettiest Star - Mono; 2015 Remaster, 6F4Zhc5JqCBh5EBEfW3k3u, 18
+16, $uicideboy$, My Flaws Burn Through My Skin Like Demonic Flames from Hell, 6QFQqqYye5lAcnhCALvxKJ, 73
+17, Johann Strauss II, Elektromagnetische Polka, Op. 110, 5zpiSiRxbcvx0TI8r3UkQA, 24
+18, blackbear, idfc, 3SErMoIKdRELto2OspGs5L, 82
+19, Bad Company, Good Lovin' Gone Bad - 2015 Remaster, 4nOP6bSCajC5an8MZo6xSx, 11
+20, A$AP Rocky, Everyday (feat. Rod Stewart, Miguel & Mark Ronson), 2N3U8uTYhjX2KwGT0pf5x0, 77
+21, Grateful Dead, Box of Rain - Live at Soldier Field, Chicago, IL 7/3/2015, 7wfsRNtxOAim6i8K1P5G5T, 10
+22, Lil Uzi Vert, 7AM, 4v1P7JCjehbg5TmLQo2mFy, 72
+23, Moon Taxi, Year Zero - Live, 1h2aXTmrgmJ6smdoUGQIPF, 10
+24, Coldplay, Hymn for the Weekend, 3RiPr603aXAoi4GHyXx0uy, 83
+25, David Bowie, Conversation Piece - Mono Version; 2015 Remaster, 6Jm1OuOAWfUEk1ntKM41lV, 16
+26, Justin Bieber, Sorry, 09CtPGIpYB4BrO8qb1RGsF, 81
+27, David Bowie, Holy Holy - Spiders Version; 2015 Remaster, 66BTz98mYCizmDGRcl1TJo, 16
+28, Houndmouth, Sedona, 2MQhTbX792AT6YyzwLz9dt, 69
+29, Grateful Dead, Althea - Live at Soldier Field, Chicago, IL 7/5/2015 [GH Edit], 2T5m3DjBEs0XmP2EDizhm6, 10
+30, A$AP Rocky, L$D, 4S7YHmlWwfwArgd8LfSPud, 74
+31, Grateful Dead, China Cat Sunflower - Live at Soldier Field, Chicago, IL 7/5/2015, 4YUoVT8NAvrxJFcAV6oo3C, 10
+32, Chris Stapleton, Parachute, 5jROdl6MhcmP3O7h2sVgtw, 71
+33, Huey Mack, December 32nd, 2015, 4oB4VAjNZTOFZCgU7sYD4R, 10
+34, Kendrick Lamar, King Kunta, 0N3W5peJUQtI4eyR6GJT5O, 75
+35, Bad Company, Movin' On - 2015 Remaster, 5fDQrMfOOvdXOt8UY87XeV, 11
+36, One Direction, Drag Me Down, 2K87XMYnUMqLcX3zvtAF4G, 81
+37, Bad Company, Can't Get Enough - 2015 Remaster, 4X2PWPXS12GrIullqUaH4r, 12
+38, Melanie Martinez, Training Wheels, 3EGW6TGGbdk6Ys1Y3HU3lj, 76
+39, Inpetto, Learn To Fly - Mix Cut, 67zhpgDVNSTyzwjgry4oTw, 20
+40, blackbear, idfc, 6y6jbcPG4Yn3Du4moXaenr, 76
+41, Bad Company, Feel like Makin' Love - 2015 Remaster, 2pBuk3HpBnhJRHZWWOzMXa, 11
+42, Meghan Trainor, Like I'm Gonna Lose You (feat. John Legend), 2YlZnw2ikdb837oKMKjBkW, 78
+43, Grateful Dead, The Music Never Stopped - Live at Soldier Field, Chicago, IL 7/3/2015, 5eB0PLaYrmrjkLbVfIpIMn, 10
+44, Current Joys, Kids, 3pyyGVqWvRMq43qtJBzxe0, 74
+45, Grateful Dead, I Know You Rider - Live at Soldier Field, Chicago, IL 7/5/2015, 1lg2PXjoFB8HFcYETSxhQf, 10
+46, OMI, Cheerleader - Felix Jaehn Remix Radio Edit, 023OVLNzXhX0j7CxswUt6D, 69
+47, Miles Davis, Fantasy - 2015 Remaster, 5sn3oqWpWjICiZeJ0Djhhe, 26
+48, Cody Jinks, Loud and Heavy, 7JnCZ9w4HwDdCbJsIwS4SA, 70
+49, David Bowie, Moonage Daydream - The Arnold Corns Single Version; 2015 Remaster, 1Yb30zTZh4Ha7LDdJxRR9v, 17
+0, The Weeknd, Acquainted, 7uJH0YdSZL6psjxI6Xy08b, 75
+1, Moon Taxi, Run Right Back - Live, 4gQ3Dg2I22lt13CVny63ri, 11
+2, Alessia Cara, Scars To Your Beautiful, 0wI7QkCcs8FUQE1OkXUIqd, 77
+3, Grateful Dead, Drums - Live at Soldier Field, 7/5/2015, 5rzZ2R82TdEramx6rsCRyT, 9
+4, Travis Scott, Antidote, 1wHZx0LgzFHyeIZkUydNXq, 74
+5, Grateful Dead, Cumberland Blues - Live at Soldier Field, Chicago, IL 7/4/2015, 77RZmFOiZIkpyjCYvUXBBL, 9
+6, Twenty One Pilots, Tear in My Heart, 3bnVBN67NBEzedqQuWrpP4, 75
+7, Johann Strauss II, Studenten Polka, Polka française, Op. 263, 35yXAZx9BUNrm6spcxHPgB, 23
+8, Melanie Martinez, Cake, 5H3TCfiw0CQTX1XU7A9TXM, 78
+9, Grateful Dead, Touch of Grey - Live at Soldier Field, Chicago, IL 7/5/2015, 7cYJphCBJAn7dEEChOgZzV, 9
+10, G-Eazy, Me, Myself & I, 40YcuQysJ0KlGQTeGUosTC, 78
+11, Daryl Hall & John Oates, Las Vegas Turnaround (The Stewardess Song) - 2015 Japanese Remaster, 4Q0ew8rMlDqF4sPFhBwPWG, 10
+12, Teen Suicide, haunt me (x 3), 1QUMpZT7HG6sO3RiBu1LAJ, 74
+13, Roy Orbison, So Young - Remastered 2015, 1ejnmEFAz3fe4cFczxTBE4, 10
+14, Major Lazer, Lean On, 1Lim1Py7xBgbAkAys3AGAG, 73
+15, House Victimz, Amen for 8 years prayer, 1WIt8hyPpvOvrJP6cJgXuv, 30
+16, Adele, Love In The Dark, 7B5Npv8NjjTCzk8PLpU66h, 74
+17, The Flaming Lips, When You Smile - 2015 Remaster, 6e96Aek76bNvWgCqDN8iAo, 10
+18, Chris Janson, Buy Me a Boat, 2WKLUgklz0VDX5bKTZ3eYD, 70
+19, Jazz At Lincoln Center Orchestra, Single Petal of a Rose (Live in 2015), 0JPFkmxe4I7X0SkD0d5Urx, 11
+20, Zac Brown Band, Homegrown, 2kR18wsL3gvXRXdNE4dCGc, 70
+21, Roy Orbison, Unchained Melody - Remastered 2015, 0EdrIIyOYcnvUJOFyZehss, 12
+22, $uicideboy$, $Outh $Ide $Uicide, 496GZe7MxLloHgUQTmY2Ch, 71
+23, LADYBABY, ULTRA LUCKY, 0aPltFdJJCgtXoT8bolkM2, 16
+24, Sia, Chandelier, 2s1sdSqGcKxpPr5lCl7jAV, 70
+25, Moon Taxi, All Day All Night - Live, 019VEDtG5vOuROGFCaFnws, 10
+26, The Chainsmokers, Roses, 3vv9phIu6Y1vX3jcqaGz5Z, 75
+27, Grateful Dead, Truckin' - Live at Soldier Field, Chicago, IL 7/5/2015, 6dS0G5U8ReSsedQ25FalNZ, 8
+28, The Neighbourhood, The Beach, 2u0CelO5c81XS7z3dGpHbS, 77
+29, David Bowie, Unwashed and Somewhat Slightly Dazed - 2015 Remaster, 2tIZ64nUzIYLyjpxjPfG19, 14
+30, Tame Impala, Let It Happen, 2X485T9Z5Ly0xyaghN73ed, 75
+31, Dimitri Vegas & Like Mike, The Hum [ANR85], 6iAt54CMYKhfieOsubdaZ6, 20
+32, Drake, Jumpman, 27GmP9AWRs744SzKcpJsTZ, 73
+33, Hans Christian Lumbye, Champagner-Galopp, 3Oh8EAU5cTa7Pvd4cr6D4e, 18
+34, X Ambassadors, Unsteady, 7lGKEWMXVWWTt3X71Bv44I, 74
+35, Grateful Dead, Not Fade Away - Live at Soldier Field, Chicago, IL 7/5/2015, 6IWpbdp57shcm7h8qFSXtR, 8
+36, Drake, Energy, 79XrkTOfV1AqySNjVlygpW, 73
+37, The Yardbirds, Five Long Years - Live at the Marquee Club, 1964 - 2015 Remaster, 0JSWSWAvSh9yji01yYTB5z, 10
+38, Chris Stapleton, Fire Away, 5j4hSQH0KaAc8f6cimnXIT, 70
+39, Moon Taxi, Change - Live, 51XRm0bIg2Qlyx15jWACLw, 9
+40, Jeremih, Planez, 08zJpaUQVi9FrKv2e32Bah, 71
+41, Moon Taxi, River Water - Live, 5Xr3MavecWqHtOuwx64NFJ, 9
+42, Cage The Elephant, Trouble, 5n0CTysih20NYdT2S0Wpe8, 72
+43, Moon Taxi, Mercury - Live, 2mDaaBPelnEtyWpqh8hN2g, 9
+44, Melanie Martinez, Dollhouse, 6wNeKPXF0RDKyvfKfri5hf, 75
+45, David Bowie, Kooks - 2015 Remaster, 6ZLQ7htoZdHrLC1l6tGki5, 15
+46, Tim McGraw, Humble And Kind, 4Pn0JlCUusD2QHjADuOzuV, 69
+47, The Flaming Lips, Brainville - 2015 Remaster, 6Ch0gUjvJrqtAzmD5yLwjW, 8
+48, A$AP Rocky, Jukebox Joints (feat. Joe Fox & Kanye West), 2gAGWaK4wvt2xrFUlR4mK8, 71
+49, David Bowie, Holy Holy - Mono; 2015 Remaster, 2Cc3nUb7az8s4hjyjK29r0, 10
+0, X Ambassadors, Renegades, 0fYVliAYKHuPmECRs1pbRf, 76
+1, Placebo, Twenty Years - Live at Europa Festival 2015, 5C16cyfchibqnGoVkcCEqD, 5
+2, Meek Mill, R.I.C.O. (feat. Drake), 0Y0TOsE1q11qgbi7c5WZsG, 71
+3, David Bowie, All the Madmen - 2015 Remaster, 5q0rYe11PQ6e0azpSkImjm, 12
+4, Rae Sremmurd, No Type, 4scpF6J5uMBvoh6sFB7EL1, 73
+5, Bad Company, Wild Fire Woman - 2015 Remaster, 0QaI1pK4r9dLlTYIwbPddE, 7
+6, Rainbow Kitten Surprise, Cocaine Jesus, 0ZAbupc7jAQpG9IxojQ3s3, 70
+7, Bad Company, Don't Let Me Down - 2015 Remaster, 6yTyncZRFYZZB8JCyeobOA, 8
+8, Fall Out Boy, Immortals, 3Te8uLyit6X3ncNW8Fp3K2, 74
+9, Bad Company, The Way I Choose - 2015 Remaster, 7c9Xz19MZGKrJE7oLAsKkX, 8
+10, Sia, Elastic Heart, 5S9lfZu1YF8xKkgSsqL2Bd, 70
+11, The Flaming Lips, The Abandoned Hospital Ship - 2015 Remaster, 5preMDMh0oulNf3NyOMN50, 8
+12, Adele, Hello, 62PaSfnXSMyLshYJrlTuL3, 73
+13, David Bowie, Space Oddity - UK Mono Single Edit; 2015 Remaster, 1jc1pjS2K5rjGILNO0C9tW, 17
+14, Chief Keef, Faneto, 7EcE5yCPVZaZut1JqowbcI, 69
+15, Moon Taxi, Savannah - Live, 2GrLvLiexk5JAl7QWh8EUU, 8
+16, Leon Bridges, River, 3hhbDnFUb2bicI2df6VurK, 73
+17, Moon Taxi, Make Your Mind Up - Live, 6OTyvQChdsW1sSfjLoyGi9, 8
+18, Mac DeMarco, No Other Heart, 2aaCNg42RA74s0EmHTBqS7, 73
+19, The Flaming Lips, Psychiatric Explorations of the Fetus with Needles - 2015 Remaster, 7jUcm67t61jqDLApNJGz21, 7
+20, Pastel Ghost, Dark Beach, 5QmdK8QFbY8TLVKPuJzexD, 74
+21, THE SQUARE, 宝島 (Live Version), 0y2wBb9hRS7IxHU94uAtqH, 17
+22, Halsey, Gasoline, 2IO7yf562c1zLzpanal1DT, 72
+23, Giorgos Zambetas, Peristeri, 3bmBASAizfhWn39E2suo9Q, 17
+24, A$AP Rocky, Lord Pretty Flacko Jodye 2 (LPFJ2), 1j6kDJttn6wbVyMaM42Nxm, 71
+25, T-SQUARE, Open The 35th Gate (Live Version), 3porfyFpfrQxTJnEIgXJeq, 21
+26, Justin Bieber, What Do You Mean?, 4B0JvthVoAAuygILe3n4Bs, 78
+27, David Bowie, Cygnet Committee - 2015 Remaster, 7qlQBKebUnGBPzGmlHjrZ1, 13
+28, Ocean Waves For Sleep, Rolling Ocean Waves, 11Rm75lU5EmETsTR22C0gT, 69
+29, David Bowie, Andy Warhol - 2015 Remaster, 3OrVVvxCW57eDV5gCQlfss, 11
+30, Melanie Martinez, Soap, 03f7xZmt2wHCIDJBFPK8G4, 74
+31, David Bowie, Letter to Hermione - 2015 Remaster, 6LIQz0iiokJkCjpRtwIHKT, 14
+32, Ne-Yo, She Knows, 7seTcUFOhn5caSDbiSfsp0, 67
+33, David Bowie, Black Country Rock - 2015 Remaster, 4cWyMR0mjBuyS6pB3driwM, 11
+34, Eric Church, Record Year, 5fSPbm5lcwtqwXkeQQswW8, 68
+35, David Bowie, Round and Round - 2015 Remaster, 2fs58FkjjxqWyxi2oh3MJ7, 12
+36, The Weeknd, In The Night, 25KybV9BOUlvcnv7nN3Pyo, 73
+37, Grateful Dead, Attics of My Life - Live at Soldier Field, Chicago, IL 7/5/2015, 0XhjlPj5YxJ03dgMrV9BMg, 6
+38, Adele, All I Ask, 05TOt5Vz4StdjMpEdFPlvB, 71
+39, Boombox Cartel, B2U (feat. Ian Everson) - Mix Cut, 0fbPV6HpJ5vUvJboXGjxtp, 11
+40, One Direction, Perfect, 3NLnwwAQbbFKcEcV8hDItk, 78
+41, Bad Company, Deal with the Preacher - 2015 Remaster, 4vUVwFExC0FkVWM7FmaBFa, 7
+42, Meghan Trainor, Better When I'm Dancin', 5k5fWendNngd89O8JKoE8L, 75
+43, The Flaming Lips, This Here Giraffe - 2015 Remaster, 5qyC7PnBvouNLZ943ayXhX, 7
+44, Adele, Send My Love (To Your New Lover), 0t7fVeEJxO2Xi4H2K5Svc9, 73
+45, Daryl Hall & John Oates, Fall in Philadelphia - 2015 Japanese Remaster, 3d3ZZl9wMCh9Tjb091I2PL, 7
+46, Billy Currington, Do I Make You Wanna, 3I7krC8kr0gFR7P6vInR1I, 68
+47, Moon Taxi, Whiskey Sunsets - Live, 3Ajk0klQz4eRWJeyXWzMq2, 8
+48, Melanie Martinez, Pity Party, 3fo6DYGktjENCiagUeU9yH, 73
+49, David Bowie, The Width of a Circle - 2015 Remaster, 4e52QJBGzuQnjiuBCkR1Tr, 12
+0, WILLOW, Wait a Minute!, 0y60itmpH0aPKsFiGxmtnh, 88
+1, Schoolgirl Byebye, Year,2015, 0UsmyJDsst2xhX1ZiFF3JW, 24
+2, Beach House, Space Song, 7H0ya83CMmgFcOhw0UB6ow, 80
+3, Iron Maiden, Wasted Years - 2015 Remaster, 2V0T2LS0pf2r3EFpOEkZFO, 55
+4, Chris Stapleton, Tennessee Whiskey, 3fqwjXwUGN6vbzIwvyFMhx, 81
+5, Anthem Lights, K-LOVE Fan Awards: Songs of the Year (2015 Mash-Up), 5rJw9VsPNdfnV9Ar97xZG2, 27
+6, The Weeknd, The Hills, 7fBv7CLKzipRk6EC6TWHOB, 86
+7, Tori Amos, Silent All These Years - 2015 Remaster, 5kRDK0lC01ceWWuXgkjYLi, 43
+8, The Neighbourhood, Daddy Issues, 5E30LdtzQTGqRvNd7l6kG5, 86
+9, Tori Amos, Pretty Good Year - 2015 Remaster, 70euagGKfDWkSQCoZtHFdh, 23
+10, Tame Impala, The Less I Know The Better, 6K4t31amVTZDgR3sKmwUJJ, 84
+11, Phil Collins, Can't Turn Back The Years - 2015 Remastered, 3R3hLQX2u6lZIORZQsJmtD, 47
+12, BØRNS, Electric Love, 2GiJYvgVaD2HtM8GqD9EgQ, 83
+13, Beatsteaks, Gentleman of the Year - 2015 Remaster, 5ya8rum1Yym1ObenIygXAC, 29
+14, Vundabar, Alien Blues, 11iIikXxC6NP0Ma8vMD27x, 83
+15, Daryl Hall & John Oates, It's Uncanny - 2015 Japanese Remaster, 5eJz8lyMlGVfS03fnZIdPp, 37
+16, Lord Huron, The Night We Met, 0QZ5yyl6B6utIWkxeBDxQN, 78
+17, David Bowie, Velvet Goldmine - 2015 Remaster, 6GCNEAIZVH4lKQD30lfQ6f, 39
+18, Lil Peep, Star Shopping, 30bqVoKjX479ab90a8Pafp, 83
+19, David Bowie, Space Oddity - 2015 Remaster, 5sUrZEf4qEtjepdgcetith, 37
+20, Travis Scott, 90210 (feat. Kacy Hill), 51EC3I1nQXpec4gDk0mQyP, 80
+21, LADYBABY, Nippon Manju, 06NEuecnoNSQxDC3lfHpyy, 42
+22, Kendrick Lamar, Alright, 3iVcZ5G6tvkXZkZKlMpIUs, 79
+23, Roy Orbison, There Won't Be Many Coming Home - Remastered 2015, 4cuozf7bRILRTJyrNo8hTO, 37
+24, Tame Impala, Eventually, 5M4yti0QxgqJieUYaEXcpw, 80
+25, The Flaming Lips, Bad Days - 2015 Remaster, 27DJWxjGalNEa5rfEPTDNG, 29
+26, Bryson Tiller, Don't, 3pXF1nA74528Edde4of9CC, 79
+27, JPEGMAFIA, 2015 was a great year, 4tdI8hLyvQJ562nGhf0f8y, 27
+28, Mac Miller, Weekend (feat. Miguel), 6GnhWMhgJb7uyiiPEiEkDA, 78
+29, Roy Orbison, Losing You - Remastered 2015, 6iAlpVfmqRhmHhEPd1gx8m, 36
+30, Morgan Wallen, Spin You Around, 1yj1ZztSGITJ5Nf4mfH92c, 75
+31, Tori Amos, Silent All These Years - 2015 Remaster, 05sOCR8SfGjcf7D6bsQfUp, 29
+32, Twenty One Pilots, Stressed Out, 3CRDbSIZ4r5MsZ0YwxuEkn, 85
+33, Moon Taxi, Who's To Say? - Live, 2MRKc0dryJdSlrbFj0KV9I, 26
+34, Mark Ronson, Uptown Funk (feat. Bruno Mars), 32OlwWuMpZ6b0aN2RZOeMS, 84
+35, Roy Orbison, Best Friend - Remastered 2015, 14qngyOIYl5grgoLeNNhSo, 32
+36, Rae Sremmurd, This Could Be Us, 4jTiyLlOJVJj3mCr7yfPQD, 80
+37, THE SQUARE, Breeze and You (Live Version), 6yoOrydjbkvRv6XtnjnNC7, 35
+38, Tame Impala, New Person, Same Old Mistakes, 52ojopYMUzeNcudsoz7O9D, 79
+39, David Bowie, Life on Mars? - 2015 Remaster, 769Gf7dDk9ChZrQIzt038b, 32
+40, Jeremih, oui, 0PJIbOdMs3bd5AT8liULMQ, 77
+41, Case & Point, Descender - 2015, 0JZqVnHw3lxOvR7mjxPLic, 25
+42, $uicideboy$, Kill Yourself (Part III), 0kEZlJh4mK1QRfb3CT5LPk, 78
+43, Tori Amos, Pretty Good Year - 2015 Remaster, 0PbE6CgOXKNn622YBGki4w, 22
+44, Thomas Rhett, Die A Happy Man, 5kNe7PE09d6Kvw5pAsx23n, 74
+45, David Bowie, The Man Who Sold the World - 2015 Remaster, 61MJt8DGgDadH67v9mRUYo, 30
+46, Steve Lacy, C U Girl, 6FBzhcfgGacfXF3AmtfEaX, 76
+47, Grant Bowtie, Can You Hear It - 2015, 0HVGEaoG6jgkWlRVHTTxIf, 24
+48, Bryson Tiller, Exchange, 43PuMrRfbyyuz4QpZ3oAwN, 77
+49, Stonebank, Fire - 2015, 6WalqLXkl669YCYVEavpeY, 25
+0, Melanie Martinez, Pacify Her, 360Wr96ywrCQq4kTAJ8Pq6, 83
+1, LADYBABY, Ageage money Ochingin Daisakusen, 5q3v9R8RBuwZb4zRmyqOob, 33
+2, Cavetown, Devil Town, 0vf2eBw2inhl8y61cYQMv2, 79
+3, Fleetwood Mac, Not That Funny - 2015 Remaster, 1HBGbYHunfLYEnWGTi7NGG, 26
+4, Fall Out Boy, Centuries, 04aAxqtGp5pv12UXAg4pkq, 81
+5, Bread, In the Afterglow - 2015 Japan Remaster, 6UR4lRksZAgmJ6Ak2ImrOX, 27
+6, Twenty One Pilots, Ride, 2Z8WuEywRWYTKe1NybPQEW, 82
+7, Houndmouth, 15 Years - Live from SXSW 2015, 7d9XbA7YRANRk03EKDpCzJ, 16
+8, The Weeknd, Can't Feel My Face, 22VdIZQfgXJea34mQxlt81, 81
+9, Downtown Party Network, Space Me Out - Jody Wisternoff & James Grant Remix, 4aGyxpz1eTMaF3Wqvj1uKS, 31
+10, Fetty Wap, Trap Queen, 2d8JP84HNLKhmd6IYOoupQ, 75
+11, Inpetto, Lifting - Mix Cut, 7avlJ4ApOAje5977pRPmAy, 33
+12, Big Sean, I Don't Fuck With You, 7FYH5AW3bVfZHJIQpq3UOA, 75
+13, David Bowie, Changes - 2015 Remaster, 5O2KvGO2jE74XxMNQpPxsm, 23
+14, Justin Bieber, Love Yourself, 50kpGaPAhYJ3sGmk6vplg0, 84
+15, Phil Collins, Can't Turn Back the Years - 2015 Remaster, 2yIINfKM7FSllGaCFXNawR, 27
+16, Rae Sremmurd, Come Get Her, 1Ser4X0TKttOvo8bgdytTP, 75
+17, David Bowie, Oh! You Pretty Things - 2015 Remaster, 6JaYRajAjlWOaqyJV2kAh4, 23
+18, The Weeknd, Often, 4PhsKqMdgMEUSstTDAmMpg, 80
+19, LADYBABY, Renge Chance!, 52OVS4atVZ4l45pUXUJ39Z, 26
+20, $uicideboy$, Runnin' Thru the 7th with My Woadies, 1tm7c4V0kqLiN0XPVnoUcT, 75
+21, THE SQUARE, Hank & Cliff (Live Version), 4HsoS5WY522Gu34PD9MuBH, 23
+22, $uicideboy$, Paris, 6tO5bxNnMuh1c3cziSpecA, 75
+23, David Bowie, Ragazzo Solo, Ragazza Sola - 2015 Remaster, 6Lah4wdkr7j8QeABkuZrdK, 26
+24, Demi Lovato, Cool for the Summer, 3uwnnTQcHM1rDqSfA4gQNz, 85
+25, Bad Company, Bad Company - 2015 Remaster, 7i3FVvz4bEW7FjjvvvurVB, 14
+26, Big Sean, I Know, 6rje9f1wRFJDO2iTORw0lH, 75
+27, The Lights, Y. M. C. A., 2GNt7eZeRhsOnkooTE0LNc, 27
+28, The Weeknd, Earned It (Fifty Shades Of Grey), 4frLb7nWtsz2ymBE6k2GRP, 74
+29, Everything But The Girl, Before Today - Adam F Remix / 2015 Remaster, 2CyNHbhmiG7deA5rHrgnMY, 13
+30, Kodak Black, No Flockin', 34oWbFBfGEElvgO0a5c9V4, 73
+31, Grateful Dead, Scarlet Begonias - Live at Soldier Field, Chicago, IL 7/3/2015, 0YnaxkPaWl5kiVv1vB1Rsl, 13
+32, Chase Atlantic, Friends, 2jQiSYrwJehQAcuaaQrXnS, 82
+33, JPEGMAFIA, 2015 was a great year - Instrumental, 6y9wdQ46GnDWXtrE39RBKu, 13
+34, Roy Woods, Drama (feat. Drake), 0PXp9QxBfSKGGpWUNaws2X, 75
+35, David Bowie, Amsterdam - 2015 Remaster, 3jFHn2P14UisjAbaPvgZp5, 30
+36, Wiz Khalifa, See You Again (feat. Charlie Puth), 2JzZzZUQj3Qff7wapcbKjc, 82
+37, Bad Company, Seagull - 2015 Remaster, 1tRwFmLqxYzVy5shmIyPUC, 13
+38, Adele, When We Were Young, 7GgWAITsYJaRM3r50rfh5w, 75
+39, The Beatles, Eight Days A Week - Remastered 2015, 1BDyXgAoGr8nwJyvLo8l0m, 18
+40, Flo Rida, My House, 6Knv6wdA0luoMUuuoYi2i1, 78
+41, Roy Orbison, Ride Away - Remastered 2015, 2EvU5Dafs3U8tW5va9T42Q, 13
+42, Shawn Mendes, Stitches, 5jsw9uXEGuKyJzs0boZ1bT, 76
+43, LADYBABY, C'est si bon Kibun, 1o0KRodlb9q4ImI7Err5Ie, 24
+44, Fetty Wap, 679 (feat. Remy Boyz), 5NQbUaeTEOGdD6hHcre0dZ, 75
+45, David Bowie, Queen Bitch - 2015 Remaster, 0bx62Ku1d0ZyZfdLo67nZw, 17
+46, Sufjan Stevens, Fourth of July, 5Qnrgqy1pAm9GyNQOgyVFz, 80
+47, Grateful Dead, West L.A. Fadeaway - Live at Soldier Field, Chicago,IL 7/4/2015, 1XkANYxUsa1oJYXpfY1Bxd, 12
+48, Melanie Martinez, Play Date, 4DpNNXFMMxQEKl7r0ykkWA, 80
+49, Bad Company, Ready for Love - 2015 Remaster, 6PxBq0X6eTm91LpgrH5e3l, 13
+0, KYLE, Don't Wanna Fall In Love, 1YakuHfzKxjnseCEeVQtrY, 74
+1, David Bowie, I Wish You Would - 2015 Remaster, 4s3XabMZXMmaMNHYEubZ0i, 16
+2, Bryson Tiller, Right My Wrongs, 5rgrBsAFYMun6yhtnLKRPz, 74
+3, Grateful Dead, Fire on the Mountain - Live at Soldier Field, Chicago, IL 7/3/2015, 0otriTANizzbePRIu5Zt9V, 11
+4, Cavetown, This Is Home, 7s8VgA8OjvwBUuigKzEGBx, 76
+5, Grateful Dead, Bertha - Live at Soldier Field, Chicago, IL 7/3/2015, 0Q6rV8wWiyZdI3NQsIE8JN, 11
+6, Jeremih, Don't Tell 'Em, 0Dc7J9VPV4eOInoxUiZrsL, 75
+7, Grateful Dead, Shakedown Street - Live at Soldier Field, Chicago, IL 7/4/2015, 3MWyOX32x0SqXiTo73Jzzd, 11
+8, Drake, Jungle, 7JXZq0JgG2zTrSOAgY8VMC, 73
+9, Bad Company, Shooting Star - 2015 Remaster, 6BHZ967p9zVgaHBQKBCCQX, 12
+10, mike., These Days, 5tsI3xxDHDgzHhn30LTQNz, 73
+11, Bad Company, Rock Steady - 2015 Remaster, 0XmqQRhl7cMj5hKk4q43V4, 12
+12, Colter Wall, Sleeping on the Blacktop, 3Ozx6IrGdoQyAworJzvBDE, 72
+13, Daryl Hall & John Oates, When the Morning Comes - 2015 Japanese Remaster, 3HWI7jLHJJlReH2sDjKb6f, 13
+14, Rihanna, FourFiveSeconds, 78TTtXnFQPzwqlbtbwqN0y, 78
+15, David Bowie, The Prettiest Star - Mono; 2015 Remaster, 6F4Zhc5JqCBh5EBEfW3k3u, 18
+16, $uicideboy$, My Flaws Burn Through My Skin Like Demonic Flames from Hell, 6QFQqqYye5lAcnhCALvxKJ, 73
+17, Johann Strauss II, Elektromagnetische Polka, Op. 110, 5zpiSiRxbcvx0TI8r3UkQA, 24
+18, blackbear, idfc, 3SErMoIKdRELto2OspGs5L, 82
+19, Bad Company, Good Lovin' Gone Bad - 2015 Remaster, 4nOP6bSCajC5an8MZo6xSx, 11
+20, A$AP Rocky, Everyday (feat. Rod Stewart, Miguel & Mark Ronson), 2N3U8uTYhjX2KwGT0pf5x0, 77
+21, Grateful Dead, Box of Rain - Live at Soldier Field, Chicago, IL 7/3/2015, 7wfsRNtxOAim6i8K1P5G5T, 10
+22, Lil Uzi Vert, 7AM, 4v1P7JCjehbg5TmLQo2mFy, 72
+23, Moon Taxi, Year Zero - Live, 1h2aXTmrgmJ6smdoUGQIPF, 10
+24, Coldplay, Hymn for the Weekend, 3RiPr603aXAoi4GHyXx0uy, 83
+25, David Bowie, Conversation Piece - Mono Version; 2015 Remaster, 6Jm1OuOAWfUEk1ntKM41lV, 16
+26, Justin Bieber, Sorry, 09CtPGIpYB4BrO8qb1RGsF, 81
+27, David Bowie, Holy Holy - Spiders Version; 2015 Remaster, 66BTz98mYCizmDGRcl1TJo, 16
+28, Houndmouth, Sedona, 2MQhTbX792AT6YyzwLz9dt, 69
+29, Grateful Dead, Althea - Live at Soldier Field, Chicago, IL 7/5/2015 [GH Edit], 2T5m3DjBEs0XmP2EDizhm6, 10
+30, A$AP Rocky, L$D, 4S7YHmlWwfwArgd8LfSPud, 74
+31, Grateful Dead, China Cat Sunflower - Live at Soldier Field, Chicago, IL 7/5/2015, 4YUoVT8NAvrxJFcAV6oo3C, 10
+32, Chris Stapleton, Parachute, 5jROdl6MhcmP3O7h2sVgtw, 71
+33, Huey Mack, December 32nd, 2015, 4oB4VAjNZTOFZCgU7sYD4R, 10
+34, Kendrick Lamar, King Kunta, 0N3W5peJUQtI4eyR6GJT5O, 75
+35, Bad Company, Movin' On - 2015 Remaster, 5fDQrMfOOvdXOt8UY87XeV, 11
+36, One Direction, Drag Me Down, 2K87XMYnUMqLcX3zvtAF4G, 81
+37, Bad Company, Can't Get Enough - 2015 Remaster, 4X2PWPXS12GrIullqUaH4r, 12
+38, Melanie Martinez, Training Wheels, 3EGW6TGGbdk6Ys1Y3HU3lj, 76
+39, Inpetto, Learn To Fly - Mix Cut, 67zhpgDVNSTyzwjgry4oTw, 20
+40, blackbear, idfc, 6y6jbcPG4Yn3Du4moXaenr, 76
+41, Bad Company, Feel like Makin' Love - 2015 Remaster, 2pBuk3HpBnhJRHZWWOzMXa, 11
+42, Meghan Trainor, Like I'm Gonna Lose You (feat. John Legend), 2YlZnw2ikdb837oKMKjBkW, 78
+43, Grateful Dead, The Music Never Stopped - Live at Soldier Field, Chicago, IL 7/3/2015, 5eB0PLaYrmrjkLbVfIpIMn, 10
+44, Current Joys, Kids, 3pyyGVqWvRMq43qtJBzxe0, 74
+45, Grateful Dead, I Know You Rider - Live at Soldier Field, Chicago, IL 7/5/2015, 1lg2PXjoFB8HFcYETSxhQf, 10
+46, OMI, Cheerleader - Felix Jaehn Remix Radio Edit, 023OVLNzXhX0j7CxswUt6D, 69
+47, Miles Davis, Fantasy - 2015 Remaster, 5sn3oqWpWjICiZeJ0Djhhe, 26
+48, Cody Jinks, Loud and Heavy, 7JnCZ9w4HwDdCbJsIwS4SA, 70
+49, David Bowie, Moonage Daydream - The Arnold Corns Single Version; 2015 Remaster, 1Yb30zTZh4Ha7LDdJxRR9v, 17
+0, The Weeknd, Acquainted, 7uJH0YdSZL6psjxI6Xy08b, 75
+1, Moon Taxi, Run Right Back - Live, 4gQ3Dg2I22lt13CVny63ri, 11
+2, Alessia Cara, Scars To Your Beautiful, 0wI7QkCcs8FUQE1OkXUIqd, 77
+3, Grateful Dead, Drums - Live at Soldier Field, 7/5/2015, 5rzZ2R82TdEramx6rsCRyT, 9
+4, Travis Scott, Antidote, 1wHZx0LgzFHyeIZkUydNXq, 74
+5, Grateful Dead, Cumberland Blues - Live at Soldier Field, Chicago, IL 7/4/2015, 77RZmFOiZIkpyjCYvUXBBL, 9
+6, Twenty One Pilots, Tear in My Heart, 3bnVBN67NBEzedqQuWrpP4, 75
+7, Johann Strauss II, Studenten Polka, Polka française, Op. 263, 35yXAZx9BUNrm6spcxHPgB, 23
+8, Melanie Martinez, Cake, 5H3TCfiw0CQTX1XU7A9TXM, 78
+9, Grateful Dead, Touch of Grey - Live at Soldier Field, Chicago, IL 7/5/2015, 7cYJphCBJAn7dEEChOgZzV, 9
+10, G-Eazy, Me, Myself & I, 40YcuQysJ0KlGQTeGUosTC, 78
+11, Daryl Hall & John Oates, Las Vegas Turnaround (The Stewardess Song) - 2015 Japanese Remaster, 4Q0ew8rMlDqF4sPFhBwPWG, 10
+12, Teen Suicide, haunt me (x 3), 1QUMpZT7HG6sO3RiBu1LAJ, 74
+13, Roy Orbison, So Young - Remastered 2015, 1ejnmEFAz3fe4cFczxTBE4, 10
+14, Major Lazer, Lean On, 1Lim1Py7xBgbAkAys3AGAG, 73
+15, House Victimz, Amen for 8 years prayer, 1WIt8hyPpvOvrJP6cJgXuv, 30
+16, Adele, Love In The Dark, 7B5Npv8NjjTCzk8PLpU66h, 74
+17, The Flaming Lips, When You Smile - 2015 Remaster, 6e96Aek76bNvWgCqDN8iAo, 10
+18, Chris Janson, Buy Me a Boat, 2WKLUgklz0VDX5bKTZ3eYD, 70
+19, Jazz At Lincoln Center Orchestra, Single Petal of a Rose (Live in 2015), 0JPFkmxe4I7X0SkD0d5Urx, 11
+20, Zac Brown Band, Homegrown, 2kR18wsL3gvXRXdNE4dCGc, 70
+21, Roy Orbison, Unchained Melody - Remastered 2015, 0EdrIIyOYcnvUJOFyZehss, 12
+22, $uicideboy$, $Outh $Ide $Uicide, 496GZe7MxLloHgUQTmY2Ch, 71
+23, LADYBABY, ULTRA LUCKY, 0aPltFdJJCgtXoT8bolkM2, 16
+24, Sia, Chandelier, 2s1sdSqGcKxpPr5lCl7jAV, 70
+25, Moon Taxi, All Day All Night - Live, 019VEDtG5vOuROGFCaFnws, 10
+26, The Chainsmokers, Roses, 3vv9phIu6Y1vX3jcqaGz5Z, 75
+27, Grateful Dead, Truckin' - Live at Soldier Field, Chicago, IL 7/5/2015, 6dS0G5U8ReSsedQ25FalNZ, 8
+28, The Neighbourhood, The Beach, 2u0CelO5c81XS7z3dGpHbS, 77
+29, David Bowie, Unwashed and Somewhat Slightly Dazed - 2015 Remaster, 2tIZ64nUzIYLyjpxjPfG19, 14
+30, Tame Impala, Let It Happen, 2X485T9Z5Ly0xyaghN73ed, 75
+31, Dimitri Vegas & Like Mike, The Hum [ANR85], 6iAt54CMYKhfieOsubdaZ6, 20
+32, Drake, Jumpman, 27GmP9AWRs744SzKcpJsTZ, 73
+33, Hans Christian Lumbye, Champagner-Galopp, 3Oh8EAU5cTa7Pvd4cr6D4e, 18
+34, X Ambassadors, Unsteady, 7lGKEWMXVWWTt3X71Bv44I, 74
+35, Grateful Dead, Not Fade Away - Live at Soldier Field, Chicago, IL 7/5/2015, 6IWpbdp57shcm7h8qFSXtR, 8
+36, Drake, Energy, 79XrkTOfV1AqySNjVlygpW, 73
+37, The Yardbirds, Five Long Years - Live at the Marquee Club, 1964 - 2015 Remaster, 0JSWSWAvSh9yji01yYTB5z, 10
+38, Chris Stapleton, Fire Away, 5j4hSQH0KaAc8f6cimnXIT, 70
+39, Moon Taxi, Change - Live, 51XRm0bIg2Qlyx15jWACLw, 9
+40, Jeremih, Planez, 08zJpaUQVi9FrKv2e32Bah, 71
+41, Moon Taxi, River Water - Live, 5Xr3MavecWqHtOuwx64NFJ, 9
+42, Cage The Elephant, Trouble, 5n0CTysih20NYdT2S0Wpe8, 72
+43, Moon Taxi, Mercury - Live, 2mDaaBPelnEtyWpqh8hN2g, 9
+44, Melanie Martinez, Dollhouse, 6wNeKPXF0RDKyvfKfri5hf, 75
+45, David Bowie, Kooks - 2015 Remaster, 6ZLQ7htoZdHrLC1l6tGki5, 15
+46, Tim McGraw, Humble And Kind, 4Pn0JlCUusD2QHjADuOzuV, 69
+47, The Flaming Lips, Brainville - 2015 Remaster, 6Ch0gUjvJrqtAzmD5yLwjW, 8
+48, A$AP Rocky, Jukebox Joints (feat. Joe Fox & Kanye West), 2gAGWaK4wvt2xrFUlR4mK8, 71
+49, David Bowie, Holy Holy - Mono; 2015 Remaster, 2Cc3nUb7az8s4hjyjK29r0, 10
+0, X Ambassadors, Renegades, 0fYVliAYKHuPmECRs1pbRf, 76
+1, Placebo, Twenty Years - Live at Europa Festival 2015, 5C16cyfchibqnGoVkcCEqD, 5
+2, Meek Mill, R.I.C.O. (feat. Drake), 0Y0TOsE1q11qgbi7c5WZsG, 71
+3, David Bowie, All the Madmen - 2015 Remaster, 5q0rYe11PQ6e0azpSkImjm, 12
+4, Rae Sremmurd, No Type, 4scpF6J5uMBvoh6sFB7EL1, 73
+5, Bad Company, Wild Fire Woman - 2015 Remaster, 0QaI1pK4r9dLlTYIwbPddE, 7
+6, Rainbow Kitten Surprise, Cocaine Jesus, 0ZAbupc7jAQpG9IxojQ3s3, 70
+7, Bad Company, Don't Let Me Down - 2015 Remaster, 6yTyncZRFYZZB8JCyeobOA, 8
+8, Fall Out Boy, Immortals, 3Te8uLyit6X3ncNW8Fp3K2, 74
+9, Bad Company, The Way I Choose - 2015 Remaster, 7c9Xz19MZGKrJE7oLAsKkX, 8
+10, Sia, Elastic Heart, 5S9lfZu1YF8xKkgSsqL2Bd, 70
+11, The Flaming Lips, The Abandoned Hospital Ship - 2015 Remaster, 5preMDMh0oulNf3NyOMN50, 8
+12, Adele, Hello, 62PaSfnXSMyLshYJrlTuL3, 73
+13, David Bowie, Space Oddity - UK Mono Single Edit; 2015 Remaster, 1jc1pjS2K5rjGILNO0C9tW, 17
+14, Chief Keef, Faneto, 7EcE5yCPVZaZut1JqowbcI, 69
+15, Moon Taxi, Savannah - Live, 2GrLvLiexk5JAl7QWh8EUU, 8
+16, Leon Bridges, River, 3hhbDnFUb2bicI2df6VurK, 73
+17, Moon Taxi, Make Your Mind Up - Live, 6OTyvQChdsW1sSfjLoyGi9, 8
+18, Mac DeMarco, No Other Heart, 2aaCNg42RA74s0EmHTBqS7, 73
+19, The Flaming Lips, Psychiatric Explorations of the Fetus with Needles - 2015 Remaster, 7jUcm67t61jqDLApNJGz21, 7
+20, Pastel Ghost, Dark Beach, 5QmdK8QFbY8TLVKPuJzexD, 74
+21, THE SQUARE, 宝島 (Live Version), 0y2wBb9hRS7IxHU94uAtqH, 17
+22, Halsey, Gasoline, 2IO7yf562c1zLzpanal1DT, 72
+23, Giorgos Zambetas, Peristeri, 3bmBASAizfhWn39E2suo9Q, 17
+24, A$AP Rocky, Lord Pretty Flacko Jodye 2 (LPFJ2), 1j6kDJttn6wbVyMaM42Nxm, 71
+25, T-SQUARE, Open The 35th Gate (Live Version), 3porfyFpfrQxTJnEIgXJeq, 21
+26, Justin Bieber, What Do You Mean?, 4B0JvthVoAAuygILe3n4Bs, 78
+27, David Bowie, Cygnet Committee - 2015 Remaster, 7qlQBKebUnGBPzGmlHjrZ1, 13
+28, Ocean Waves For Sleep, Rolling Ocean Waves, 11Rm75lU5EmETsTR22C0gT, 69
+29, David Bowie, Andy Warhol - 2015 Remaster, 3OrVVvxCW57eDV5gCQlfss, 11
+30, Melanie Martinez, Soap, 03f7xZmt2wHCIDJBFPK8G4, 74
+31, David Bowie, Letter to Hermione - 2015 Remaster, 6LIQz0iiokJkCjpRtwIHKT, 14
+32, Ne-Yo, She Knows, 7seTcUFOhn5caSDbiSfsp0, 67
+33, David Bowie, Black Country Rock - 2015 Remaster, 4cWyMR0mjBuyS6pB3driwM, 11
+34, Eric Church, Record Year, 5fSPbm5lcwtqwXkeQQswW8, 68
+35, David Bowie, Round and Round - 2015 Remaster, 2fs58FkjjxqWyxi2oh3MJ7, 12
+36, The Weeknd, In The Night, 25KybV9BOUlvcnv7nN3Pyo, 73
+37, Grateful Dead, Attics of My Life - Live at Soldier Field, Chicago, IL 7/5/2015, 0XhjlPj5YxJ03dgMrV9BMg, 6
+38, Adele, All I Ask, 05TOt5Vz4StdjMpEdFPlvB, 71
+39, Boombox Cartel, B2U (feat. Ian Everson) - Mix Cut, 0fbPV6HpJ5vUvJboXGjxtp, 11
+40, One Direction, Perfect, 3NLnwwAQbbFKcEcV8hDItk, 78
+41, Bad Company, Deal with the Preacher - 2015 Remaster, 4vUVwFExC0FkVWM7FmaBFa, 7
+42, Meghan Trainor, Better When I'm Dancin', 5k5fWendNngd89O8JKoE8L, 75
+43, The Flaming Lips, This Here Giraffe - 2015 Remaster, 5qyC7PnBvouNLZ943ayXhX, 7
+44, Adele, Send My Love (To Your New Lover), 0t7fVeEJxO2Xi4H2K5Svc9, 73
+45, Daryl Hall & John Oates, Fall in Philadelphia - 2015 Japanese Remaster, 3d3ZZl9wMCh9Tjb091I2PL, 7
+46, Billy Currington, Do I Make You Wanna, 3I7krC8kr0gFR7P6vInR1I, 68
+47, Moon Taxi, Whiskey Sunsets - Live, 3Ajk0klQz4eRWJeyXWzMq2, 8
+48, Melanie Martinez, Pity Party, 3fo6DYGktjENCiagUeU9yH, 73
+49, David Bowie, The Width of a Circle - 2015 Remaster, 4e52QJBGzuQnjiuBCkR1Tr, 12
