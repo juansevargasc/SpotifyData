@@ -1,0 +1,18 @@
+{
+        "followers": 8075034,
+        "id": "23fqKkggKUBHNkbKtXEls4",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb6567299e3c53cf2a250fbdce",
+        "name": "Kygo"
+    },
+    {
+        "followers": 24027400,
+        "id": "0EmeFodog0BfCgMzAIvKQp",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb8136bed5d8a80791bbe9ae23",
+        "name": "Shakira"
+    },
+    {
+        "followers": 37406010,
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebb894ef9fa437b0389c5567cc",
+        "name": "Post Malone"
+    }

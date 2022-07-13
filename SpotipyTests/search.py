@@ -9,7 +9,7 @@ track_name = []
 popularity = []
 track_id = []
 
-#year = str(2016)
+year = str(2016)
 
 def search(year):
     for i in range(0,250,50):
