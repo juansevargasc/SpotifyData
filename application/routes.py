@@ -2,6 +2,7 @@ from application import app
 from flask import jsonify, request
 from application.spotipy_methods import *
 from application.models import *
+from application.iso_country_codes import CC
 
 # ROUTES
 # Health - ping tests
@@ -14,6 +15,7 @@ def ping_route():
 @app.route('/health', methods=['GET'])
 def health():
     return jsonify({'msg': 'Hello World'})
+
 
 
 # ARTIST
@@ -30,14 +32,17 @@ def add_artist():
     db.session.add(new_artist)
     db.session.commit()
 
+
     return artist_schema.jsonify(new_artist)
 # Read all
 @app.route('/artists', methods=['GET'])
 def get_artists():
-    all_artists = Artist.query.all()
-    result = artists_schema.dump(all_artists)
+    if len( Artist.query.all() ) != 0:
+        all_artists = Artist.query.all()
+        result = artists_schema.dump(all_artists)
+        return jsonify(result)
 
-    return jsonify(result)
+
 # Read one
 @app.route('/artists/<id>', methods=['GET'])
 def get_artist(id):
@@ -74,6 +79,29 @@ def delete_artist(id):
     db.session.commit()
 
     return artist_schema.jsonify(artist)
+
+#COUNTRY
+# Read all
+@app.route('/countries', methods=['GET'])
+def get_countries():
+    if len( Country.query.all() ) != 0:
+        all_countries = Country.query.all()
+        result = countries_schema.dump(all_countries)
+
+        return jsonify(result)
+    else:
+        countries = get_countries_from_spotify()
+        for idx, country in enumerate(countries):
+            id = idx
+            code = country
+            name = CC[code]
+
+            new_coutry = Country(id, code, name)
+
+            db.session.add(new_coutry)
+            db.session.commit()
+        return 'Success'
+        
 
 # ALBUM ###################
 # # Create
