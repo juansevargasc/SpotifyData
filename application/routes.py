@@ -22,10 +22,10 @@ def health():
 def add_artist():
     id = request.json['id']
     name = request.json['name']
-    url = request.json['url']
+    image_url = request.json['image_url']
     followers = request.json['followers']
 
-    new_artist = Artist(id, name, url, followers)
+    new_artist = Artist(id, name, image_url, followers)
 
     db.session.add(new_artist)
     db.session.commit()
@@ -50,12 +50,12 @@ def update_artist(id):
     artist = Artist.query.get(id)
 
     name = request.json['name']
-    url = request.json['url']
+    image_url = request.json['image_url']
     followers = request.json['followers']
 
     # Update python class
     artist.name = name
-    artist.url = url
+    artist.image_url = image_url
     artist.followers = followers
 
     # Update on DB

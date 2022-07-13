@@ -61,7 +61,7 @@ class Album(db.Model):
     spotify_url = db.Column(db.String(200))
     image_url = db.Column(db.String(200))
     release_date = db.Column(db.DateTime(timezone=True))
-    tracks = db.relationship('Track', backref='album', lazy=True) # One to many relationship
+    #tracks = db.relationship('Track', backref='album', lazy=True) # One to many relationship
     artist_id = db.Column(db.String(200), db.ForeignKey('artist.id')) # ForeignKey Artist
     
     tracks = db.relationship('Track', backref='album', lazy=True) # One to many relationship
@@ -88,7 +88,7 @@ class Playlist(db.Model):
     collaborative = db.Column(db.Boolean)
     user_id = db.Column(db.String(200), db.ForeignKey('user.id')) # ForeignKey User
 
-    tracks = db.relationship('Track', secondary=track_playlist, backref='playlists')
+    tracks = db.relationship('Track', secondary=track_playlist, backref='playlists') # Many to many
 
     def __init__(self, id, name, description, followers, image_url, collaborative):
         self.id = id
