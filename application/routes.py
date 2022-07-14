@@ -41,7 +41,21 @@ def get_artists():
         all_artists = Artist.query.all()
         result = artists_schema.dump(all_artists)
         return jsonify(result)
+    else:
+        artists = get_artists_from_spotify()
+        for idx, artist in enumerate(artists):
+            id = artist['id']
+            name = artist['name']
+            image_url = artist['images'][0]['url']
+            followers = artist['followers']['total']
 
+            # print(idx, a)
+
+            new_artist = Artist(id, name, image_url, followers)
+
+            db.session.add(new_artist)
+            db.session.commit()
+        return 'Success'
 
 # Read one
 @app.route('/artists/<id>', methods=['GET'])
@@ -81,6 +95,21 @@ def delete_artist(id):
     return artist_schema.jsonify(artist)
 
 #COUNTRY
+# Create
+@app.route('/countries', methods=['POST'])
+def add_country():
+    id = request.json['id']
+    code = request.json['code']
+    name = request.json['name']
+
+    new_country = Country(id, code, name)
+
+    db.session.add(new_country)
+    db.session.commit()
+
+
+    return country_schema.jsonify(new_country)
+
 # Read all
 @app.route('/countries', methods=['GET'])
 def get_countries():
@@ -101,30 +130,154 @@ def get_countries():
             db.session.add(new_coutry)
             db.session.commit()
         return 'Success'
-        
 
-# ALBUM ###################
-# # Create
-# @app.route('/albums', methods=['POST'])
-# def add_artist():
-#     id = request.json['id']
-#     name = request.json['name']
-#     url = request.json['url']
-#     followers = request.json['followers']
+# Read One
+@app.route('/countries/<id>', methods=['GET'])
+def get_country(id):
+    country = Country.query.get(id)
+    return country_schema.jsonify(country)
+ # Update one
+@app.route('/countries/<id>', methods=['PUT'])
+def update_country(id):
+    # Get country
+    country = Country.query.get(id)
 
-#     new_artist = Artist(id, name, url, followers)
+    code = request.json['code']
+    name = request.json['name']
 
-#     db.session.add(new_artist)
-#     db.session.commit()
+    # Update python class
+    country.code = code
+    country.name = name
+    
 
-#     return artist_schema.jsonify(new_artist)
+    # Update on DB
+    db.session.commit()
+
+    return country_schema.jsonify(country)
+# Delete one
+@app.route('/countries/<id>', methods=['DELETE'])
+def delete_country(id):
+    # Get country
+    country = Country.query.get(id)
+    # Delete that artist
+    db.session.delete(country)
+
+    # Commit that change
+    db.session.commit()
+
+    return country_schema.jsonify(country)
+    
+
+# ALBUM 
+# Create
+@app.route('/albums', methods=['POST'])
+def add_album():
+    id = request.json['id']
+    name = request.json['name']
+    total_tracks = request.json['total_tracks']
+    album_type = request.json['album_type']
+    spotify_url = request.json['spotify_url']
+    image_url = request.json['image_url']
+    release_date = request.json['release_date']
+    artist_id = request.json['artist_id']
+
+    new_album = Album(id, name, total_tracks, album_type, spotify_url, image_url, release_date, artist_id)
+
+    db.session.add(new_album)
+    db.session.commit()
+
+    return album_schema.jsonify(new_album)
 # # Read all
-# @app.route('/artists', methods=['GET'])
-# def get_artists():
-#     all_artists = Artist.query.all()
-#     result = artists_schema.dump(all_artists)
+@app.route('/albums', methods=['GET'])
+def get_albums():
+    if len( Album.query.all() ) != 0:
+        all_albums = Album.query.all()
+        result = albums_schema.dump(all_albums)
 
-#     return jsonify(result)
+        return jsonify(result)
+
+    else:
+        all_artists = Artist.query.all()
+        id_list = [ art.id for art in all_artists ]
+        list_albums = get_albums_from_artists(id_list)
+        
+        
+        for alb in list_albums:
+            print(alb['name'])
+
+            id = alb['id']
+            name = alb['name']
+            total_tracks = alb['total_tracks']
+            album_type = alb['album_type']
+            spotify_url = alb['external_urls']['spotify']
+            image_url = alb['images'][0]['url']
+            release_date = alb['release_date']
+            artist_id = alb['artists'][0]['id']
+
+            new_album = Album(id, name, total_tracks, album_type, spotify_url, image_url, release_date, artist_id)
+
+            db.session.add(new_album)
+            db.session.commit()
+
+        return 'yay'
+# Read One
+@app.route('/albums/<id>', methods=['GET'])
+def get_album(id):
+    album = Album.query.get(id)
+    return album_schema.jsonify(album)
+# ALBUM MISSING API METHODS...  
+
+# TRACKS
+# Create
+@app.route('/tracks', methods=['POST'])
+def add_track():
+    id = request.json['id']
+    name = request.json['name']
+    popularity = request.json['popularity']
+    album_id = request.json['album_id']
+    artist_id = request.json['artist_id']
+
+    new_track = Track(id, name, popularity, album_id, artist_id)
+
+    db.session.add(new_track)
+    db.session.commit()
+
+    return track_schema.jsonify(new_track)
+# # Read all
+@app.route('/tracks', methods=['GET'])
+def get_tracks():
+    if len( Track.query.all() ) != 0:
+        all_tracks = Track.query.all()
+        result = tracks_schema.dump(all_tracks)
+
+        return jsonify(result)
+
+    else:
+        all_albums = Album.query.all()
+        id_list = [ alb.id for alb in all_albums ]
+        list_tracks = get_tracks_from_albums(id_list)
+        
+        
+        for tr in list_tracks:
+            print(tr['name'], tr['album_id'])
+           
+
+            id = tr['id']
+            name = tr['name']
+            #popularity = tr['popularity']
+            album_id = tr['album_id']
+            album = Album.query.get(album_id)
+            artist_id = album.artist_id
+            
+
+            new_track = Track(id, name, album_id, artist_id)
+
+            db.session.add(new_track)
+            db.session.commit()
+
+        return 'yay'
+
+    
 # # Read one
 # @app.route('/artists/<id>', methods=['GET'])
 # def get_artist(id):
