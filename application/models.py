@@ -87,17 +87,18 @@ class Playlist(db.Model):
     followers = db.Column(db.Integer)
     image_url = db.Column(db.String(200))
     collaborative = db.Column(db.Boolean)
-    user_id = db.Column(db.String(200), db.ForeignKey('user.id')) # ForeignKey User
+    user_id = db.Column(db.String(200), db.ForeignKey('user.id'), nullable=True) # ForeignKey User
 
     tracks = db.relationship('Track', secondary=track_playlist, backref='playlists') # Many to many
 
-    def __init__(self, id, name, description, followers, image_url, collaborative):
+    def __init__(self, id, name, description, followers, image_url, collaborative, user_id):
         self.id = id
         self.name = name
         self.description = description
         self.followers = followers
         self.image_url = image_url
         self.collaborative = collaborative
+        self.user_id = user_id
 
 class PlaylistSchema(ma.Schema):
     class Meta:
@@ -114,12 +115,13 @@ class User(db.Model):
     playlists = db.relationship('Playlist', backref='user', lazy=True) # One to many relationship
     artists = db.relationship('Artist', secondary=user_artist, backref='users') # Many to Many
 
-    def __init__(self, id, display_name, followers, image_url, product_type):
+    def __init__(self, id, display_name, followers, image_url, product_type, country_id):
         self.id = id
         self.display_name = display_name
         self.followers = followers
         self.image_url = image_url
         self.product_type = product_type
+        self.country_id = country_id
 
 class UserSchema(ma.Schema):
     class Meta:
@@ -127,7 +129,7 @@ class UserSchema(ma.Schema):
 #
 class Track(db.Model):
     id = db.Column(db.String(200), primary_key=True)
-    name = db.Column(db.String(100))
+    name = db.Column(db.String(200))
     popularity = db.Column(db.String(200))
     album_id = db.Column(db.String(200), db.ForeignKey('album.id')) # ForeignKey Album
     artist_id = db.Column(db.String(200), db.ForeignKey('artist.id')) # ForeignKey Artist

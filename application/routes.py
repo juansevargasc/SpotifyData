@@ -136,7 +136,7 @@ def get_countries():
 def get_country(id):
     country = Country.query.get(id)
     return country_schema.jsonify(country)
- # Update one
+# Update one
 @app.route('/countries/<id>', methods=['PUT'])
 def update_country(id):
     # Get country
@@ -225,7 +225,47 @@ def get_albums():
 def get_album(id):
     album = Album.query.get(id)
     return album_schema.jsonify(album)
-# ALBUM MISSING API METHODS...  
+# Update one
+@app.route('/albums/<id>', methods=['PUT'])
+def update_album(id):
+    # Get album
+    album = Album.query.get(id)
+
+    name = request.json['name']
+    total_tracks = request.json['total_tracks']
+    album_type = request.json['album_type']
+    spotify_url = request.json['spotify_url']
+    image_url = request.json['image_url']
+    release_date = request.json['release_date']
+    artist_id = request.json['artist_id']
+
+    # Update python class
+    album.name = name
+    album.total_tracks = total_tracks
+    album.album_type = album_type
+    album.spotify_url = spotify_url
+    album.image_url = image_url
+    album.release_date = release_date
+    album.artist_id = artist_id
+
+    
+
+    # Update on DB
+    db.session.commit()
+
+    return album_schema.jsonify(album)
+# Delete one
+@app.route('/albums/<id>', methods=['DELETE'])
+def delete_album(id):
+    # Get album
+    album = Album.query.get(id)
+    # Delete that artist
+    db.session.delete(album)
+
+    # Commit that change
+    db.session.commit()
+
+    return album_schema.jsonify(album)
 
 # TRACKS
 # Create
@@ -276,42 +316,228 @@ def get_tracks():
             db.session.commit()
 
         return 'yay'
+# Read One
+@app.route('/tracks/<id>', methods=['GET'])
+def get_track(id):
+    track = Track.query.get(id)
+    return track_schema.jsonify(track)
+# Update one
+@app.route('/tracks/<id>', methods=['PUT'])
+def update_track(id):
+    # Get track
+    track = Track.query.get(id)
 
-    
-# # Read one
-# @app.route('/artists/<id>', methods=['GET'])
-# def get_artist(id):
-#     artist = Artist.query.get(id)
-#     return artist_schema.jsonify(artist)
-# # Update one
-# @app.route('/artists/<id>', methods=['PUT'])
-# def update_artist(id):
-#     # Get artist
-#     artist = Artist.query.get(id)
+    name = request.json['name']
+    popularity = request.json['popularity']
+    album_id = request.json['album_id']
+    artist_id = request.json['artist_id']
 
-#     name = request.json['name']
-#     url = request.json['url']
-#     followers = request.json['followers']
+    # Update python class
+    track.name = name
+    track.popularity = popularity
+    track.album_id = album_id
+    track.artist_id = artist_id
 
-#     # Update python class
-#     artist.name = name
-#     artist.url = url
-#     artist.followers = followers
+    # Update on DB
+    db.session.commit()
 
-#     # Update on DB
-#     db.session.commit()
+    return track_schema.jsonify(track)
+# Delete one
+@app.route('/tracks/<id>', methods=['DELETE'])
+def delete_track(id):
+    # Get track
+    track = Track.query.get(id)
+    # Delete that artist
+    db.session.delete(track)
 
-#     return artist_schema.jsonify(artist)
-# # Delete one
-# @app.route('/artists/<id>', methods=['DELETE'])
-# def delete_artist(id):
-#     # Get artist
-#     artist = Artist.query.get(id)
-#     # Delete that artist
-#     db.session.delete(artist)
+    # Commit that change
+    db.session.commit()
 
-#     # Commit that change
-#     db.session.commit()
+    return track_schema.jsonify(track)
 
-#     return artist_schema.jsonify(artist)
 
+# PLAYLISTS
+# Create
+@app.route('/playlists', methods=['POST'])
+def add_playlist():
+    id = request.json['id']
+    name = request.json['name']
+    description = request.json['description']
+    followers = request.json['followers']
+    image_url = request.json['image_url']
+    collaborative = request.json['collaborative']
+    user_id = request.json['user_id']
+
+    new_playlist = Playlist(id, name, description, followers, image_url, collaborative, user_id)
+
+    db.session.add(new_playlist)
+    db.session.commit()
+
+    return playlist_schema.jsonify(new_playlist)  
+# Read one
+@app.route('/playlists/<id>', methods=['GET'])
+def get_playlist(id):
+    playlist = Playlist.query.get(id)
+    return playlist_schema.jsonify(playlist)
+# # Read all
+@app.route('/playlists', methods=['GET'])
+def get_playlists():
+    if len( Playlist.query.all() ) != 0:
+        all_playlists = Playlist.query.all()
+        result = playlists_schema.dump(all_playlists)
+
+        return jsonify(result)
+
+    else: ## to implement
+        all_albums = Album.query.all()
+        id_list = [ alb.id for alb in all_albums ]
+        list_tracks = get_tracks_from_albums(id_list)
+        
+        
+        for tr in list_tracks:
+            print(tr['name'], tr['album_id'])
+           
+
+            id = tr['id']
+            name = tr['name']
+            #popularity = tr['popularity']
+            album_id = tr['album_id']
+            album = Album.query.get(album_id)
+            artist_id = album.artist_id
+            
+
+            new_track = Track(id, name, album_id, artist_id)
+
+            db.session.add(new_track)
+            db.session.commit()
+
+        return 'yay'
+# Update one
+@app.route('/playlists/<id>', methods=['PUT'])
+def update_playlist(id):
+    # Get playlist
+    playlist = Playlist.query.get(id)
+
+    name = request.json['name']
+    description = request.json['description']
+    followers = request.json['followers']
+    image_url = request.json['image_url']
+    collaborative = request.json['collaborative']
+    user_id = request.json['user_id']
+
+    # Update python class
+    playlist.name = name
+    playlist.description = description
+    playlist.followers = followers
+    playlist.image_url = image_url
+    playlist.collaborative = collaborative
+    playlist.user_id = user_id
+
+    # Update on DB
+    db.session.commit()
+
+    return playlist_schema.jsonify(playlist)
+# Delete one
+@app.route('/playlists/<id>', methods=['DELETE'])
+def delete_playlist(id):
+    # Get playlist
+    playlist = Playlist.query.get(id)
+    # Delete that artist
+    db.session.delete(playlist)
+
+    # Commit that change
+    db.session.commit()
+
+    return playlist_schema.jsonify(playlist)
+
+
+# USER
+# Create
+@app.route('/users', methods=['POST'])
+def add_user():
+    id = request.json['id']
+    display_name = request.json['display_name']
+    followers = request.json['followers']
+    image_url = request.json['image_url']
+    product_type = request.json['product_type']
+    country_id = request.json['country_id']
+
+    new_user = User(id, display_name, followers, image_url, product_type, country_id)
+
+    db.session.add(new_user)
+    db.session.commit()
+
+    return user_schema.jsonify(new_user)  
+# Read one
+@app.route('/users/<id>', methods=['GET'])
+def get_user(id):
+    user = User.query.get(id)
+    return user_schema.jsonify(user)
+# # Read all
+@app.route('/users', methods=['GET'])
+def get_users():
+    if len( User.query.all() ) != 0:
+        all_users = User.query.all()
+        result = users_schema.dump(all_users)
+
+        return jsonify(result)
+
+    else: ## to implement
+        all_albums = Album.query.all()
+        id_list = [ alb.id for alb in all_albums ]
+        list_tracks = get_tracks_from_albums(id_list)
+        
+        
+        for tr in list_tracks:
+            print(tr['name'], tr['album_id'])
+           
+
+            id = tr['id']
+            name = tr['name']
+            #popularity = tr['popularity']
+            album_id = tr['album_id']
+            album = Album.query.get(album_id)
+            artist_id = album.artist_id
+            
+
+            new_track = Track(id, name, album_id, artist_id)
+
+            db.session.add(new_track)
+            db.session.commit()
+
+        return 'yay'
+# Update one
+@app.route('/users/<id>', methods=['PUT'])
+def update_user(id):
+    # Get user
+    user = User.query.get(id)
+
+    display_name = request.json['display_name']
+    followers = request.json['followers']
+    image_url = request.json['image_url']
+    product_type = request.json['product_type']
+    country_id = request.json['country_id']
+
+    # Update python class
+    user.display_name = display_name
+    user.followers = followers
+    user.image_url = image_url
+    user.product_type = product_type
+    user.country_id = country_id
+
+    # Update on DB
+    db.session.commit()
+
+    return user_schema.jsonify(user)
+# Delete one
+@app.route('/users/<id>', methods=['DELETE'])
+def delete_user(id):
+    # Get user
+    user = User.query.get(id)
+    # Delete that artist
+    db.session.delete(user)
+
+    # Commit that change
+    db.session.commit()
+
+    return user_schema.jsonify(user)
