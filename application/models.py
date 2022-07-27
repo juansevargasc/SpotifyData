@@ -55,7 +55,7 @@ class ArtistSchema(ma.Schema):
 #
 class Album(db.Model):
     id = db.Column(db.String(200), primary_key=True)
-    name = db.Column(db.String(100))
+    name = db.Column(db.String(400))
     total_tracks = db.Column(db.Integer)
     album_type = db.Column(db.String(100))
     spotify_url = db.Column(db.String(200))

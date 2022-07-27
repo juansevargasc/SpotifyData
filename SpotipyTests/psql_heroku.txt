@@ -1,0 +1,5 @@
+psql --host=ec2-44-206-214-233.compute-1.amazonaws.com
+ --port=5432 --username=hcbkgsjxeesuic 
+ --password --dbname=d7orsoge8mf86g
+
+ Password: e6a05215cbf2a0454e1216744ad29621b462699a6fa21eddf8959403a641a748

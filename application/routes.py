@@ -1,8 +1,10 @@
+from pyparsing import FollowedBy
 from application import app
 from flask import jsonify, request
 from application.spotipy_methods import *
 from application.models import *
 from application.iso_country_codes import CC
+from datetime import datetime
 
 # ROUTES
 # Health - ping tests
@@ -193,7 +195,7 @@ def get_albums():
     if len( Album.query.all() ) != 0:
         all_albums = Album.query.all()
         result = albums_schema.dump(all_albums)
-
+        
         return jsonify(result)
 
     else:
@@ -203,7 +205,7 @@ def get_albums():
         
         
         for alb in list_albums:
-            print(alb['name'])
+            #print(alb['name'])
 
             id = alb['id']
             name = alb['name']
@@ -299,7 +301,7 @@ def get_tracks():
         
         
         for tr in list_tracks:
-            print(tr['name'], tr['album_id'])
+            #print(tr['name'], tr['album_id'])
            
 
             id = tr['id']
@@ -389,29 +391,115 @@ def get_playlists():
         return jsonify(result)
 
     else: ## to implement
-        all_albums = Album.query.all()
-        id_list = [ alb.id for alb in all_albums ]
-        list_tracks = get_tracks_from_albums(id_list)
+        all_users = User.query.all()
+        id_list = [ usr.id for usr in all_users ]
+        list_playlists = get_playlists_from_users(id_list, max=12)
         
-        
-        for tr in list_tracks:
-            print(tr['name'], tr['album_id'])
-           
 
-            id = tr['id']
-            name = tr['name']
-            #popularity = tr['popularity']
-            album_id = tr['album_id']
-            album = Album.query.get(album_id)
-            artist_id = album.artist_id
+        # 1. We start iterating all playlists
+        count = 0 # Counter of playlists
+        for pl in list_playlists:
             
+            id = pl['id']
+            name = pl['name']
+            description = pl['description']
+            followers = pl['tracks']['total']
+            image_url = pl['images'][0]['url']
+            collaborative = pl['collaborative']
+            user_id = pl['user_id']
 
-            new_track = Track(id, name, album_id, artist_id)
+            new_playlist = Playlist(id, name, description, followers, image_url, collaborative, user_id)
 
-            db.session.add(new_track)
+
+            tracks_of_playlist = get_playlist_items(pl['id'])
+            count_tracks = 0
+            for track_pl in tracks_of_playlist['items']:
+                
+                #print('track album:', track_pl['track']['album']['name'])
+                try:
+                    # Try Query
+                    track_db = Track.query.get(track_pl['track']['id'])
+                    if track_db is None:
+                        #print(track_pl['track']['name'])
+                        #print('Artist' , track_pl['track']['artists'][0]['name'])
+                        
+                        # Check if Artist Exists, if not, it adds it to the DB as anew object.
+                        artist_db = Artist.query.get(track_pl['track']['artists'][0]['id'])
+                        if artist_db is None:
+                            artist = get_artist_sp(artist_id=track_pl['track']['artists'][0]['id'])
+                            # Parameters
+                            id = artist['id']
+                            name = artist['name']
+                            image_url = artist['images'][0]['url']
+                            followers = artist['followers']['total']
+
+                            new_artist = Artist(id, name, image_url, followers)
+                            db.session.add(new_artist)
+                            db.session.commit()
+                            #print('Artist: ', artist['name'])
+                        count_tracks += 1
+
+                        # Check if Album Exists, if not, it adds it to the DB as a new object.
+                        album_db = Album.query.get(track_pl['track']['album']['id'])
+                        if album_db is None:
+                            alb = get_album_sp(album_id=track_pl['track']['album']['id'])
+
+                            id = alb['id']
+                            name = alb['name']
+                            total_tracks = alb['total_tracks']
+                            album_type = alb['album_type']
+                            spotify_url = alb['external_urls']['spotify']
+                            image_url = alb['images'][0]['url']
+                            release_date = alb['release_date']
+                            artist_id = track_pl['track']['artists'][0]['id'] # The album may be from another artists sharing the song
+
+                            # Check Date
+                            if '-' not in alb['release_date']:
+                                release_date = datetime( int(alb['release_date']), 1, 1 )
+                                print(alb['release_date'])
+
+                            new_album = Album(id, name, total_tracks, album_type, spotify_url, image_url, release_date, artist_id)
+
+                            #print('Album: ', name)
+                            db.session.add(new_album)
+                            db.session.commit()
+
+                        # Now that we're confident Artist and Album exists on DB! we can create our new track object :)
+                        artist_id = track_pl['track']['artists'][0]['id']
+                        album_id = track_pl['track']['album']['id']
+                        id = track_pl['track']['id']
+                        name = track_pl['track']['name']
+
+                        new_track = Track(id, name, album_id, artist_id)
+
+                        db.session.add(new_track)
+                        db.session.commit()
+
+                        # Associate Track with Playlist m-m
+                        new_playlist.tracks.append(new_track)
+                        #print('Track!:', name)
+                    else:
+                        print('EXIST ALREADY ON DB')
+                        # Associate Track with Playlist m-m
+                        new_playlist.tracks.append(track_db)
+                    
+                    
+
+                except exc.SQLAlchemyError as e:
+                    print(type(e))
+            print('Total tracks: ', count_tracks)
+
+            count += 1
+            print('Count', count)
+
+            # Finally ADD PLAYLIST ON DB!!
+            db.session.add(new_playlist)
             db.session.commit()
 
-        return 'yay'
+        ##
+        return 'Success'
+        
+    
 # Update one
 @app.route('/playlists/<id>', methods=['PUT'])
 def update_playlist(id):
@@ -482,30 +570,26 @@ def get_users():
 
         return jsonify(result)
 
-    else: ## to implement
-        all_albums = Album.query.all()
-        id_list = [ alb.id for alb in all_albums ]
-        list_tracks = get_tracks_from_albums(id_list)
+    else:
+        current_user = get_my_user()
         
+        id = current_user['id']
+        display_name = current_user['display_name']
+        followers = current_user['followers']['total']
+        image_url = current_user['images'][0]['url']
+        product_type = current_user['product']
+        # Which country. SQLAlchemy query
+        country = Country.query.filter_by(code=current_user['country']).first()
+        country_id = country.id
+
+        new_user = User(id, display_name, followers, image_url, product_type, country_id)
+
+        db.session.add(new_user)
+        db.session.commit()
+
+        return 'User succesfully added'
         
-        for tr in list_tracks:
-            print(tr['name'], tr['album_id'])
-           
 
-            id = tr['id']
-            name = tr['name']
-            #popularity = tr['popularity']
-            album_id = tr['album_id']
-            album = Album.query.get(album_id)
-            artist_id = album.artist_id
-            
-
-            new_track = Track(id, name, album_id, artist_id)
-
-            db.session.add(new_track)
-            db.session.commit()
-
-        return 'yay'
 # Update one
 @app.route('/users/<id>', methods=['PUT'])
 def update_user(id):
@@ -529,6 +613,7 @@ def update_user(id):
     db.session.commit()
 
     return user_schema.jsonify(user)
+    
 # Delete one
 @app.route('/users/<id>', methods=['DELETE'])
 def delete_user(id):
