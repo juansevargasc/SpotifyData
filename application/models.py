@@ -125,18 +125,18 @@ class User(db.Model):
 
 class UserSchema(ma.Schema):
     class Meta:
-        fields = ('id', 'display_name', 'followers','image_url', 'product_type')
+        fields = ('id', 'display_name', 'followers','image_url', 'product_type', 'country_id')
 #
 class Track(db.Model):
     id = db.Column(db.String(200), primary_key=True)
     name = db.Column(db.String(200))
-    popularity = db.Column(db.String(200))
-    album_id = db.Column(db.String(200), db.ForeignKey('album.id')) # ForeignKey Album
+    popularity = db.Column(db.Integer)
+    album_id = db.Column(db.String(200), db.ForeignKey('album.id'), nullable=True) # ForeignKey Album
     artist_id = db.Column(db.String(200), db.ForeignKey('artist.id')) # ForeignKey Artist
 
     countries = db.relationship('Country', secondary=country_track, backref='tracks')
 
-    def __init__(self, id, name, album_id, artist_id, popularity=50):
+    def __init__(self, id, name, album_id, artist_id, popularity=0):
         self.id = id
         self.name = name
         self.popularity = popularity

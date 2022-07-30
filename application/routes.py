@@ -41,6 +41,50 @@ def add_artist():
 def get_artists():
     if len( Artist.query.all() ) != 0:
         all_artists = Artist.query.all()
+
+        # ! UPDATING Artist First track once it is on DB ! #
+        if len( Track.query.all() ) != 0:
+            for art in all_artists:
+                list_tracks = get_artist_top_tracks(art.id)
+
+                # If there's already tracks on DB
+                if list_tracks is not None:
+                    
+                    for i in range(5):
+                        first_track = list_tracks[i]
+                        track = Track.query.get(first_track['id'])
+
+                        if track is not None:
+                            # Update popularity
+                            track.popularity = first_track['popularity']
+                            db.session.commit()
+                        else:
+                            # if track is None:
+                            id = first_track['id']
+                            name = first_track['name']
+                            popularity = first_track['popularity']
+                            alb_id = first_track['album']['id']
+                            album = Album.query.get(alb_id)
+                            if album is not None:
+                                album_id = album.id
+                            else:
+                                album_id = None
+                            artist_id = art.id
+
+                            new_track = Track(id, name, album_id, artist_id, popularity)
+
+                            # # Adding all markets to this track
+                            # for country_code in first_track['available_markets']:
+                            #     # Look for country in DB
+                            #     country = Country.query.filter_by(code=country_code).first()
+                                
+                            #     if country is not None:
+                            #         new_track.countries.append(country)
+
+                            db.session.add(new_track)
+                            db.session.commit()
+
+
         result = artists_schema.dump(all_artists)
         return jsonify(result)
     else:
@@ -64,6 +108,9 @@ def get_artists():
 def get_artist(id):
     artist = Artist.query.get(id)
     return artist_schema.jsonify(artist)
+
+
+
 # Update one
 @app.route('/artists/<id>', methods=['PUT'])
 def update_artist(id):
@@ -302,17 +349,25 @@ def get_tracks():
         
         for tr in list_tracks:
             #print(tr['name'], tr['album_id'])
-           
+            #track = Track.query.get(tr['id'])
 
+            # if track is None:
             id = tr['id']
             name = tr['name']
             #popularity = tr['popularity']
             album_id = tr['album_id']
             album = Album.query.get(album_id)
             artist_id = album.artist_id
-            
 
             new_track = Track(id, name, album_id, artist_id)
+
+            # Adding all markets to this track
+            for country_code in tr['available_markets']:
+                # Look for country in DB
+                country = Country.query.filter_by(code=country_code).first()
+                
+                if country is not None:
+                    new_track.countries.append(country)
 
             db.session.add(new_track)
             db.session.commit()
@@ -323,6 +378,25 @@ def get_tracks():
 def get_track(id):
     track = Track.query.get(id)
     return track_schema.jsonify(track)
+#
+@app.route('/tracks/update-popularity', methods=['GET'])
+def get_popularity():
+    # Fetch ALL tracks
+    all_tracks = Track.query.all()
+    
+    # Go through all tracks updating its
+    for track in all_tracks:
+        if track.popularity == 0:
+            # Get track info from Spotify
+            track_sp = get_track_sp(track.id)
+            if track_sp is not None:
+                # Udate the track popularity and commit
+                track.popularity = track_sp['popularity']
+                print('Track Updated', track)
+                db.session.commit()
+    return 'Perfect'
+
+
 # Update one
 @app.route('/tracks/<id>', methods=['PUT'])
 def update_track(id):
@@ -472,6 +546,14 @@ def get_playlists():
 
                         new_track = Track(id, name, album_id, artist_id)
 
+                        # Adding all markets to this track
+                        for country_code in track_pl['track']['available_markets']:
+                            # Look for country in DB
+                            country = Country.query.filter_by(code=country_code).first()
+                            
+                            if country is not None:
+                                new_track.countries.append(country)
+
                         db.session.add(new_track)
                         db.session.commit()
 
@@ -572,7 +654,9 @@ def get_users():
 
     else:
         current_user = get_my_user()
-        
+        current_user_followed_art_list = get_current_user_followed_artists()
+    
+        # New User Info
         id = current_user['id']
         display_name = current_user['display_name']
         followers = current_user['followers']['total']
@@ -583,6 +667,33 @@ def get_users():
         country_id = country.id
 
         new_user = User(id, display_name, followers, image_url, product_type, country_id)
+
+        # Adding artists on DB, to many - many User - Artist
+        for artist_in_list in current_user_followed_art_list:
+            artist = Artist.query.get(artist_in_list['id'])
+
+            if artist is not None:
+                new_user.artists.append(artist)
+            else:
+                new_artist = get_artist_sp(artist_in_list['id'])
+                
+                id = new_artist['id']
+                name = new_artist['name']
+                image_url = new_artist['images'][0]['url']
+                followers = new_artist['followers']['total']
+
+                # print(idx, a)
+
+                new_artist = Artist(id, name, image_url, followers)
+
+
+                # Adding relationship many to many
+                new_user.artists.append(new_artist)
+
+                # Adding artist that was not on DB.
+                db.session.add(new_artist)
+                db.session.commit()
+
 
         db.session.add(new_user)
         db.session.commit()
