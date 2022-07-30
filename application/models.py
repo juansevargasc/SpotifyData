@@ -55,18 +55,18 @@ class ArtistSchema(ma.Schema):
 #
 class Album(db.Model):
     id = db.Column(db.String(200), primary_key=True)
-    name = db.Column(db.String(100))
+    name = db.Column(db.String(400))
     total_tracks = db.Column(db.Integer)
     album_type = db.Column(db.String(100))
     spotify_url = db.Column(db.String(200))
     image_url = db.Column(db.String(200))
     release_date = db.Column(db.DateTime(timezone=True))
     #tracks = db.relationship('Track', backref='album', lazy=True) # One to many relationship
-    artist_id = db.Column(db.String(200), db.ForeignKey('artist.id')) # ForeignKey Artist
+    artist_id = db.Column(db.String(200), db.ForeignKey('artist.id'), nullable=True) # ForeignKey Artist
     
     tracks = db.relationship('Track', backref='album', lazy=True) # One to many relationship
     
-    def __init__(self, id, name, total_tracks, album_type, spotify_url, image_url, release_date):
+    def __init__(self, id, name, total_tracks, album_type, spotify_url, image_url, release_date, artist_id):
         self.id = id
         self.name = name
         self.total_tracks = total_tracks
@@ -74,10 +74,11 @@ class Album(db.Model):
         self.spotify_url = spotify_url
         self.image_url = image_url
         self.release_date = release_date
+        self.artist_id = artist_id
 
 class AlbumSchema(ma.Schema):
     class Meta:
-        fields = ('id', 'name', 'total_tracks', 'album_type', 'spotify_url', 'image_url')
+        fields = ('id', 'name', 'total_tracks', 'album_type', 'spotify_url', 'image_url', 'artist_id')
 #
 class Playlist(db.Model):
     id = db.Column(db.String(200), primary_key=True)
@@ -86,17 +87,18 @@ class Playlist(db.Model):
     followers = db.Column(db.Integer)
     image_url = db.Column(db.String(200))
     collaborative = db.Column(db.Boolean)
-    user_id = db.Column(db.String(200), db.ForeignKey('user.id')) # ForeignKey User
+    user_id = db.Column(db.String(200), db.ForeignKey('user.id'), nullable=True) # ForeignKey User
 
     tracks = db.relationship('Track', secondary=track_playlist, backref='playlists') # Many to many
 
-    def __init__(self, id, name, description, followers, image_url, collaborative):
+    def __init__(self, id, name, description, followers, image_url, collaborative, user_id):
         self.id = id
         self.name = name
         self.description = description
         self.followers = followers
         self.image_url = image_url
         self.collaborative = collaborative
+        self.user_id = user_id
 
 class PlaylistSchema(ma.Schema):
     class Meta:
@@ -113,34 +115,38 @@ class User(db.Model):
     playlists = db.relationship('Playlist', backref='user', lazy=True) # One to many relationship
     artists = db.relationship('Artist', secondary=user_artist, backref='users') # Many to Many
 
-    def __init__(self, id, display_name, followers, image_url, product_type):
+    def __init__(self, id, display_name, followers, image_url, product_type, country_id):
         self.id = id
         self.display_name = display_name
         self.followers = followers
         self.image_url = image_url
         self.product_type = product_type
+        self.country_id = country_id
 
 class UserSchema(ma.Schema):
     class Meta:
-        fields = ('id', 'display_name', 'followers','image_url', 'product_type')
+        fields = ('id', 'display_name', 'followers','image_url', 'product_type', 'country_id')
 #
 class Track(db.Model):
     id = db.Column(db.String(200), primary_key=True)
-    name = db.Column(db.String(100))
-    popularity = db.Column(db.String(200))
-    album_id = db.Column(db.String(200), db.ForeignKey('album.id')) # ForeignKey Album
+    name = db.Column(db.String(200))
+    popularity = db.Column(db.Integer)
+    album_id = db.Column(db.String(200), db.ForeignKey('album.id'), nullable=True) # ForeignKey Album
     artist_id = db.Column(db.String(200), db.ForeignKey('artist.id')) # ForeignKey Artist
 
     countries = db.relationship('Country', secondary=country_track, backref='tracks')
 
-    def __init__(self, id, name, popularity):
+    def __init__(self, id, name, album_id, artist_id, popularity=0):
         self.id = id
         self.name = name
         self.popularity = popularity
+        self.album_id = album_id
+        self.artist_id = artist_id
+
 
 class TrackSchema(ma.Schema):
     class Meta:
-        fields = ('id', 'name', 'popularity')
+        fields = ('id', 'name', 'popularity', 'album_id', 'artist_id')
 #
 
 
