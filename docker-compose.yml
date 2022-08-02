@@ -1,0 +1,50 @@
+version: '3.9'
+
+
+services:
+  
+  db:
+    image: postgres:12
+    container_name: db
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      - DATABASE_HOST=127.0.0.1
+      - POSTGRES_USER=juansevargas
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=SpotifyDocker
+    volumes:
+      - ./postgres-data/postgres:/var/lib/postgresql/data
+  
+  pythonapp:
+    container_name: pythonapp
+    image: pythonapp
+    stdin_open: true
+    tty: true
+    build: .
+    ports:
+      - "4000:4000"
+    environment:
+      - DATABASE_URL=postgresql://juansevargas:postgres@db/SpotifyDocker
+      - FLASK_ENV=production
+      - FLASK_APP=run.py
+      - SPOTIPY_CLIENT_ID=1adfee23465542419cb9ab3595587e8e
+      - SPOTIPY_CLIENT_SECRET=b9a99e3b887548e090ac77ed60a05198
+      - SPOTIPY_REDIRECT_URI=https://localhost:8888/callback/
+
+    depends_on:
+      - db
+    
+    volumes:
+      - .:/pythonapp
+    
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "admin@admin.com"
+      PGADMIN_DEFAULT_PASSWORD: "admin"
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
