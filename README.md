@@ -7,7 +7,7 @@
 ## Running the application on a local environment
 
 ### Docker Container
-Docker
+[Docker](Dockerfile)
 
 ### Requirements
 ```python
