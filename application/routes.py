@@ -5,6 +5,7 @@ from application.spotipy_methods import *
 from application.models import *
 from application.iso_country_codes import CC
 from datetime import datetime
+from sqlalchemy import exc
 
 # ROUTES
 # Health - ping tests
@@ -34,81 +35,24 @@ def add_artist():
     db.session.add(new_artist)
     db.session.commit()
 
-
     return artist_schema.jsonify(new_artist)
+
 # Read all
 @app.route('/artists', methods=['GET'])
 def get_artists():
     if len( Artist.query.all() ) != 0:
         all_artists = Artist.query.all()
 
-        # ! UPDATING Artist First track once it is on DB ! #
-        if len( Track.query.all() ) != 0:
-            for art in all_artists:
-                list_tracks = get_artist_top_tracks(art.id)
-
-                # If there's already tracks on DB
-                if list_tracks is not None:
-                    
-                    for i in range(5):
-                        first_track = list_tracks[i]
-                        track = Track.query.get(first_track['id'])
-
-                        if track is not None:
-                            # Update popularity
-                            track.popularity = first_track['popularity']
-                            db.session.commit()
-                        else:
-                            # if track is None:
-                            id = first_track['id']
-                            name = first_track['name']
-                            popularity = first_track['popularity']
-                            alb_id = first_track['album']['id']
-                            album = Album.query.get(alb_id)
-                            if album is not None:
-                                album_id = album.id
-                            else:
-                                album_id = None
-                            artist_id = art.id
-
-                            new_track = Track(id, name, album_id, artist_id, popularity)
-
-                            # # Adding all markets to this track
-                            # for country_code in first_track['available_markets']:
-                            #     # Look for country in DB
-                            #     country = Country.query.filter_by(code=country_code).first()
-                                
-                            #     if country is not None:
-                            #         new_track.countries.append(country)
-
-                            db.session.add(new_track)
-                            db.session.commit()
-
-
         result = artists_schema.dump(all_artists)
         return jsonify(result)
     else:
-        artists = get_artists_from_spotify()
-        for idx, artist in enumerate(artists):
-            id = artist['id']
-            name = artist['name']
-            image_url = artist['images'][0]['url']
-            followers = artist['followers']['total']
-
-            # print(idx, a)
-
-            new_artist = Artist(id, name, image_url, followers)
-
-            db.session.add(new_artist)
-            db.session.commit()
-        return 'Success'
+        return 'No Data'
 
 # Read one
 @app.route('/artists/<id>', methods=['GET'])
 def get_artist(id):
     artist = Artist.query.get(id)
     return artist_schema.jsonify(artist)
-
 
 
 # Update one
@@ -160,6 +104,10 @@ def add_country():
     return country_schema.jsonify(new_country)
 
 # Read all
+'''
+1. First Route to fetch Countries (Markets).
+   Once they are downloaded, it returns the JSON objects
+'''
 @app.route('/countries', methods=['GET'])
 def get_countries():
     if len( Country.query.all() ) != 0:
@@ -167,7 +115,7 @@ def get_countries():
         result = countries_schema.dump(all_countries)
 
         return jsonify(result)
-    else:
+    else: # Fetch Countries
         countries = get_countries_from_spotify()
         for idx, country in enumerate(countries):
             id = idx
@@ -236,6 +184,7 @@ def add_album():
     db.session.commit()
 
     return album_schema.jsonify(new_album)
+
 # # Read all
 @app.route('/albums', methods=['GET'])
 def get_albums():
@@ -246,29 +195,8 @@ def get_albums():
         return jsonify(result)
 
     else:
-        all_artists = Artist.query.all()
-        id_list = [ art.id for art in all_artists ]
-        list_albums = get_albums_from_artists(id_list)
-        
-        
-        for alb in list_albums:
-            #print(alb['name'])
+        return 'No Data'
 
-            id = alb['id']
-            name = alb['name']
-            total_tracks = alb['total_tracks']
-            album_type = alb['album_type']
-            spotify_url = alb['external_urls']['spotify']
-            image_url = alb['images'][0]['url']
-            release_date = alb['release_date']
-            artist_id = alb['artists'][0]['id']
-
-            new_album = Album(id, name, total_tracks, album_type, spotify_url, image_url, release_date, artist_id)
-
-            db.session.add(new_album)
-            db.session.commit()
-
-        return 'yay'
 # Read One
 @app.route('/albums/<id>', methods=['GET'])
 def get_album(id):
@@ -316,6 +244,7 @@ def delete_album(id):
 
     return album_schema.jsonify(album)
 
+
 # TRACKS
 # Create
 @app.route('/tracks', methods=['POST'])
@@ -342,43 +271,16 @@ def get_tracks():
         return jsonify(result)
 
     else:
-        all_albums = Album.query.all()
-        id_list = [ alb.id for alb in all_albums ]
-        list_tracks = get_tracks_from_albums(id_list)
-        
-        
-        for tr in list_tracks:
-            #print(tr['name'], tr['album_id'])
-            #track = Track.query.get(tr['id'])
-
-            # if track is None:
-            id = tr['id']
-            name = tr['name']
-            #popularity = tr['popularity']
-            album_id = tr['album_id']
-            album = Album.query.get(album_id)
-            artist_id = album.artist_id
-
-            new_track = Track(id, name, album_id, artist_id)
-
-            # Adding all markets to this track
-            for country_code in tr['available_markets']:
-                # Look for country in DB
-                country = Country.query.filter_by(code=country_code).first()
-                
-                if country is not None:
-                    new_track.countries.append(country)
-
-            db.session.add(new_track)
-            db.session.commit()
-
-        return 'yay'
+        return 'No Data'
 # Read One
 @app.route('/tracks/<id>', methods=['GET'])
 def get_track(id):
     track = Track.query.get(id)
     return track_schema.jsonify(track)
-#
+
+'''
+ 3. Special route to update the popularity of tracks on DB.
+'''
 @app.route('/tracks/update-popularity', methods=['GET'])
 def get_popularity():
     # Fetch ALL tracks
@@ -439,12 +341,12 @@ def add_playlist():
     id = request.json['id']
     name = request.json['name']
     description = request.json['description']
-    followers = request.json['followers']
+    total_tracks = request.json['total_tracks']
     image_url = request.json['image_url']
     collaborative = request.json['collaborative']
     user_id = request.json['user_id']
 
-    new_playlist = Playlist(id, name, description, followers, image_url, collaborative, user_id)
+    new_playlist = Playlist(id, name, description, total_tracks, image_url, collaborative, user_id)
 
     db.session.add(new_playlist)
     db.session.commit()
@@ -458,128 +360,35 @@ def get_playlist(id):
 # # Read all
 @app.route('/playlists', methods=['GET'])
 def get_playlists():
-    if len( Playlist.query.all() ) != 0:
+    quantity_playlists = len( Playlist.query.all() )
+    quantity_first_playlists = 1
+    if quantity_playlists != 0:
+        # Offset. Marks how much playlists have been downladed to know which one goes next.
+        offset = quantity_playlists - quantity_first_playlists
+
+        # Fetch one playlist, the next, so everytime, saves one playlist more
+        list_playlists = get_featured_playists_sp(limit=1, offset=offset)
+
+        get_and_save_playlists(list_playlists)
+
+        # Getting all playlists in DB
         all_playlists = Playlist.query.all()
         result = playlists_schema.dump(all_playlists)
 
         return jsonify(result)
 
-    else: ## to implement
-        all_users = User.query.all()
-        id_list = [ usr.id for usr in all_users ]
-        list_playlists = get_playlists_from_users(id_list, max=12)
+    else: 
+        # 1. First 3 playlists Spotify brings
+        list_playlists = get_playlist_general(maximum=quantity_first_playlists)
         
+        success = get_and_save_playlists(list_playlists)
 
-        # 1. We start iterating all playlists
-        count = 0 # Counter of playlists
-        for pl in list_playlists:
-            
-            id = pl['id']
-            name = pl['name']
-            description = pl['description']
-            followers = pl['tracks']['total']
-            image_url = pl['images'][0]['url']
-            collaborative = pl['collaborative']
-            user_id = pl['user_id']
-
-            new_playlist = Playlist(id, name, description, followers, image_url, collaborative, user_id)
-
-
-            tracks_of_playlist = get_playlist_items(pl['id'])
-            count_tracks = 0
-            for track_pl in tracks_of_playlist['items']:
-                
-                #print('track album:', track_pl['track']['album']['name'])
-                try:
-                    # Try Query
-                    track_db = Track.query.get(track_pl['track']['id'])
-                    if track_db is None:
-                        #print(track_pl['track']['name'])
-                        #print('Artist' , track_pl['track']['artists'][0]['name'])
-                        
-                        # Check if Artist Exists, if not, it adds it to the DB as anew object.
-                        artist_db = Artist.query.get(track_pl['track']['artists'][0]['id'])
-                        if artist_db is None:
-                            artist = get_artist_sp(artist_id=track_pl['track']['artists'][0]['id'])
-                            # Parameters
-                            id = artist['id']
-                            name = artist['name']
-                            image_url = artist['images'][0]['url']
-                            followers = artist['followers']['total']
-
-                            new_artist = Artist(id, name, image_url, followers)
-                            db.session.add(new_artist)
-                            db.session.commit()
-                            #print('Artist: ', artist['name'])
-                        count_tracks += 1
-
-                        # Check if Album Exists, if not, it adds it to the DB as a new object.
-                        album_db = Album.query.get(track_pl['track']['album']['id'])
-                        if album_db is None:
-                            alb = get_album_sp(album_id=track_pl['track']['album']['id'])
-
-                            id = alb['id']
-                            name = alb['name']
-                            total_tracks = alb['total_tracks']
-                            album_type = alb['album_type']
-                            spotify_url = alb['external_urls']['spotify']
-                            image_url = alb['images'][0]['url']
-                            release_date = alb['release_date']
-                            artist_id = track_pl['track']['artists'][0]['id'] # The album may be from another artists sharing the song
-
-                            # Check Date
-                            if '-' not in alb['release_date']:
-                                release_date = datetime( int(alb['release_date']), 1, 1 )
-                                print(alb['release_date'])
-
-                            new_album = Album(id, name, total_tracks, album_type, spotify_url, image_url, release_date, artist_id)
-
-                            #print('Album: ', name)
-                            db.session.add(new_album)
-                            db.session.commit()
-
-                        # Now that we're confident Artist and Album exists on DB! we can create our new track object :)
-                        artist_id = track_pl['track']['artists'][0]['id']
-                        album_id = track_pl['track']['album']['id']
-                        id = track_pl['track']['id']
-                        name = track_pl['track']['name']
-
-                        new_track = Track(id, name, album_id, artist_id)
-
-                        # Adding all markets to this track
-                        for country_code in track_pl['track']['available_markets']:
-                            # Look for country in DB
-                            country = Country.query.filter_by(code=country_code).first()
-                            
-                            if country is not None:
-                                new_track.countries.append(country)
-
-                        db.session.add(new_track)
-                        db.session.commit()
-
-                        # Associate Track with Playlist m-m
-                        new_playlist.tracks.append(new_track)
-                        #print('Track!:', name)
-                    else:
-                        print('EXIST ALREADY ON DB')
-                        # Associate Track with Playlist m-m
-                        new_playlist.tracks.append(track_db)
-                    
-                    
-
-                except exc.SQLAlchemyError as e:
-                    print(type(e))
-            print('Total tracks: ', count_tracks)
-
-            count += 1
-            print('Count', count)
-
-            # Finally ADD PLAYLIST ON DB!!
-            db.session.add(new_playlist)
-            db.session.commit()
-
-        ##
-        return 'Success'
+        # 3. We start iterating all playlists
+        
+        if success:
+            return 'Success'
+        else:
+            return 'Not succesful'
         
     
 # Update one
@@ -590,7 +399,7 @@ def update_playlist(id):
 
     name = request.json['name']
     description = request.json['description']
-    followers = request.json['followers']
+    total_tracks = request.json['total_tracks']
     image_url = request.json['image_url']
     collaborative = request.json['collaborative']
     user_id = request.json['user_id']
@@ -598,7 +407,7 @@ def update_playlist(id):
     # Update python class
     playlist.name = name
     playlist.description = description
-    playlist.followers = followers
+    playlist.total_tracks = total_tracks
     playlist.image_url = image_url
     playlist.collaborative = collaborative
     playlist.user_id = user_id
@@ -653,52 +462,7 @@ def get_users():
         return jsonify(result)
 
     else:
-        current_user = get_my_user()
-        current_user_followed_art_list = get_current_user_followed_artists()
-    
-        # New User Info
-        id = current_user['id']
-        display_name = current_user['display_name']
-        followers = current_user['followers']['total']
-        image_url = current_user['images'][0]['url']
-        product_type = current_user['product']
-        # Which country. SQLAlchemy query
-        country = Country.query.filter_by(code=current_user['country']).first()
-        country_id = country.id
-
-        new_user = User(id, display_name, followers, image_url, product_type, country_id)
-
-        # Adding artists on DB, to many - many User - Artist
-        for artist_in_list in current_user_followed_art_list:
-            artist = Artist.query.get(artist_in_list['id'])
-
-            if artist is not None:
-                new_user.artists.append(artist)
-            else:
-                new_artist = get_artist_sp(artist_in_list['id'])
-                
-                id = new_artist['id']
-                name = new_artist['name']
-                image_url = new_artist['images'][0]['url']
-                followers = new_artist['followers']['total']
-
-                # print(idx, a)
-
-                new_artist = Artist(id, name, image_url, followers)
-
-
-                # Adding relationship many to many
-                new_user.artists.append(new_artist)
-
-                # Adding artist that was not on DB.
-                db.session.add(new_artist)
-                db.session.commit()
-
-
-        db.session.add(new_user)
-        db.session.commit()
-
-        return 'User succesfully added'
+        return 'No Data'
         
 
 # Update one
@@ -737,3 +501,115 @@ def delete_user(id):
     db.session.commit()
 
     return user_schema.jsonify(user)
+
+
+# Methods
+def get_and_save_playlists(list_playlists):
+    count = 0 # Counter of playlists
+    for pl in list_playlists:
+        
+        id = pl['id']
+        name = pl['name']
+        description = pl['description']
+        total_tracks = pl['tracks']['total']
+        image_url = pl['images'][0]['url']
+        collaborative = pl['collaborative']
+        user_id = None #pl['user_id']
+
+        new_playlist = Playlist(id, name, description, total_tracks, image_url, collaborative, user_id)
+
+
+        tracks_of_playlist = get_playlist_items(pl['id'])
+        count_tracks = 0
+        for track_pl in tracks_of_playlist['items']:
+            
+            
+            try:
+                # Try Query
+                track_db = Track.query.get(track_pl['track']['id'])
+                if track_db is None:
+
+                    
+                    
+                    # Check if Artist Exists, if not, it adds it to the DB as anew object.
+                    artist_db = Artist.query.get(track_pl['track']['artists'][0]['id'])
+                    if artist_db is None:
+                        artist = get_artist_sp(artist_id=track_pl['track']['artists'][0]['id'])
+                        # Parameters
+                        id = artist['id']
+                        name = artist['name']
+                        image_url = artist['images'][0]['url']
+                        followers = artist['followers']['total']
+
+                        new_artist = Artist(id, name, image_url, followers)
+                        db.session.add(new_artist)
+                        db.session.commit()
+                        #print('Artist: ', artist['name'])
+                    count_tracks += 1
+
+                    # Check if Album Exists, if not, it adds it to the DB as a new object.
+                    album_db = Album.query.get(track_pl['track']['album']['id'])
+                    if album_db is None:
+                        alb = get_album_sp(album_id=track_pl['track']['album']['id'])
+
+                        id = alb['id']
+                        name = alb['name']
+                        total_tracks = alb['total_tracks']
+                        album_type = alb['album_type']
+                        spotify_url = alb['external_urls']['spotify']
+                        image_url = alb['images'][0]['url']
+                        release_date = alb['release_date']
+                        artist_id = track_pl['track']['artists'][0]['id'] # The album may be from another artists sharing the song
+
+                        # Check Date
+                        if '-' not in alb['release_date']:
+                            release_date = datetime( int(alb['release_date']), 1, 1 )
+                            print(alb['release_date'])
+
+                        new_album = Album(id, name, total_tracks, album_type, spotify_url, image_url, release_date, artist_id)
+
+                        #print('Album: ', name)
+                        db.session.add(new_album)
+                        db.session.commit()
+
+                    # Now that we're confident Artist and Album exists on DB! we can create our new track object :)
+                    artist_id = track_pl['track']['artists'][0]['id']
+                    album_id = track_pl['track']['album']['id']
+                    id = track_pl['track']['id']
+                    name = track_pl['track']['name']
+
+                    new_track = Track(id, name, album_id, artist_id)
+
+                    # Adding all markets to this track
+                    for country_code in track_pl['track']['available_markets']:
+                        # Look for country in DB
+                        country = Country.query.filter_by(code=country_code).first()
+                        
+                        if country is not None:
+                            new_track.countries.append(country)
+
+                    db.session.add(new_track)
+                    db.session.commit()
+
+                    # Associate Track with Playlist m-m
+                    new_playlist.tracks.append(new_track)
+                    #print('Track!:', name)
+                else:
+                    print('EXIST ALREADY ON DB')
+                    # Associate Track with Playlist m-m
+                    new_playlist.tracks.append(track_db)
+                
+                
+
+            except exc.SQLAlchemyError as e:
+                print(type(e))
+        print('Total tracks: ', count_tracks)
+
+        count += 1
+        print('Count', count)
+
+        # Finally ADD PLAYLIST ON DB!!
+        db.session.add(new_playlist)
+        db.session.commit()
+    return True
+    ##

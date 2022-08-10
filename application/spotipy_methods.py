@@ -1,14 +1,14 @@
 import spotipy
-#from spotipy.oauth2 import SpotifyClientCredentials
+from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
 #from application.iso_country_codes import CC
 #from application.models import *
 from datetime import datetime
 # from iso_country_codes import CC # when no executing Flask
 
-scope = "user-top-read"
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 
+auth_manager = SpotifyClientCredentials()
+sp = spotipy.Spotify(auth_manager=auth_manager)
 
 
 def get_countries_from_spotify():
@@ -119,6 +119,41 @@ def get_playlists_from_users(id_list, max=2):
                 #print(pl['id'], pl['name'], pl['collaborative'])
     return result
 
+def get_playlist_general(maximum=3):
+    playlists = sp.user_playlists('spotify')
+    result = []
+    counter = 0
+    
+    #while counter < maximum:
+    for i, playlist in enumerate(playlists['items']):
+        #print("%4d %s %s" % (i + 1 + playlists['offset'], playlist['uri'],  playlist['name']))
+        if counter < maximum:
+            result.append(playlist)
+            counter += 1
+        else:
+            break
+        # if playlists['next']:
+        #     playlists = sp.next(playlists)
+        # else:
+        #     playlists = None
+        
+    return result
+
+def get_featured_playists_sp(limit=5, offset=0):
+    playlists = sp.featured_playlists(locale=None, country=None, timestamp=datetime.now().isoformat(), limit=limit, offset=offset)
+    result = []
+    counter = 0
+    #print(playlists)
+    for i, playlist in enumerate(playlists['playlists']['items']):
+        result.append(playlist)
+        #print(i, playlist['name'])
+        #print("%4d %s %s" % (i + playlist['uri'],  playlist['name']))
+        # if counter < limit:
+        #     result.append(playlist)
+        #     counter += 1
+        #     break
+    return result
+
 def get_playlist_items(playlist_id):
     return sp.playlist_items(playlist_id)
 
@@ -132,13 +167,3 @@ def get_track_sp(track_id):
     return sp.track(track_id)
 
 
-if __name__ == '__main__':
-    # c = get_countries_from_spotify()
-    # for idx, country in enumerate(c):
-    #     print(idx, country)
-
-    # a = get_artists_from_spotify()
-    # for idx, art in enumerate(a):
-    #     print(idx, art['fo    llowers']['total'])
-
-    print( get_track_sp('7hpnTbSRDQh2P2TZKC4QjL') )
