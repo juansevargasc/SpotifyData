@@ -44,7 +44,7 @@ First go to the browser or use a tool such as Postman to check the API. Make the
    
 ```
 http://127.0.0.1:4000/countries
-http://127.0.0.1:4000/Playlists
+http://127.0.0.1:4000/playlists
 http://127.0.0.1:4000/tracks/update-popularity
 ```
 
