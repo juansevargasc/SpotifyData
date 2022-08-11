@@ -47,6 +47,7 @@ http://127.0.0.1:4000/countries
 http://127.0.0.1:4000/playlists
 http://127.0.0.1:4000/tracks/update-popularity
 ```
+> Downloading and saving to the database could take some minutes for some objects.
 
 Then you can use the rest of the routes to pull: tracks, artists, albums, countries and playlists. You can use it as **Backend** service to serve a Frontend side, or you can connect a DataViz tool to create some nice **Visualizations**.
 
