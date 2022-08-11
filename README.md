@@ -59,6 +59,7 @@ Here you can check some!
 Link to [Docker File](Dockerfile)
 
 
+## To run in a local environment
 ### Requirements
 ```python
 # capture requirements to install
@@ -69,9 +70,14 @@ pip install -r requirements.txt
 ```
 
 ### Environment Variables - Flask
+
 ```bash
 export FLASK_ENV=development
 export FLASK_APP=run.py
+
+export SPOTIPY_CLIENT_ID=''
+export SPOTIPY_CLIENT_SECRET=''
+export SPOTIPY_REDIRECT_URI='https://localhost:8888/callback/'
 ```
 
 ### Database Migrations in Flask
