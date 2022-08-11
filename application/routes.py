@@ -111,6 +111,7 @@ def add_country():
 @app.route('/countries', methods=['GET'])
 def get_countries():
     if len( Country.query.all() ) != 0:
+        # Fetch the countries already on db
         all_countries = Country.query.all()
         result = countries_schema.dump(all_countries)
 
@@ -126,7 +127,12 @@ def get_countries():
 
             db.session.add(new_coutry)
             db.session.commit()
-        return 'Success'
+        
+        # Now they can be returned
+        all_countries = Country.query.all()
+        result = countries_schema.dump(all_countries)
+
+        return jsonify(result)
 
 # Read One
 @app.route('/countries/<id>', methods=['GET'])
@@ -385,8 +391,11 @@ def get_playlists():
 
         # 3. We start iterating all playlists
         
-        if success:
-            return 'Success'
+        if success: # Then get the playlists.
+            # Getting all playlists in DB
+            all_playlists = Playlist.query.all()
+            result = playlists_schema.dump(all_playlists)
+            return jsonify(result)
         else:
             return 'Not succesful'
         

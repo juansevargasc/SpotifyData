@@ -1,4 +1,6 @@
 # Data Engineering Starter Project
+Python service which provides an API to simulate some Spotify features. It is a system that saves Spotify data on a relational database, and can be accessed through an API. It can be accessed both through the API routes or through a connection to the Database.
+
 ### Spotify Service
 > Juan Sebastián Vargas C.
 > Loka - Data Analyst Intern
@@ -18,7 +20,7 @@
 
 5. Finally, you can run 
 `docker-compose exec pythonapp python3 make_pgdb.py`
-to create the Database. Now you'll be able to check the database.
+to create the Database. Now you'll be able to check the database. If you want to reset it you could use `docker-compose exec pythonapp python3 drop_pgdb.py` as well.
 
 You will see three containers:
 - The main app called `pythonapp`
@@ -32,6 +34,24 @@ You will see three containers:
   - **Database**: SpotifyDocker
 
 > You can change this configuration on the docker-compose.yml file
+
+### What you will see
+
+First go to the browser or use a tool such as Postman to check the API. Make the `GET` requests in this order (just for the very first time):
+   1. Countries
+   2. Playlists
+   3. Update Tracks Popularity
+   
+```
+http://127.0.0.1:4000/countries
+http://127.0.0.1:4000/Playlists
+http://127.0.0.1:4000/tracks/update-popularity
+```
+
+Then you can use the rest of the routes to pull: tracks, artists, albums, countries and playlists. You can use it as **Backend** service to serve a Frontend side, or you can connect a DataViz tool to create some nice **Visualizations**.
+
+Here you can check some!
+
 
 ### Docker Container
 Link to [Docker File](Dockerfile)
@@ -95,9 +115,9 @@ db.create_all() # It'll create the DB.
 8 directories, 49 files
 ```
 
-# Introduction
-Introduction
-Python service which provides an API to simulate some Spotify features. It is a system that saves Spotify data on a relational database, and can be accessed through an API. It can be accessed both through the API or a connection on top of the Database.
+# Description
+
+
 
 The source of information is the [Spotify web public API](https://developer.spotify.com/documentation/web-api/). The level of detail and data features are described below in the Model Section. To access the API data, a framework called Spotipy was used. The reasons for this are the following:
 - Makes the code more readable.
