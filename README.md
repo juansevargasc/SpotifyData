@@ -3,11 +3,39 @@
 > Juan Sebastián Vargas C.
 > Loka - Data Analyst Intern
 
+## Running the application 
+1. First get your Spotify Credentials on https://developer.spotify.com/dashboard/login. Register your app, making note of your **Client ID** and your **App Secret**. If you don't already have a Spotify account, you will need to create one. If you want to know more about the Spotify Web API, check [this article](https://kaylouisebennett.medium.com/getting-started-with-spotifys-web-api-part-1-cff30c1b23ef)
 
-## Running the application on a local environment
+2. Go to the [Docker Compose File](https://github.com/juansevargasc/DE-SpotifyProject/blob/main/docker-compose.yml), then go to the `pythonapp` section. Go to `environment` and fill the `SPOTIPY_CLIENT_ID` and `SPOTIPY_CLIENT_SECRET` variables, you can leave `SPOTIPY_REDIRECT_URI` as it is.
+
+3. Now go to your terminal and build the containers.
+   
+```docker-compose build```
+
+4. Now you can run them all detached.
+
+```docker-compose up -d```
+
+5. Finally, you can run 
+`docker-compose exec pythonapp python3 make_pgdb.py`
+to create the Database. Now you'll be able to check the database.
+
+You will see three containers:
+- The main app called `pythonapp`
+- The Postgres Database called `db`
+- PGAdmin, the graphical interface running to interact with the database. You can access it going to `http://127.0.0.1:8080` on your browser if you want.
+  - User: admin@admin.com, Password: admin.
+- If you want to connect the database to PGAdmin or to any other tool such a Dashboard Tool use:
+  - **Host**: db  (which is the name of the database container)
+  - **User**: spotifyuser
+  - **Password**: postgres
+  - **Database**: SpotifyDocker
+
+> You can change this configuration on the docker-compose.yml file
 
 ### Docker Container
-[Docker](Dockerfile)
+Link to [Docker File](Dockerfile)
+
 
 ### Requirements
 ```python

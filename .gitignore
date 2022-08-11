@@ -3,6 +3,7 @@ images/
 *.jpeg
 *.pdf
 
+postgres-data/
 
 __pycache__/
 
