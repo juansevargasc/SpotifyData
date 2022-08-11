@@ -51,7 +51,9 @@ http://127.0.0.1:4000/tracks/update-popularity
 Then you can use the rest of the routes to pull: tracks, artists, albums, countries and playlists. You can use it as **Backend** service to serve a Frontend side, or you can connect a DataViz tool to create some nice **Visualizations**.
 
 Here you can check some!
-[Artist Most Popular Track](https://github.com/juansevargasc/SpotifyData/blob/main/img/Artist%20Most%20Popular%20Track.jpg)
+![Artist Most Popular Track](https://github.com/juansevargasc/SpotifyData/blob/main/img/Artist%20Most%20Popular%20Track.jpg)
+![Followers per Artist](https://github.com/juansevargasc/SpotifyData/blob/main/img/Followers%20per%20Artist.jpg)
+![Tracks per album](https://github.com/juansevargasc/SpotifyData/blob/main/img/%23%20Tracks%20per%20Album.jpg)
 
 ### Docker Container
 Link to [Docker File](Dockerfile)
