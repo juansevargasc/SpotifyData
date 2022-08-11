@@ -12,7 +12,7 @@
    
 ```docker-compose build```
 
-4. Now you can run them all detached.
+4. Now you can run them all detached. 
 
 ```docker-compose up -d```
 
