@@ -6,7 +6,7 @@
 ## Running the application 
 1. First get your Spotify Credentials on https://developer.spotify.com/dashboard/login. Register your app, making note of your **Client ID** and your **App Secret**. If you don't already have a Spotify account, you will need to create one. If you want to know more about the Spotify Web API, check [this article](https://kaylouisebennett.medium.com/getting-started-with-spotifys-web-api-part-1-cff30c1b23ef)
 
-2. Go to the [Docker Compose File](https://github.com/juansevargasc/DE-SpotifyProject/blob/main/docker-compose.yml), then go to the `pythonapp` section. Go to `environment` and fill the `SPOTIPY_CLIENT_ID` and `SPOTIPY_CLIENT_SECRET` variables, you can leave `SPOTIPY_REDIRECT_URI` as it is.
+2. Go to the [Docker Compose File](https://github.com/juansevargasc/SpotifyData/blob/main/docker-compose.yml), then go to the `pythonapp` section. Go to `environment` and fill the `SPOTIPY_CLIENT_ID` and `SPOTIPY_CLIENT_SECRET` variables, you can leave `SPOTIPY_REDIRECT_URI` as it is.
 
 3. Now go to your terminal and build the containers.
    
