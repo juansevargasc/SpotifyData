@@ -1,9 +1,32 @@
-# Data Engineering Starter Project
+# Data Engineering Starter Project - Spotify Service
 Python service which provides an API to simulate some Spotify features. It is a system that saves Spotify data on a relational database, and can be accessed through an API. It can be accessed both through the API routes or through a connection to the Database.
-
-### Spotify Service
+### Author
 > Juan Sebastián Vargas C.
-> Loka - Data Analyst Intern
+
+# Description
+
+The source of information is the [Spotify web public API](https://developer.spotify.com/documentation/web-api/). The level of detail and data features are described below in the Model Section. To access the API data, a framework called Spotipy was used. The reasons for this are the following:
+- Makes the code more readable.
+- It is straightforward to use and understand.
+- Brings objects ready to use as python dictionaries and lists.
+
+[PostgreSQL](https://www.postgresql.org) was chosen as well, given it is one the best relational databases, supported by the community and frequently used in Data Engineering projects. 
+
+[Flask](https://flask.palletsprojects.com) framework was used given it is lightweight and works seamlessly with SQLAlchemy, a tool that was mandatory to this project. 
+
+A REST API was built using [Marshmallow](https://flask-marshmallow.readthedocs.io/en/latest/
+) to build JSON schemas, providing the DB objects fetched by SQLAlchemy.
+
+## Bonuses
+- [Running the application on a local environment](##Running-the-application-on-a-local-environment)
+- [Docker](###Docker-Container)
+- Data Transformation
+- [Directory Structure](###Tree-Structure)
+
+Here you can check some!
+![Artist Most Popular Track](https://github.com/juansevargasc/SpotifyData/blob/main/img/Artist%20Most%20Popular%20Track.jpg)
+![Followers per Artist](https://github.com/juansevargasc/SpotifyData/blob/main/img/Followers%20per%20Artist.jpg)
+![Tracks per album](https://github.com/juansevargasc/SpotifyData/blob/main/img/%23%20Tracks%20per%20Album.jpg)
 
 ## Running the application 
 1. First get your Spotify Credentials on https://developer.spotify.com/dashboard/login. Register your app, making note of your **Client ID** and your **App Secret**. If you don't already have a Spotify account, you will need to create one. If you want to know more about the Spotify Web API, check [this article](https://kaylouisebennett.medium.com/getting-started-with-spotifys-web-api-part-1-cff30c1b23ef)
@@ -51,10 +74,6 @@ http://127.0.0.1:4000/tracks/update-popularity
 
 Then you can use the rest of the routes to pull: tracks, artists, albums, countries and playlists. You can use it as **Backend** service to serve a Frontend side, or you can connect a DataViz tool to create some nice **Visualizations**.
 
-Here you can check some!
-![Artist Most Popular Track](https://github.com/juansevargasc/SpotifyData/blob/main/img/Artist%20Most%20Popular%20Track.jpg)
-![Followers per Artist](https://github.com/juansevargasc/SpotifyData/blob/main/img/Followers%20per%20Artist.jpg)
-![Tracks per album](https://github.com/juansevargasc/SpotifyData/blob/main/img/%23%20Tracks%20per%20Album.jpg)
 
 ### Docker Container
 Link to [Docker File](Dockerfile)
@@ -124,24 +143,3 @@ db.create_all() # It'll create the DB.
 8 directories, 49 files
 ```
 
-# Description
-
-
-
-The source of information is the [Spotify web public API](https://developer.spotify.com/documentation/web-api/). The level of detail and data features are described below in the Model Section. To access the API data, a framework called Spotipy was used. The reasons for this are the following:
-- Makes the code more readable.
-- It is straightforward to use and understand.
-- Brings objects ready to use as python dictionaries and lists.
-
-[PostgreSQL](https://www.postgresql.org) was chosen as well, given it is one the best relational databases, supported by the community and frequently used in Data Engineering projects. 
-
-[Flask](https://flask.palletsprojects.com) framework was used given it is lightweight and works seamlessly with SQLAlchemy, a tool that was mandatory to this project. 
-
-A REST API was built using [Marshmallow](https://flask-marshmallow.readthedocs.io/en/latest/
-) to build JSON schemas, providing the DB objects fetched by SQLAlchemy.
-
-## Bonuses
-- [Running the application on a local environment](##Running-the-application-on-a-local-environment)
-- [Docker](###Docker-Container)
-- Data Transformation
-- [Directory Structure](###Tree-Structure)
